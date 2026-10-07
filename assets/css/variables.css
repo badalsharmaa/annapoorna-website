@@ -1,42 +1,41 @@
 :root {
-    /* Color Palette */
-    --color-primary: #D9531E;       /* Authentic Indian Saffron / Terracotta */
-    --color-primary-dark: #B33D10;  /* Deep Spice */
-    --color-primary-light: #FDEFEA; /* Soft Saffron Tint */
+    /* Exact Live WordPress Palette */
+    --color-green: #4E9D3A;         /* Primary Brand Green: rgb(78, 157, 58) */
+    --color-green-dark: #3F822E;
+    --color-green-light: #EBF5E9;
     
-    --color-secondary: #FFB300;     /* Warm Turmeric Gold */
-    --color-secondary-light: #FFF8E1;
-    --color-accent: #2E7D32;        /* Pure Veg Leaf Green */
-    --color-accent-light: #E8F5E9;
+    --color-yellow: #FFCA01;        /* Accent Gold / Yellow */
+    --color-yellow-dark: #E6B800;
     
-    --color-dark: #1E2229;          /* Deep Charcoal / Near Black */
-    --color-charcoal: #2D3748;
-    --color-muted: #64748B;         /* Slate Grey */
-    --color-border: #E2E8F0;
+    --color-primary: var(--color-green);
+    --color-primary-dark: var(--color-green-dark);
+    --color-primary-light: var(--color-green-light);
+    --color-secondary: var(--color-yellow);
     
-    --color-bg-main: #FAF7F2;       /* Warm Ivory Page Canvas */
-    --color-bg-card: #FFFFFF;       /* Crisp White Surface */
-    --color-bg-alt: #F4EFE6;        /* Subtle Textured Section Bg */
+    --color-dark: #222222;
+    --color-charcoal: #444444;
+    --color-muted: #777777;
+    --color-border: #EAEAEA;
+    
+    --color-bg-main: #FFFFFF;
+    --color-bg-card: #FFFFFF;
+    --color-bg-alt: #F9F9F9;
     
     /* Typography */
     --font-heading: 'Marcellus', serif;
-    --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-body: 'Poppins', sans-serif;
     
-    /* Spacing & Sizing */
-    --container-max: 1200px;
-    --container-narrow: 960px;
-    --nav-height: 80px;
+    /* Sizing & Borders */
+    --container-max: 1240px;
     --radius-sm: 6px;
+    --radius-btn: 10px;             /* 10px rounded buttons matching Elementor */
     --radius-md: 12px;
-    --radius-lg: 20px;
-    --radius-full: 9999px;
+    --radius-lg: 16px;
     
     /* Shadows */
-    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.04);
-    --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.08);
-    --shadow-lg: 0 16px 36px rgba(0, 0, 0, 0.12);
+    --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 6px 20px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.12);
     
-    /* Transitions */
     --transition-fast: 0.2s ease;
-    --transition-base: 0.3s ease;
 }
