@@ -1,0 +1,76 @@
+# ==============================================================================
+# Annapoorna Restaurant - High Performance & Clean URL Apache Configuration
+# ==============================================================================
+
+Options -Indexes +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+# ------------------------------------------------------------------------------
+# 1. Enforce HTTPS & Canonical Host
+# ------------------------------------------------------------------------------
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# ------------------------------------------------------------------------------
+# 2. Legacy WordPress 301 Permanent Redirects
+# ------------------------------------------------------------------------------
+RewriteRule ^about-us/?$ /about [R=301,L]
+RewriteRule ^marathi-menu/?$ /menu?cat=marathi [R=301,L]
+RewriteRule ^north-indian-menu-2/?$ /menu?cat=north-indian [R=301,L]
+RewriteRule ^indo-chinese-menu-2/?$ /menu?cat=indo-chinese [R=301,L]
+RewriteRule ^speciality-items/?$ /menu?cat=specialties [R=301,L]
+RewriteRule ^catering-services/?$ /catering [R=301,L]
+RewriteRule ^annapoorna-catering-menu/?$ /catering [R=301,L]
+RewriteRule ^chitale-bandhu-products/?$ /chitale-products [R=301,L]
+RewriteRule ^chitale-shop/?$ /chitale-products [R=301,L]
+RewriteRule ^contact-us/?$ /contact [R=301,L]
+RewriteRule ^privacy-policy/?$ /privacy [R=301,L]
+RewriteRule ^terms-and-conditions/?$ /terms [R=301,L]
+
+# ------------------------------------------------------------------------------
+# 3. Clean Extensionless URLs
+# ------------------------------------------------------------------------------
+# If file exists as .php, serve it seamlessly without trailing .php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# ------------------------------------------------------------------------------
+# 4. Custom Error Handling
+# ------------------------------------------------------------------------------
+ErrorDocument 404 /404.php
+
+# ------------------------------------------------------------------------------
+# 5. Security Headers
+# ------------------------------------------------------------------------------
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# ------------------------------------------------------------------------------
+# 6. Gzip / Deflate Compression
+# ------------------------------------------------------------------------------
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css
+    AddOutputFilterByType DEFLATE text/javascript application/javascript application/json
+    AddOutputFilterByType DEFLATE image/svg+xml image/x-icon
+</IfModule>
+
+# ------------------------------------------------------------------------------
+# 7. Browser Caching for Performance
+# ------------------------------------------------------------------------------
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType application/json "access plus 1 day"
+</IfModule>

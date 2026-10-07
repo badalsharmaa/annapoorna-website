@@ -1,0 +1,274 @@
+{
+  "categories": [
+    {
+      "id": "marathi-specials",
+      "name": "Marathi Specials",
+      "description": "Traditional recipes crafted with authentic Maharashtrian spices and fresh ingredients",
+      "items": [
+        {
+          "name": "Kothimbir Vadi (6 pcs)",
+          "price": "$10.50",
+          "description": "Crispy cilantro and besan savory cakes steamed and fried to golden perfection, served with sweet and spicy chutneys.",
+          "tags": ["Chef's Special", "Vegan"],
+          "image": "/assets/images/menu/kothimbir-vadi.jpg"
+        },
+        {
+          "name": "Sabudana Vada (2 pcs)",
+          "price": "$9.50",
+          "description": "Crunchy golden sago patties blended with crushed peanuts, green chilies, and potatoes. Served with peanut sweet yogurt chutney.",
+          "tags": ["Fasting Special", "Gluten-Free"],
+          "image": "/assets/images/menu/sabudana-vada.jpg"
+        },
+        {
+          "name": "Sabudana Khichdi",
+          "price": "$11.00",
+          "description": "Fluffy tapioca pearls tossed with roasted peanuts, cumin, curry leaves, and green chilies.",
+          "tags": ["Fasting Special", "Gluten-Free"]
+        },
+        {
+          "name": "Thalipeeth (2 pcs)",
+          "price": "$13.50",
+          "description": "Nutritious multi-grain Maharashtrian flatbread served with fresh homemade white butter (loni) and thecha.",
+          "tags": ["Healthy", "Vegetarian"]
+        },
+        {
+          "name": "Puran Poli (2 pcs)",
+          "price": "$12.00",
+          "description": "Traditional sweet flatbread stuffed with delicate spiced chana dal and jaggery, topped with warm pure ghee.",
+          "tags": ["Sweet Specialty"]
+        },
+        {
+          "name": "Alu Vadi (Patra)",
+          "price": "$10.50",
+          "description": "Colocasia leaves layered with spiced gram flour paste, rolled, steamed, and pan-fried with mustard and sesame seeds.",
+          "tags": ["Vegan", "Traditional"]
+        }
+      ]
+    },
+    {
+      "id": "mumbai-street-food",
+      "name": "Mumbai Street Snacks & Chaat",
+      "description": "Iconic, tangy, spicy, and irresistible street food straight from Chowpatty and Mumbai corners",
+      "items": [
+        {
+          "name": "Annapoorna Special Vada Pav",
+          "price": "$4.50",
+          "description": "Spiced golden potato patty tucked into a soft pav with garlic chutney, green mint chutney, and fried green chili.",
+          "tags": ["Popular", "Street Icon"],
+          "image": "/assets/images/menu/vada-pav.png"
+        },
+        {
+          "name": "Kolhapuri Misal Pav",
+          "price": "$13.00",
+          "description": "Zesty, fiery sprouted moth bean curry topped with crisp farsan, chopped onions, and lemon, served with two soft pavs.",
+          "tags": ["Spicy", "Chef's Special"],
+          "image": "/assets/images/menu/misal-pav.jpg"
+        },
+        {
+          "name": "Pav Bhaji",
+          "price": "$13.50",
+          "description": "Richly spiced mashed mixed vegetable bhaji cooked on a flat tawa with generous butter, served with toasted butter pavs.",
+          "tags": ["Bestseller"]
+        },
+        {
+          "name": "Sev Puri",
+          "price": "$9.50",
+          "description": "Crisp puris loaded with seasoned potatoes, onions, trio of chutneys, and a blanket of nylon sev.",
+          "tags": ["Chaat", "Vegetarian"]
+        },
+        {
+          "name": "Bhel Puri",
+          "price": "$9.00",
+          "description": "Crisp puffed rice tossed with papdi, onions, tomatoes, raw mango (seasonal), and tangy tamarind-mint sauces.",
+          "tags": ["Vegan", "Light"]
+        },
+        {
+          "name": "Dahi Puri",
+          "price": "$10.50",
+          "description": "Puffed puris filled with spiced potatoes, sweet spiced yogurt, sweet date chutney, and crunchy sev.",
+          "tags": ["Chaat Favorite"]
+        },
+        {
+          "name": "Pani Puri (Gol Gappa)",
+          "price": "$9.00",
+          "description": "Crisp hollow puris served with spiced ragda or potatoes and chilled tangy mint-coriander pani.",
+          "tags": ["Classic"]
+        }
+      ]
+    },
+    {
+      "id": "combo-thali",
+      "name": "Combo Thalis & Meals",
+      "description": "Complete, nourishing vegetarian feasts prepared fresh daily",
+      "items": [
+        {
+          "name": "Express Thali (Lunch Special M-F)",
+          "price": "$15.00",
+          "description": "2 Fresh Rotis, 1 Veg Entrée of your choice, Daal of the day, Steamed Basmati Rice, Pickle, and Papad.",
+          "tags": ["Weekday Value", "Full Meal"]
+        },
+        {
+          "name": "Full Annapoorna Combo Thali",
+          "price": "$18.50",
+          "description": "2 Rotis, 2 Veg Entrées, Special Amti / Daal, Rice, Kothimbir Vadi, Raita, Dessert, Pickle, and Papad.",
+          "tags": ["Grand Feast", "Bestseller"]
+        },
+        {
+          "name": "Paratha Meal Special",
+          "price": "$18.50",
+          "description": "Choice of 2 Stuffed Parathas (Aloo, Gobi, or Paneer), served with seasoned curd/raita, butter, and mixed pickle.",
+          "tags": ["Hearty Meal"]
+        }
+      ]
+    },
+    {
+      "id": "north-indian",
+      "name": "North Indian Curries & Breads",
+      "description": "Aromatic curries, rich gravies, and whole-wheat breads made to order",
+      "items": [
+        {
+          "name": "Paneer Butter Masala",
+          "price": "$14.50",
+          "description": "Soft cottage cheese cubes simmered in a luscious, velvety tomato-butter-cream gravy with fragrant kasuri methi.",
+          "tags": ["Bestseller", "Jain Available"]
+        },
+        {
+          "name": "Palak Paneer",
+          "price": "$14.50",
+          "description": "Tender paneer cubes cooked in a vibrant, spiced pureed spinach sauce with mild garlic and cumin.",
+          "tags": ["Nutritious"]
+        },
+        {
+          "name": "Daal Makhani",
+          "price": "$13.50",
+          "description": "Slow-cooked black lentils and kidney beans simmered overnight with tomatoes, fresh cream, and butter.",
+          "tags": ["Creamy Classic"]
+        },
+        {
+          "name": "Yellow Daal Tadka",
+          "price": "$12.00",
+          "description": "Yellow toor lentils tempered with cumin seeds, garlic, mustard seeds, and fresh coriander.",
+          "tags": ["Comfort Food", "Vegan"]
+        },
+        {
+          "name": "Chole Bhature",
+          "price": "$14.00",
+          "description": "Spiced Amritsari chickpea curry served with two puffed golden bhaturas, pickled onions, and chili.",
+          "tags": ["Crowd Favorite"]
+        },
+        {
+          "name": "Tandoori Butter Naan / Garlic Naan",
+          "price": "$4.00",
+          "description": "Freshly baked clay-oven flatbread brushed with butter or minced garlic and cilantro.",
+          "tags": ["Bread"]
+        },
+        {
+          "name": "Tawa Roti (2 pcs)",
+          "price": "$3.50",
+          "description": "Thin whole-wheat homestyle flatbread brushed with pure ghee.",
+          "tags": ["Healthy"]
+        }
+      ]
+    },
+    {
+      "id": "indo-chinese",
+      "name": "Indo-Chinese Delicacies",
+      "description": "Wok-tossed Indo-Chinese fusion favorites packed with garlic, scallions, and peppers",
+      "items": [
+        {
+          "name": "Vegetable Hakka Noodles",
+          "price": "$13.50",
+          "description": "Thin noodles stir-fried with julienned vegetables, cabbage, bell peppers, and light soy seasoning in a fiery wok.",
+          "tags": ["Wok Special"]
+        },
+        {
+          "name": "Veg Manchurian (Dry or Gravy)",
+          "price": "$14.00",
+          "description": "Crispy vegetable dumplings tossed in a robust ginger, garlic, chili, and soy glaze.",
+          "tags": ["Popular"]
+        },
+        {
+          "name": "Chili Paneer (Dry or Gravy)",
+          "price": "$14.50",
+          "description": "Crisp battered paneer cubes wok-tossed with green chilies, onions, and crisp bell peppers in tangy chili sauce.",
+          "tags": ["Spicy"]
+        },
+        {
+          "name": "Schezwan Fried Rice",
+          "price": "$13.50",
+          "description": "Fragrant basmati rice stir-fried with diced vegetables and our house-made spicy Sichuan chili-garlic paste.",
+          "tags": ["Spicy", "Vegan"]
+        }
+      ]
+    },
+    {
+      "id": "chitale-bandhu",
+      "name": "Chitale Bandhu Pune Products",
+      "description": "World-famous authentic Pune sweets, savory namkeens, and bakarwadi directly available in the Bay Area",
+      "items": [
+        {
+          "name": "Chitale Bandhu Bakarwadi (500g)",
+          "price": "$9.99",
+          "description": "The legend of Pune! Crispy spirals filled with spicy, tangy coconut and poppy seed masala. Irresistible crunch.",
+          "tags": ["Exclusive", "Pune Special"],
+          "image": "/assets/images/menu/bakarwadi.webp"
+        },
+        {
+          "name": "Chitale Mango Burfi (Amba Burfi)",
+          "price": "$11.99",
+          "description": "Rich Alphonso mango pulp fused with creamy mawa, cardamom, and silver vark.",
+          "tags": ["Sweet Special"]
+        },
+        {
+          "name": "Rajkot Pedha",
+          "price": "$11.99",
+          "description": "Rich traditional caramelized mawa sweet crafted according to time-honored artisanal recipes.",
+          "tags": ["Artisanal Sweet"]
+        },
+        {
+          "name": "Chitale Special Chivda & BingeBar",
+          "price": "$7.99",
+          "description": "Puffed rice snacks and roasted treats perfect for tea-time or fasting occasions.",
+          "tags": ["Namkeen"]
+        }
+      ]
+    },
+    {
+      "id": "desserts-drinks",
+      "name": "Desserts & Refreshing Drinks",
+      "description": "Homestyle traditional desserts and authentic regional refreshments",
+      "items": [
+        {
+          "name": "Traditional Piyush",
+          "price": "$5.50",
+          "description": "Classic Maharashtrian beverage made with sweet shrikhand, yogurt, cardamom, and saffron. Rich and creamy.",
+          "tags": ["Marathi Classic"]
+        },
+        {
+          "name": "Mango Lassi",
+          "price": "$5.00",
+          "description": "Chilled smooth yogurt blended with Alphonso mango pulp and a touch of cardamom.",
+          "tags": ["Refreshing"]
+        },
+        {
+          "name": "Kokum Sarbat",
+          "price": "$4.50",
+          "description": "Digestive, cooling Konkan cooler infused with kokum fruit extract, roasted cumin, and black salt.",
+          "tags": ["Cooler", "Vegan"]
+        },
+        {
+          "name": "Masala Chai",
+          "price": "$3.50",
+          "description": "Aromatic hot tea brewed with whole milk, fresh ginger, crushed cardamom, and Indian spice blend.",
+          "tags": ["Hot Beverage"]
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": "$5.00",
+          "description": "Warm golden milk-solid dumplings soaked in rose and cardamom-scented sugar syrup.",
+          "tags": ["Sweet"]
+        }
+      ]
+    }
+  ]
+}

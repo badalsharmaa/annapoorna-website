@@ -1,0 +1,42 @@
+:root {
+    /* Color Palette */
+    --color-primary: #D9531E;       /* Authentic Indian Saffron / Terracotta */
+    --color-primary-dark: #B33D10;  /* Deep Spice */
+    --color-primary-light: #FDEFEA; /* Soft Saffron Tint */
+    
+    --color-secondary: #FFB300;     /* Warm Turmeric Gold */
+    --color-secondary-light: #FFF8E1;
+    --color-accent: #2E7D32;        /* Pure Veg Leaf Green */
+    --color-accent-light: #E8F5E9;
+    
+    --color-dark: #1E2229;          /* Deep Charcoal / Near Black */
+    --color-charcoal: #2D3748;
+    --color-muted: #64748B;         /* Slate Grey */
+    --color-border: #E2E8F0;
+    
+    --color-bg-main: #FAF7F2;       /* Warm Ivory Page Canvas */
+    --color-bg-card: #FFFFFF;       /* Crisp White Surface */
+    --color-bg-alt: #F4EFE6;        /* Subtle Textured Section Bg */
+    
+    /* Typography */
+    --font-heading: 'Marcellus', serif;
+    --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    
+    /* Spacing & Sizing */
+    --container-max: 1200px;
+    --container-narrow: 960px;
+    --nav-height: 80px;
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --radius-full: 9999px;
+    
+    /* Shadows */
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.04);
+    --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 16px 36px rgba(0, 0, 0, 0.12);
+    
+    /* Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-base: 0.3s ease;
+}

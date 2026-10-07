@@ -1,0 +1,12 @@
+# Credentials & Secrets
+.hursh.ssh-hostinger-access
+*.env
+*.pem
+*.key
+
+# Database backups & dumps
+*.sql
+*.sql.gz
+
+# macOS system files
+.DS_Store
