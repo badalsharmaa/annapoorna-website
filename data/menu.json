@@ -1,272 +1,930 @@
 {
   "categories": [
     {
-      "id": "marathi-specials",
-      "name": "Marathi Specials",
-      "description": "Traditional recipes crafted with authentic Maharashtrian spices and fresh ingredients",
+      "id": "snacks--mumbai-special",
+      "name": "Snacks  (Mumbai Special)",
       "items": [
         {
-          "name": "Kothimbir Vadi (6 pcs)",
-          "price": "$10.50",
-          "description": "Crispy cilantro and besan savory cakes steamed and fried to golden perfection, served with sweet and spicy chutneys.",
-          "tags": ["Chef's Special", "Vegan"],
-          "image": "/assets/images/menu/kothimbir-vadi.jpg"
+          "name": "Batata Vada Plate",
+          "price": "$7.00",
+          "description": ""
         },
         {
-          "name": "Sabudana Vada (2 pcs)",
-          "price": "$9.50",
-          "description": "Crunchy golden sago patties blended with crushed peanuts, green chilies, and potatoes. Served with peanut sweet yogurt chutney.",
-          "tags": ["Fasting Special", "Gluten-Free"],
-          "image": "/assets/images/menu/sabudana-vada.jpg"
+          "name": "Kothimbir Vadi",
+          "price": "$7.50",
+          "description": ""
         },
         {
-          "name": "Sabudana Khichdi",
-          "price": "$11.00",
-          "description": "Fluffy tapioca pearls tossed with roasted peanuts, cumin, curry leaves, and green chilies.",
-          "tags": ["Fasting Special", "Gluten-Free"]
+          "name": "Misal (Kolhapur) Paav",
+          "price": "$11.50",
+          "description": ""
         },
         {
-          "name": "Thalipeeth (2 pcs)",
-          "price": "$13.50",
-          "description": "Nutritious multi-grain Maharashtrian flatbread served with fresh homemade white butter (loni) and thecha.",
-          "tags": ["Healthy", "Vegetarian"]
+          "name": "Mumbai Misal Paav",
+          "price": "$11.50",
+          "description": ""
         },
         {
-          "name": "Puran Poli (2 pcs)",
-          "price": "$12.00",
-          "description": "Traditional sweet flatbread stuffed with delicate spiced chana dal and jaggery, topped with warm pure ghee.",
-          "tags": ["Sweet Specialty"]
+          "name": "Timepass Tarri Paav",
+          "price": "$5.00",
+          "description": ""
         },
         {
-          "name": "Alu Vadi (Patra)",
-          "price": "$10.50",
-          "description": "Colocasia leaves layered with spiced gram flour paste, rolled, steamed, and pan-fried with mustard and sesame seeds.",
-          "tags": ["Vegan", "Traditional"]
+          "name": "Vada Misal",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Kande Pohe",
+          "price": "$14.00",
+          "description": ""
+        },
+        {
+          "name": "Sabudana Vada Plate",
+          "price": "$8.00",
+          "description": ""
+        },
+        {
+          "name": "Sabudana Khichadi",
+          "price": "$14.00",
+          "description": ""
+        },
+        {
+          "name": "Bhajani Thalipeeth",
+          "price": "$14.00",
+          "description": ""
+        },
+        {
+          "name": "Sabudana Thalipeeth",
+          "price": "$14.00",
+          "description": ""
+        },
+        {
+          "name": "Vada Paav",
+          "price": "$4.50",
+          "description": ""
+        },
+        {
+          "name": "Chura (Crunchy) Vada Paav",
+          "price": "$6.50",
+          "description": ""
+        },
+        {
+          "name": "Thechha Vada Paav",
+          "price": "$6.50",
+          "description": ""
+        },
+        {
+          "name": "Cheesy Garlic Vada Paav",
+          "price": "$7.50",
+          "description": ""
+        },
+        {
+          "name": "Schezwan Vada Paav",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Masala Vada Paav",
+          "price": "$5.50",
+          "description": ""
+        },
+        {
+          "name": "Kachhi Vada Paav",
+          "price": "$6.50",
+          "description": ""
+        },
+        {
+          "name": "Tambda Vada Paav",
+          "price": "$6.00",
+          "description": ""
         }
       ]
     },
     {
-      "id": "mumbai-street-food",
-      "name": "Mumbai Street Snacks & Chaat",
-      "description": "Iconic, tangy, spicy, and irresistible street food straight from Chowpatty and Mumbai corners",
+      "id": "snacks--mumbai-special",
+      "name": "Snacks  (Mumbai Special)",
       "items": [
         {
-          "name": "Annapoorna Special Vada Pav",
-          "price": "$4.50",
-          "description": "Spiced golden potato patty tucked into a soft pav with garlic chutney, green mint chutney, and fried green chili.",
-          "tags": ["Popular", "Street Icon"],
-          "image": "/assets/images/menu/vada-pav.png"
+          "name": "Masala Paav Bhaaji (Spicy)",
+          "price": "$14.00",
+          "description": ""
         },
         {
-          "name": "Kolhapuri Misal Pav",
+          "name": "Paav Bhaaji",
           "price": "$13.00",
-          "description": "Zesty, fiery sprouted moth bean curry topped with crisp farsan, chopped onions, and lemon, served with two soft pavs.",
-          "tags": ["Spicy", "Chef's Special"],
-          "image": "/assets/images/menu/misal-pav.jpg"
+          "description": ""
         },
         {
-          "name": "Pav Bhaji",
+          "name": "Amul Cheese Paav Bhaaji",
+          "price": "$15.00",
+          "description": ""
+        },
+        {
+          "name": "Dabeli",
+          "price": "$8.00",
+          "description": ""
+        },
+        {
+          "name": "Samosa Plate",
+          "price": "$5.50",
+          "description": ""
+        },
+        {
+          "name": "Chole Puri",
           "price": "$13.50",
-          "description": "Richly spiced mashed mixed vegetable bhaji cooked on a flat tawa with generous butter, served with toasted butter pavs.",
-          "tags": ["Bestseller"]
+          "description": ""
         },
         {
-          "name": "Sev Puri",
-          "price": "$9.50",
-          "description": "Crisp puris loaded with seasoned potatoes, onions, trio of chutneys, and a blanket of nylon sev.",
-          "tags": ["Chaat", "Vegetarian"]
+          "name": "Chole Bhatura",
+          "price": "$17.00",
+          "description": ""
         },
+        {
+          "name": "Samosa Paav",
+          "price": "$5.50",
+          "description": ""
+        },
+        {
+          "name": "Vegetable Cutlets",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Khasta Kachori",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Bread Pakoda",
+          "price": "$9.00",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "wraps-frankie-sandwiches--burgers",
+      "name": "Wraps/Frankie/Sandwiches/ Burgers",
+      "items": [
         {
           "name": "Bhel Puri",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Paani Puri",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Sev Batata Puri",
+          "price": "$8.00",
+          "description": ""
+        },
+        {
+          "name": "Dahi (Yogurt), Sev Batata Puri",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Dahi (Yogurt), Sev Batata Puri",
           "price": "$9.00",
-          "description": "Crisp puffed rice tossed with papdi, onions, tomatoes, raw mango (seasonal), and tangy tamarind-mint sauces.",
-          "tags": ["Vegan", "Light"]
+          "description": ""
         },
         {
-          "name": "Dahi Puri",
-          "price": "$10.50",
-          "description": "Puffed puris filled with spiced potatoes, sweet spiced yogurt, sweet date chutney, and crunchy sev.",
-          "tags": ["Chaat Favorite"]
+          "name": "Samosa Chaat",
+          "price": "$8.50",
+          "description": ""
         },
         {
-          "name": "Pani Puri (Gol Gappa)",
+          "name": "Aloo Tikki Chaat",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Ragda Patties",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "JAIN Sev Puri",
+          "price": "$8.00",
+          "description": ""
+        },
+        {
+          "name": "JAIN Dahi (Yogurt) Sev Puri",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "JAIN Dahi (Yogurt) Sev Puri",
           "price": "$9.00",
-          "description": "Crisp hollow puris served with spiced ragda or potatoes and chilled tangy mint-coriander pani.",
-          "tags": ["Classic"]
-        }
-      ]
-    },
-    {
-      "id": "combo-thali",
-      "name": "Combo Thalis & Meals",
-      "description": "Complete, nourishing vegetarian feasts prepared fresh daily",
-      "items": [
-        {
-          "name": "Express Thali (Lunch Special M-F)",
-          "price": "$15.00",
-          "description": "2 Fresh Rotis, 1 Veg Entrée of your choice, Daal of the day, Steamed Basmati Rice, Pickle, and Papad.",
-          "tags": ["Weekday Value", "Full Meal"]
+          "description": ""
         },
         {
-          "name": "Full Annapoorna Combo Thali",
-          "price": "$18.50",
-          "description": "2 Rotis, 2 Veg Entrées, Special Amti / Daal, Rice, Kothimbir Vadi, Raita, Dessert, Pickle, and Papad.",
-          "tags": ["Grand Feast", "Bestseller"]
+          "name": "Sev Puri Sandwich",
+          "price": "$11.00",
+          "description": ""
         },
         {
-          "name": "Paratha Meal Special",
-          "price": "$18.50",
-          "description": "Choice of 2 Stuffed Parathas (Aloo, Gobi, or Paneer), served with seasoned curd/raita, butter, and mixed pickle.",
-          "tags": ["Hearty Meal"]
-        }
-      ]
-    },
-    {
-      "id": "north-indian",
-      "name": "North Indian Curries & Breads",
-      "description": "Aromatic curries, rich gravies, and whole-wheat breads made to order",
-      "items": [
-        {
-          "name": "Paneer Butter Masala",
-          "price": "$14.50",
-          "description": "Soft cottage cheese cubes simmered in a luscious, velvety tomato-butter-cream gravy with fragrant kasuri methi.",
-          "tags": ["Bestseller", "Jain Available"]
+          "name": "Raj Kachori",
+          "price": "$11.00",
+          "description": ""
         },
         {
-          "name": "Palak Paneer",
-          "price": "$14.50",
-          "description": "Tender paneer cubes cooked in a vibrant, spiced pureed spinach sauce with mild garlic and cumin.",
-          "tags": ["Nutritious"]
+          "name": "Bhel Kachori",
+          "price": "$10.00",
+          "description": ""
         },
         {
-          "name": "Daal Makhani",
-          "price": "$13.50",
-          "description": "Slow-cooked black lentils and kidney beans simmered overnight with tomatoes, fresh cream, and butter.",
-          "tags": ["Creamy Classic"]
-        },
-        {
-          "name": "Yellow Daal Tadka",
+          "name": "Lachha Kachori / Katori Basket",
           "price": "$12.00",
-          "description": "Yellow toor lentils tempered with cumin seeds, garlic, mustard seeds, and fresh coriander.",
-          "tags": ["Comfort Food", "Vegan"]
+          "description": ""
         },
         {
-          "name": "Chole Bhature",
-          "price": "$14.00",
-          "description": "Spiced Amritsari chickpea curry served with two puffed golden bhaturas, pickled onions, and chili.",
-          "tags": ["Crowd Favorite"]
+          "name": "Indo-Chinese Bhel",
+          "price": "$7.50",
+          "description": ""
         },
         {
-          "name": "Tandoori Butter Naan / Garlic Naan",
-          "price": "$4.00",
-          "description": "Freshly baked clay-oven flatbread brushed with butter or minced garlic and cilantro.",
-          "tags": ["Bread"]
-        },
-        {
-          "name": "Tawa Roti (2 pcs)",
-          "price": "$3.50",
-          "description": "Thin whole-wheat homestyle flatbread brushed with pure ghee.",
-          "tags": ["Healthy"]
+          "name": "Chaat Pakwan",
+          "price": "$8.50",
+          "description": ""
         }
       ]
     },
     {
-      "id": "indo-chinese",
-      "name": "Indo-Chinese Delicacies",
-      "description": "Wok-tossed Indo-Chinese fusion favorites packed with garlic, scallions, and peppers",
+      "id": "wraps-frankie-sandwiches--burgers",
+      "name": "Wraps/Frankie/Sandwiches/ Burgers",
       "items": [
         {
-          "name": "Vegetable Hakka Noodles",
-          "price": "$13.50",
-          "description": "Thin noodles stir-fried with julienned vegetables, cabbage, bell peppers, and light soy seasoning in a fiery wok.",
-          "tags": ["Wok Special"]
+          "name": "Vegetable Grilled Sandwich \u2605",
+          "price": "$11.50",
+          "description": ""
         },
         {
-          "name": "Veg Manchurian (Dry or Gravy)",
+          "name": "Paneer Grilled Sandwich",
+          "price": "$11.50",
+          "description": ""
+        },
+        {
+          "name": "Chili Cheese Toast (Sandwich) \u2605",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Sev Puri Sandwich \u2605",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Grilled Cheese Sandwich",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Samosa Grilled Sandwich",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Crispy Paneer Burger",
+          "price": "$9.50",
+          "description": ""
+        },
+        {
+          "name": "Green Patty Burger",
+          "price": "$9.50",
+          "description": ""
+        },
+        {
+          "name": "Jain Burger \u2605",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Tikki Burger (Aloo)",
+          "price": "$10.00",
+          "description": ""
+        },
+        {
+          "name": "Bombay Frankie",
+          "price": "$10.00",
+          "description": ""
+        },
+        {
+          "name": "Bombay Frankie",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Paneer Tikka Frankie",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "JAIN Chatpata Paneer Frankie",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Bombay Paneer Frankie",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Chili Paneer Frankie",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Bombay Schezwan Frankie",
+          "price": "$10.00",
+          "description": ""
+        },
+        {
+          "name": "Manchurian Frankie",
+          "price": "$10.00",
+          "description": ""
+        },
+        {
+          "name": "Bombay Noodles Frankie",
+          "price": "$10.00",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "full-combo-thali",
+      "name": "FULL COMBO THALI",
+      "items": [
+        {
+          "name": "Sukhi Batata Bhaaji",
           "price": "$14.00",
-          "description": "Crispy vegetable dumplings tossed in a robust ginger, garlic, chili, and soy glaze.",
-          "tags": ["Popular"]
+          "description": ""
         },
         {
-          "name": "Chili Paneer (Dry or Gravy)",
+          "name": "Matki Usal",
+          "price": "$14.00",
+          "description": ""
+        },
+        {
+          "name": "Bharli Vangi",
+          "price": "$14.00",
+          "description": ""
+        },
+        {
+          "name": "Zunka",
+          "price": "$14.00",
+          "description": ""
+        },
+        {
+          "name": "Veg Kolhapuri",
           "price": "$14.50",
-          "description": "Crisp battered paneer cubes wok-tossed with green chilies, onions, and crisp bell peppers in tangy chili sauce.",
-          "tags": ["Spicy"]
+          "description": ""
         },
         {
-          "name": "Schezwan Fried Rice",
+          "name": "Kadhai Paneer",
+          "price": "$14.50",
+          "description": ""
+        },
+        {
+          "name": "Aloo Palak",
           "price": "$13.50",
-          "description": "Fragrant basmati rice stir-fried with diced vegetables and our house-made spicy Sichuan chili-garlic paste.",
-          "tags": ["Spicy", "Vegan"]
+          "description": ""
+        },
+        {
+          "name": "Chana Masala (Garbanzo Beans)",
+          "price": "$13.50",
+          "description": ""
+        },
+        {
+          "name": "Paneer Makhani (Not Spicy)",
+          "price": "$14.50",
+          "description": ""
         }
       ]
     },
     {
-      "id": "chitale-bandhu",
-      "name": "Chitale Bandhu Pune Products",
-      "description": "World-famous authentic Pune sweets, savory namkeens, and bakarwadi directly available in the Bay Area",
+      "id": "special-marathi-entr\u00e9e-no-rice-or-roti",
+      "name": "Special Marathi Entr\u00e9e No Rice or Roti",
       "items": [
         {
-          "name": "Chitale Bandhu Bakarwadi (500g)",
-          "price": "$9.99",
-          "description": "The legend of Pune! Crispy spirals filled with spicy, tangy coconut and poppy seed masala. Irresistible crunch.",
-          "tags": ["Exclusive", "Pune Special"],
-          "image": "/assets/images/menu/bakarwadi.webp"
+          "name": "Zunka (12oz), Bhakri (1), Thecha, Ghee",
+          "price": "$17.50",
+          "description": ""
         },
         {
-          "name": "Chitale Mango Burfi (Amba Burfi)",
-          "price": "$11.99",
-          "description": "Rich Alphonso mango pulp fused with creamy mawa, cardamom, and silver vark.",
-          "tags": ["Sweet Special"]
+          "name": "Bharli Vangi (12oz), Bhakri (1), Thecha, Ghee",
+          "price": "$17.50",
+          "description": ""
         },
         {
-          "name": "Rajkot Pedha",
-          "price": "$11.99",
-          "description": "Rich traditional caramelized mawa sweet crafted according to time-honored artisanal recipes.",
-          "tags": ["Artisanal Sweet"]
+          "name": "Veg Maratha , Bhakri (1), Thecha, Ghee",
+          "price": "$17.50",
+          "description": ""
         },
         {
-          "name": "Chitale Special Chivda & BingeBar",
-          "price": "$7.99",
-          "description": "Puffed rice snacks and roasted treats perfect for tea-time or fasting occasions.",
-          "tags": ["Namkeen"]
+          "name": "Akkha Massor, Bhakri (1), Thecha, Ghee",
+          "price": "$17.50",
+          "description": ""
+        },
+        {
+          "name": "Shev Bhaaji, Bhakri (1), Thecha, Ghee",
+          "price": "$17.50",
+          "description": ""
+        },
+        {
+          "name": "Puri (2), Shrikhand and Sukhi Batata Bhaaji",
+          "price": "$21.00",
+          "description": ""
+        },
+        {
+          "name": "Puri (2), Basundi and Sukhi Batata Bhaaji",
+          "price": "$20.00",
+          "description": ""
+        },
+        {
+          "name": "Puri (2), Amaras and Sukhi Batata Bhaaji",
+          "price": "$21.00",
+          "description": ""
+        },
+        {
+          "name": "Puri Aamras",
+          "price": "$15.00",
+          "description": ""
+        },
+        {
+          "name": "Puri Shrikhand",
+          "price": "$15.00",
+          "description": ""
         }
       ]
     },
     {
-      "id": "desserts-drinks",
-      "name": "Desserts & Refreshing Drinks",
-      "description": "Homestyle traditional desserts and authentic regional refreshments",
+      "id": "paratha-meals---$18.50",
+      "name": "Paratha Meals - $18.50",
       "items": [
         {
-          "name": "Traditional Piyush",
-          "price": "$5.50",
-          "description": "Classic Maharashtrian beverage made with sweet shrikhand, yogurt, cardamom, and saffron. Rich and creamy.",
-          "tags": ["Marathi Classic"]
+          "name": "Any Paratha (1 Piece)",
+          "price": "",
+          "description": ""
+        },
+        {
+          "name": "Any Entr\u00e9e, Raita and Pickle",
+          "price": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "parathas",
+      "name": "Parathas",
+      "items": [
+        {
+          "name": "Aloo Paratha",
+          "price": "$9.50",
+          "description": ""
+        },
+        {
+          "name": "Sabji Paratha",
+          "price": "$9.50",
+          "description": ""
+        },
+        {
+          "name": "Methi Paratha",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Paneer Paratha",
+          "price": "$9.50",
+          "description": ""
+        },
+        {
+          "name": "Masala Daal (Spicy)",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Tadka Daal (16oz) (Jain)",
+          "price": "$10.00",
+          "description": ""
+        },
+        {
+          "name": "Veg Maratha",
+          "price": "$15.00",
+          "description": ""
+        },
+        {
+          "name": "Akkha Massor",
+          "price": "$15.00",
+          "description": ""
+        },
+        {
+          "name": "Shev Bhaaji",
+          "price": "$15.00",
+          "description": ""
+        },
+        {
+          "name": "Grilled Cheese Sandwich",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "French Fries",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Aloo Paratha",
+          "price": "$9.50",
+          "description": ""
+        },
+        {
+          "name": "Paneer Paratha",
+          "price": "$9.50",
+          "description": ""
+        },
+        {
+          "name": "Sandwich Meal",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Chapati/Roti",
+          "price": "$1.25",
+          "description": ""
+        },
+        {
+          "name": "Puri",
+          "price": "$7.00",
+          "description": ""
+        },
+        {
+          "name": "Ghadichi Poli",
+          "price": "$3.00",
+          "description": ""
+        },
+        {
+          "name": "Plain Paratha",
+          "price": "$4.00",
+          "description": ""
+        },
+        {
+          "name": "Bhaakri",
+          "price": "$4.00",
+          "description": ""
+        },
+        {
+          "name": "Bhatura",
+          "price": "$4.00",
+          "description": ""
+        },
+        {
+          "name": "Steam Rice (16oz)",
+          "price": "$4.50",
+          "description": ""
+        },
+        {
+          "name": "Curd Rice (12oz)",
+          "price": "$7.00",
+          "description": ""
+        },
+        {
+          "name": "Masale Bhaat",
+          "price": "$13.50",
+          "description": ""
+        },
+        {
+          "name": "Veg Pulao",
+          "price": "$13.00",
+          "description": ""
+        },
+        {
+          "name": "Tawa Pulao",
+          "price": "$14.50",
+          "description": ""
+        },
+        {
+          "name": "Curd Rice (12oz)",
+          "price": "$6.00",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "dessert-sweet",
+      "name": "Dessert/Sweet",
+      "items": [
+        {
+          "name": "Shrikhand (8oz)",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Basundi (8oz)",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Puran Poli",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Moong Daal Halwa (8oz)",
+          "price": "$6.50",
+          "description": ""
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": "$5.00",
+          "description": ""
+        },
+        {
+          "name": "Gajar (carrot) Halwa (8oz)",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Aamras (Not Pulp)",
+          "price": "$8.00",
+          "description": ""
+        },
+        {
+          "name": "Modak (Steamed)",
+          "price": "$3.50",
+          "description": ""
+        },
+        {
+          "name": "Indian Paan",
+          "price": "$2.00",
+          "description": ""
+        },
+        {
+          "name": "Chutney /PickIe /Yogurt/ Raita (4oz)",
+          "price": "$2.00",
+          "description": ""
+        },
+        {
+          "name": "Amul Cheese (4 oz)",
+          "price": "$2.50",
+          "description": ""
+        },
+        {
+          "name": "Ghee (1 oz)",
+          "price": "$1.00",
+          "description": ""
+        },
+        {
+          "name": "Thecha (Chili Garlic Peanut Chutney (4oz)",
+          "price": "$3.00",
+          "description": ""
+        },
+        {
+          "name": "Garlic Chutney (Batata Vada) (4oz)",
+          "price": "$2.00",
+          "description": ""
+        },
+        {
+          "name": "Misal Curry (12 oz)",
+          "price": "$6.50",
+          "description": ""
+        },
+        {
+          "name": "Any Entr\u00e9e (8 oz )",
+          "price": "$8.00",
+          "description": ""
+        },
+        {
+          "name": "Paav (Plain) (Per Piece)",
+          "price": "$0.99",
+          "description": ""
+        },
+        {
+          "name": "Butter & Toasted Paav (Per Piece)",
+          "price": "$1.50",
+          "description": ""
+        },
+        {
+          "name": "Masala Chai/Tea",
+          "price": "$3.00",
+          "description": ""
+        },
+        {
+          "name": "Indian Coffee",
+          "price": "$3.50",
+          "description": ""
+        },
+        {
+          "name": "Filter Coffee",
+          "price": "$4.00",
+          "description": ""
+        },
+        {
+          "name": "Masala Chaas",
+          "price": "$5.00",
+          "description": ""
         },
         {
           "name": "Mango Lassi",
           "price": "$5.00",
-          "description": "Chilled smooth yogurt blended with Alphonso mango pulp and a touch of cardamom.",
-          "tags": ["Refreshing"]
+          "description": ""
         },
         {
-          "name": "Kokum Sarbat",
+          "name": "Panhe",
           "price": "$4.50",
-          "description": "Digestive, cooling Konkan cooler infused with kokum fruit extract, roasted cumin, and black salt.",
-          "tags": ["Cooler", "Vegan"]
+          "description": ""
         },
         {
-          "name": "Masala Chai",
+          "name": "Kokam Sarbat",
+          "price": "$4.50",
+          "description": ""
+        },
+        {
+          "name": "Soda",
+          "price": "$1.50",
+          "description": ""
+        },
+        {
+          "name": "Bottled Water",
+          "price": "$1.50",
+          "description": ""
+        },
+        {
+          "name": "Thums Up / Limca",
           "price": "$3.50",
-          "description": "Aromatic hot tea brewed with whole milk, fresh ginger, crushed cardamom, and Indian spice blend.",
-          "tags": ["Hot Beverage"]
+          "description": ""
         },
         {
-          "name": "Gulab Jamun (2 pcs)",
-          "price": "$5.00",
-          "description": "Warm golden milk-solid dumplings soaked in rose and cardamom-scented sugar syrup.",
-          "tags": ["Sweet"]
+          "name": "Faaloda with ice cream",
+          "price": "$10.00",
+          "description": ""
+        },
+        {
+          "name": "Mango Mastani",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Mango (Alphonso)",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Malai or Pista Kulfi",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Butterscotch",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Cookies & Cream",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Chocolate / Vanilla/ Strawberry",
+          "price": "$6.00",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "chaat",
+      "name": "Chaat",
+      "items": [
+        {
+          "name": "Khasta Kachori",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Sev Puri",
+          "price": "$8.00",
+          "description": ""
+        },
+        {
+          "name": "Dahi (Yogurt) Sev Puri",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Dahi (Yogurt) Sev Puri",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Chaat Pakwan",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Bhel Puri",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Pani Puri",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Raj Kachori",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Bhel Kachori",
+          "price": "$10.00",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "wraps---frankie",
+      "name": "Wraps / Frankie",
+      "items": [
+        {
+          "name": "Chatpata Paneer Frankie",
+          "price": "$11.00",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "parathas",
+      "name": "Parathas",
+      "items": [
+        {
+          "name": "Methi Paratha",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Paneer Paratha",
+          "price": "$9.50",
+          "description": ""
+        },
+        {
+          "name": "Sabji Paratha",
+          "price": "$9.50",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "snacks--mumbai-special",
+      "name": "Snacks  (Mumbai Special)",
+      "items": [
+        {
+          "name": "Chana Masala (Garbanzo Beans)",
+          "price": "$13.50",
+          "description": ""
+        },
+        {
+          "name": "Paneer Makhani (Not Spicy)",
+          "price": "$14.50",
+          "description": ""
+        },
+        {
+          "name": "Tadka Daal (16 oz)",
+          "price": "$10.00",
+          "description": ""
+        },
+        {
+          "name": "Curd Rice (12 oz)",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "Masale Bhaat",
+          "price": "$13.50",
+          "description": ""
+        },
+        {
+          "name": "Chili Cheese Toast (Sandwich)",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Sev Puri Sandwich",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Vegetable Grilled Sandwich",
+          "price": "$11.00",
+          "description": ""
+        },
+        {
+          "name": "Jain Burger",
+          "price": "$11.00",
+          "description": ""
         }
       ]
     }

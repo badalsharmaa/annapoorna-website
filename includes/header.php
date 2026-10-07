@@ -26,6 +26,7 @@ $page_desc_text  = isset($page_description) ? $page_description : 'Annapoorna Au
     <link rel="stylesheet" href="<?= asset('css/layout.css') ?>">
     <link rel="stylesheet" href="<?= asset('css/components.css') ?>">
     <link rel="stylesheet" href="<?= asset('css/pages.css') ?>">
+    <link rel="stylesheet" href="<?= asset('css/decor.css') ?>">
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="<?= asset('images/logo/logo-sec.png') ?>">
