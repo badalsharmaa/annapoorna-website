@@ -1,0 +1,1915 @@
+{
+    "version": "0.4",
+    "title": "Our Menu",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "12c76bc4",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "id": 590,
+                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img10.jpg",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "bottom center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "_title": "inner-banner",
+                "margin": {
+                    "unit": "px",
+                    "top": "-185",
+                    "right": 0,
+                    "bottom": "-55",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "shape_divider_bottom_width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "shape_divider_bottom_negative": "yes",
+                "shape_divider_top_height": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "185",
+                    "right": "15",
+                    "bottom": "55",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=f06adda"
+                },
+                "gap": "no",
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "-176",
+                    "right": 0,
+                    "bottom": "-55",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "-227",
+                    "right": 0,
+                    "bottom": "-55",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "176",
+                    "right": "15",
+                    "bottom": "55",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "227",
+                    "right": "15",
+                    "bottom": "55",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 300,
+                    "sizes": []
+                },
+                "custom_height_tablet": {
+                    "unit": "px",
+                    "size": 250,
+                    "sizes": []
+                },
+                "custom_height_mobile": {
+                    "unit": "px",
+                    "size": 200,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "59264176",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_position": "initial",
+                        "background_position_tablet": "initial",
+                        "background_position_mobile": "initial",
+                        "background_xpos": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "background_xpos_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "background_xpos_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "background_ypos": {
+                            "unit": "%",
+                            "size": 50,
+                            "sizes": []
+                        },
+                        "background_ypos_tablet": {
+                            "unit": "px",
+                            "size": 85,
+                            "sizes": []
+                        },
+                        "background_ypos_mobile": {
+                            "unit": "%",
+                            "size": 85,
+                            "sizes": []
+                        },
+                        "background_repeat": "no-repeat",
+                        "background_size": "initial",
+                        "background_size_mobile": "initial",
+                        "background_bg_width": {
+                            "unit": "%",
+                            "size": 36,
+                            "sizes": []
+                        },
+                        "background_bg_width_mobile": {
+                            "unit": "%",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7322c30",
+                            "settings": {
+                                "title": "Our Menu",
+                                "header_size": "h1",
+                                "align": "center",
+                                "typography_font_family": "Montserrat",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "800",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=21bfb04"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5efdf210",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img23.png",
+                    "id": 613,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "repeat",
+                "background_size": "cover",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "_title": "bottom-shape"
+            },
+            "elements": [
+                {
+                    "id": "12cc35f9",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6cb85901",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 70,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2a348dbf",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/menu_left.jpg",
+                    "id": 392,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "top left",
+                "background_repeat": "no-repeat",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/menu_right.jpg",
+                    "id": 393,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "bottom right",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "15",
+                    "bottom": "60",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "menu"
+            },
+            "elements": [
+                {
+                    "id": "29ade92d",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "75200666",
+                            "settings": {
+                                "structure": "20",
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img24.png",
+                                    "id": 699,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "background_position": "center right",
+                                "background_position_tablet": "bottom center",
+                                "background_xpos": {
+                                    "unit": "px",
+                                    "size": 615,
+                                    "sizes": []
+                                },
+                                "background_repeat": "no-repeat",
+                                "background_size": "contain",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "100",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "80",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "350",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "200",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "4ce99ae5",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 60,
+                                        "_inline_size_tablet": 100,
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img64.jpg",
+                                            "id": 959,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "background_position": "center center",
+                                        "background_repeat": "repeat",
+                                        "background_size": "contain",
+                                        "background_overlay_background": "classic",
+                                        "background_overlay_opacity": {
+                                            "unit": "px",
+                                            "size": 0.96,
+                                            "sizes": []
+                                        },
+                                        "box_shadow_box_shadow_type": "yes",
+                                        "box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 0,
+                                            "blur": 35,
+                                            "spread": 0,
+                                            "color": "rgba(0, 0, 0, 0.1)"
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "25",
+                                            "bottom": "25",
+                                            "left": "25",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=21bfb04",
+                                            "background_overlay_color": "globals\/colors?id=21bfb04"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "77d02a67",
+                                            "settings": {
+                                                "title": "Starter Menu",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "-5",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "65a6fff0",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img20.png",
+                                                    "id": 609,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "medium",
+                                                "align": "center",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-7",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3af34f45",
+                                            "settings": {
+                                                "gap": "no",
+                                                "structure": "20"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "7467055c",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": null
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "6021462b",
+                                                            "settings": {
+                                                                "price_list": [
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "5ae96af",
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "89ac28a"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "1e1b43c"
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "e2e0874"
+                                                                    },
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "_id": "74af5cd"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "93ca6f3"
+                                                                    }
+                                                                ],
+                                                                "row_gap": {
+                                                                    "unit": "px",
+                                                                    "size": 25,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "heading_typography_typography": "globals\/typography?id=accent",
+                                                                    "description_typography_typography": "globals\/typography?id=61eed76",
+                                                                    "heading_color": "globals\/colors?id=secondary",
+                                                                    "description_color": "globals\/colors?id=08fcc9d",
+                                                                    "separator_color": "globals\/colors?id=primary"
+                                                                },
+                                                                "separator_weight": {
+                                                                    "unit": "px",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                },
+                                                                "_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "25",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "price-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                },
+                                                {
+                                                    "id": "57c0b49b",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": null
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "309de95b",
+                                                            "settings": {
+                                                                "price_list": [
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "5ae96af",
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "89ac28a"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "1e1b43c"
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "e2e0874"
+                                                                    },
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "_id": "74af5cd"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "93ca6f3"
+                                                                    }
+                                                                ],
+                                                                "row_gap": {
+                                                                    "unit": "px",
+                                                                    "size": 25,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "heading_typography_typography": "globals\/typography?id=accent",
+                                                                    "description_typography_typography": "globals\/typography?id=61eed76",
+                                                                    "heading_color": "globals\/colors?id=secondary",
+                                                                    "description_color": "globals\/colors?id=08fcc9d",
+                                                                    "separator_color": "globals\/colors?id=primary",
+                                                                    "_border_color": ""
+                                                                },
+                                                                "separator_weight": {
+                                                                    "unit": "px",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                },
+                                                                "heading_color": "#060F14",
+                                                                "heading_typography_typography": "custom",
+                                                                "heading_typography_font_family": "Marcellus",
+                                                                "heading_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 17,
+                                                                    "sizes": []
+                                                                },
+                                                                "heading_typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 16,
+                                                                    "sizes": []
+                                                                },
+                                                                "heading_typography_font_weight": "500",
+                                                                "heading_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                },
+                                                                "description_color": "#787878",
+                                                                "description_typography_typography": "custom",
+                                                                "description_typography_font_family": "Poppins",
+                                                                "description_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 13,
+                                                                    "sizes": []
+                                                                },
+                                                                "description_typography_font_weight": "normal",
+                                                                "description_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1,
+                                                                    "sizes": []
+                                                                },
+                                                                "separator_color": "#E27B60",
+                                                                "_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "25",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_padding_mobile": {
+                                                                    "unit": "px",
+                                                                    "top": "12",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_border_border": "solid",
+                                                                "_border_width": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "1",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_border_width_mobile": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_border_color": "#E27B6042"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "price-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "879ee35",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 40
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "377d90e",
+                            "settings": {
+                                "structure": "20",
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img61.jpg",
+                                    "id": 916,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "background_position": "center left",
+                                "background_position_tablet": "bottom center",
+                                "background_repeat": "no-repeat",
+                                "background_size": "contain",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "100",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "350",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "200",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "10435778",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 40
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5e391c20",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 60,
+                                        "_inline_size_tablet": 100,
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img64.jpg",
+                                            "id": 959,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "background_position": "center center",
+                                        "background_repeat": "repeat",
+                                        "background_size": "contain",
+                                        "background_overlay_background": "classic",
+                                        "background_overlay_opacity": {
+                                            "unit": "px",
+                                            "size": 0.96,
+                                            "sizes": []
+                                        },
+                                        "box_shadow_box_shadow_type": "yes",
+                                        "box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 0,
+                                            "blur": 35,
+                                            "spread": 0,
+                                            "color": "rgba(0, 0, 0, 0.1)"
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "25",
+                                            "bottom": "25",
+                                            "left": "25",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=21bfb04",
+                                            "background_overlay_color": "globals\/colors?id=21bfb04"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4f418ce6",
+                                            "settings": {
+                                                "title": "Main Course",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "-5",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1b8e356",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img20.png",
+                                                    "id": 609,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "medium",
+                                                "align": "center",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-7",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "29c4d71f",
+                                            "settings": {
+                                                "gap": "no",
+                                                "structure": "20"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "38cf5bcf",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": null
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "59bfe2c3",
+                                                            "settings": {
+                                                                "price_list": [
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "5ae96af",
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "89ac28a"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "1e1b43c"
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "e2e0874"
+                                                                    },
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "_id": "74af5cd"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "93ca6f3"
+                                                                    }
+                                                                ],
+                                                                "row_gap": {
+                                                                    "unit": "px",
+                                                                    "size": 25,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "heading_typography_typography": "globals\/typography?id=accent",
+                                                                    "description_typography_typography": "globals\/typography?id=61eed76",
+                                                                    "heading_color": "globals\/colors?id=secondary",
+                                                                    "description_color": "globals\/colors?id=08fcc9d",
+                                                                    "separator_color": "globals\/colors?id=primary"
+                                                                },
+                                                                "separator_weight": {
+                                                                    "unit": "px",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                },
+                                                                "_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "25",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "price-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                },
+                                                {
+                                                    "id": "60644d27",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": null
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "1041bce",
+                                                            "settings": {
+                                                                "price_list": [
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "5ae96af",
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "89ac28a"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "1e1b43c"
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "e2e0874"
+                                                                    },
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "_id": "74af5cd"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "93ca6f3"
+                                                                    }
+                                                                ],
+                                                                "row_gap": {
+                                                                    "unit": "px",
+                                                                    "size": 25,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "heading_typography_typography": "globals\/typography?id=accent",
+                                                                    "description_typography_typography": "globals\/typography?id=61eed76",
+                                                                    "heading_color": "globals\/colors?id=secondary",
+                                                                    "description_color": "globals\/colors?id=08fcc9d",
+                                                                    "separator_color": "globals\/colors?id=primary",
+                                                                    "_border_color": ""
+                                                                },
+                                                                "separator_weight": {
+                                                                    "unit": "px",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                },
+                                                                "heading_color": "#060F14",
+                                                                "heading_typography_typography": "custom",
+                                                                "heading_typography_font_family": "Marcellus",
+                                                                "heading_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 17,
+                                                                    "sizes": []
+                                                                },
+                                                                "heading_typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 16,
+                                                                    "sizes": []
+                                                                },
+                                                                "heading_typography_font_weight": "500",
+                                                                "heading_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                },
+                                                                "description_color": "#787878",
+                                                                "description_typography_typography": "custom",
+                                                                "description_typography_font_family": "Poppins",
+                                                                "description_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 13,
+                                                                    "sizes": []
+                                                                },
+                                                                "description_typography_font_weight": "normal",
+                                                                "description_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1,
+                                                                    "sizes": []
+                                                                },
+                                                                "separator_color": "#E27B60",
+                                                                "_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "25",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_padding_mobile": {
+                                                                    "unit": "px",
+                                                                    "top": "12",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_border_border": "solid",
+                                                                "_border_width": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "1",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_border_width_mobile": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_border_color": "#E27B6042"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "price-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "6a98cd96",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "30",
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img66.png",
+                                    "id": 1358,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "background_position": "center center",
+                                "background_repeat": "no-repeat",
+                                "background_size": "initial",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "background_position_tablet": "initial",
+                                "background_xpos_tablet": {
+                                    "unit": "px",
+                                    "size": -150,
+                                    "sizes": []
+                                },
+                                "background_position_mobile": "center center",
+                                "margin_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "background_ypos_tablet": {
+                                    "unit": "px",
+                                    "size": 108,
+                                    "sizes": []
+                                },
+                                "background_size_tablet": "initial",
+                                "background_bg_width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "background_bg_width_tablet": {
+                                    "unit": "%",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "4d62944c",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 33,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "50",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 100,
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "250",
+                                            "isLinked": false
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "538461cb",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "29b07a32",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "background_background": "classic",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 35,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.1)"
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "40",
+                                                            "right": "40",
+                                                            "bottom": "40",
+                                                            "left": "40",
+                                                            "isLinked": true
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=21bfb04",
+                                                            "background_overlay_color": "globals\/colors?id=21bfb04"
+                                                        },
+                                                        "background_image": {
+                                                            "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img64.jpg",
+                                                            "id": 959,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "background_position": "center center",
+                                                        "background_repeat": "no-repeat",
+                                                        "background_size": "contain",
+                                                        "background_overlay_background": "classic",
+                                                        "background_overlay_opacity": {
+                                                            "unit": "px",
+                                                            "size": 0.9,
+                                                            "sizes": []
+                                                        },
+                                                        "padding_mobile": {
+                                                            "unit": "px",
+                                                            "top": "25",
+                                                            "right": "25",
+                                                            "bottom": "25",
+                                                            "left": "25",
+                                                            "isLinked": true
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "629e770f",
+                                                            "settings": {
+                                                                "title": "Dessert",
+                                                                "header_size": "h4",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "-5",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "62b7b7e2",
+                                                            "settings": {
+                                                                "image": {
+                                                                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img20.png",
+                                                                    "id": 609,
+                                                                    "alt": "",
+                                                                    "source": "library"
+                                                                },
+                                                                "image_size": "medium",
+                                                                "align": "left",
+                                                                "width": {
+                                                                    "unit": "%",
+                                                                    "size": 50,
+                                                                    "sizes": []
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "-7",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "image",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "71fb8944",
+                                                            "settings": {
+                                                                "price_list": [
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "5ae96af",
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "89ac28a"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "1e1b43c"
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "e2e0874"
+                                                                    },
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "_id": "74af5cd"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "93ca6f3"
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "b06affd"
+                                                                    },
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "_id": "2ca0459"
+                                                                    }
+                                                                ],
+                                                                "row_gap": {
+                                                                    "unit": "px",
+                                                                    "size": 25,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "heading_typography_typography": "globals\/typography?id=accent",
+                                                                    "description_typography_typography": "globals\/typography?id=61eed76",
+                                                                    "heading_color": "globals\/colors?id=secondary",
+                                                                    "description_color": "globals\/colors?id=08fcc9d",
+                                                                    "separator_color": "globals\/colors?id=primary"
+                                                                },
+                                                                "separator_weight": {
+                                                                    "unit": "px",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "price-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4be4569d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 33.332
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "68dcfe61",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 33,
+                                        "_inline_size_tablet": 100,
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "200",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "150",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "75fdcb39",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6c225ea9",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "background_background": "classic",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 35,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.1)"
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "40",
+                                                            "right": "40",
+                                                            "bottom": "40",
+                                                            "left": "40",
+                                                            "isLinked": true
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=21bfb04",
+                                                            "background_overlay_color": "globals\/colors?id=21bfb04"
+                                                        },
+                                                        "background_image": {
+                                                            "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img64.jpg",
+                                                            "id": 959,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "background_position": "center center",
+                                                        "background_repeat": "no-repeat",
+                                                        "background_size": "contain",
+                                                        "background_overlay_background": "classic",
+                                                        "background_overlay_opacity": {
+                                                            "unit": "px",
+                                                            "size": 0.95,
+                                                            "sizes": []
+                                                        },
+                                                        "padding_mobile": {
+                                                            "unit": "px",
+                                                            "top": "25",
+                                                            "right": "25",
+                                                            "bottom": "25",
+                                                            "left": "25",
+                                                            "isLinked": true
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "75e9455d",
+                                                            "settings": {
+                                                                "title": "Drinks",
+                                                                "header_size": "h4",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "-5",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "1ea945d4",
+                                                            "settings": {
+                                                                "image": {
+                                                                    "url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img20.png",
+                                                                    "id": 609,
+                                                                    "alt": "",
+                                                                    "source": "library"
+                                                                },
+                                                                "image_size": "medium",
+                                                                "align": "left",
+                                                                "width": {
+                                                                    "unit": "%",
+                                                                    "size": 50,
+                                                                    "sizes": []
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "-7",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "image",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "5b57b056",
+                                                            "settings": {
+                                                                "price_list": [
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "5ae96af",
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "89ac28a"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "1e1b43c"
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "e2e0874"
+                                                                    },
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "_id": "74af5cd"
+                                                                    },
+                                                                    {
+                                                                        "title": "Italian Tasting Platter",
+                                                                        "item_description": "Baked Clams, Fried Calamari",
+                                                                        "price": "$18.50",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "93ca6f3"
+                                                                    },
+                                                                    {
+                                                                        "title": "Salt & Pepper Calamari",
+                                                                        "item_description": "Rocket, lime, chipotle aioli",
+                                                                        "price": "$15.15",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "_id": "b06affd"
+                                                                    },
+                                                                    {
+                                                                        "title": " Chicken Liver Parafait ",
+                                                                        "item_description": "Chicken, onion, Sour cream sauce",
+                                                                        "price": "$25.00",
+                                                                        "link": {
+                                                                            "url": "#"
+                                                                        },
+                                                                        "image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "_id": "2ca0459"
+                                                                    }
+                                                                ],
+                                                                "row_gap": {
+                                                                    "unit": "px",
+                                                                    "size": 25,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "heading_typography_typography": "globals\/typography?id=accent",
+                                                                    "description_typography_typography": "globals\/typography?id=61eed76",
+                                                                    "heading_color": "globals\/colors?id=secondary",
+                                                                    "description_color": "globals\/colors?id=08fcc9d",
+                                                                    "separator_color": "globals\/colors?id=primary"
+                                                                },
+                                                                "separator_weight": {
+                                                                    "unit": "px",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "price-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "47fa116f",
+                            "settings": {
+                                "text": "DOWNLOAD MENU PDF.",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}

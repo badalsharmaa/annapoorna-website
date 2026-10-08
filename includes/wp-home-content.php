@@ -1,0 +1,1238 @@
+<div data-elementor-type="wp-page" data-elementor-id="431" class="elementor elementor-431" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-e275939 e-flex e-con-boxed e-con e-parent" data-id="e275939" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-68bd038 e-con-full e-flex e-con e-child" data-id="68bd038" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-a8fe864 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="a8fe864" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Annapoorna - Your Home for Marathi Vegetarian Cuisine in Milpitas!</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-74bc016 elementor-align-center elementor-widget elementor-widget-button" data-id="74bc016" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/menu">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">DISCOVER OUR MENU</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+		<div class="elementor-element elementor-element-8dfdec7 e-con-full elementor-hidden-desktop elementor-hidden-tablet e-flex e-con e-child" data-id="8dfdec7" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-e647754 elementor-widget__width-initial elementor-widget elementor-widget-html" data-id="e647754" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div class="phone-container">
+    <div class="slider-wrapper">
+        <div class="phone-box">
+            <div class="phone-icon"></div>
+            <div class="phone-info">
+                <div class="phone-label">For Catering Services</div>
+                <div class="phone-number"><a href="tel:4083197037">(408) 319-7037</a></div>
+            </div>
+        </div>
+        
+        <div class="phone-box">
+            <div class="phone-icon"></div>
+            <div class="phone-info">
+                <div class="phone-label">For Phone Orders</div>
+                <div class="phone-number"><a href="tel:4088344933">(408) 834-4933</a></div>
+            </div>
+        </div>
+        
+        <div class="phone-box">
+            <div class="phone-icon"></div>
+            <div class="phone-info">
+                <div class="phone-label">For Catering Services</div>
+                <div class="phone-number"><a href="tel:4083197037">(408) 319-7037</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .phone-container {
+        position: relative;
+        height: 80px;
+        overflow: hidden;
+    }
+
+    .slider-wrapper {
+        display: flex;
+        width: 300%;
+        animation: slide 8s infinite linear;
+    }
+
+    .phone-box {
+        width: 33.333%;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        padding: 0 0px;
+        box-sizing: border-box;
+        flex-shrink: 0;
+    }
+
+    .phone-icon {
+        width: 40px;
+        height: 40px;
+        background-color: #4CAF50;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 15px;
+        flex-shrink: 0;
+        background-image: url('/wp-content/uploads/2025/07/Untitled-2.png');
+        background-size: 20px 20px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .phone-info {
+        flex: 1;
+    }
+
+    .phone-label {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 2px;
+        font-weight: 500;
+    }
+
+    .phone-number {
+        font-size: 18px;
+        font-weight: bold;
+        color: #333;
+        letter-spacing: 0.5px;
+    }
+
+    .phone-number a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .phone-number a:hover {
+        text-decoration: underline;
+    }
+
+    @keyframes slide {
+        0% { transform: translateX(0); }
+        37.5% { transform: translateX(0); }
+        43.75% { transform: translateX(-33.333%); }
+        81.25% { transform: translateX(-33.333%); }
+        87.5% { transform: translateX(-66.666%); }
+        100% { transform: translateX(-66.666%); }
+    }
+</style>				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8e4765b elementor-widget elementor-widget-spacer" data-id="8e4765b" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8756fc9 e-flex e-con-boxed e-con e-parent" data-id="8756fc9" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6c1700a e-con-full e-flex e-con e-child" data-id="6c1700a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6f61330 elementor-widget elementor-widget-spacer" data-id="6f61330" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6c7234b e-con-full e-flex e-con e-parent" data-id="6c7234b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-7359829 e-con-full e-flex e-con e-child" data-id="7359829" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+		<div class="elementor-element elementor-element-3c2dd84 e-con-full e-flex elementor-invisible e-con e-child" data-id="3c2dd84" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;}">
+		<div class="elementor-element elementor-element-112804b e-flex e-con-boxed e-con e-child" data-id="112804b" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c0244dd e-con-full e-flex e-con e-child" data-id="c0244dd" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-eeb2c93 elementor-widget elementor-widget-image-carousel" data-id="eeb2c93" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 2"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2024/07/Untditled-6.png" alt="Untditled-6" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 2"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2024/07/Chitlae-Products-at-Annapoorna-Restaurant-1.png" alt="Chitlae Products at Annapoorna Restaurant" /></figure></div>			</div>
+							
+									</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0b94ac2 e-con-full e-flex e-con e-child" data-id="0b94ac2" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-ff61d45 e-con-full e-flex e-con e-child" data-id="ff61d45" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-1ca265d elementor-widget elementor-widget-image" data-id="1ca265d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="300" height="97" src="/wp-content/uploads/2024/07/917859238d60-300x97.jpg" class="attachment-medium size-medium wp-image-2212" alt="917859238d60" srcset="/wp-content/uploads/2024/07/917859238d60-300x97.jpg 300w, /wp-content/uploads/2024/07/917859238d60-1024x330.jpg 1024w, /wp-content/uploads/2024/07/917859238d60-768x248.jpg 768w, /wp-content/uploads/2024/07/917859238d60-1536x495.jpg 1536w, /wp-content/uploads/2024/07/917859238d60-60x19.jpg 60w, /wp-content/uploads/2024/07/917859238d60-110x35.jpg 110w, /wp-content/uploads/2024/07/917859238d60-600x194.jpg 600w, /wp-content/uploads/2024/07/917859238d60.jpg 1550w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8b1ee0d elementor-widget elementor-widget-heading" data-id="8b1ee0d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default"><span style="font-size: 18px;color: #ffca01">
+Sweets &amp; Namkeens</span><br>Now available at</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-fc8c2ad elementor-widget elementor-widget-image" data-id="fc8c2ad" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="800" height="122" src="/wp-content/uploads/2024/07/Annapoorna-Logo-1024x156.png" class="attachment-large size-large wp-image-2012" alt="" srcset="/wp-content/uploads/2024/07/Annapoorna-Logo-1024x156.png 1024w, /wp-content/uploads/2024/07/Annapoorna-Logo-300x46.png 300w, /wp-content/uploads/2024/07/Annapoorna-Logo-768x117.png 768w, /wp-content/uploads/2024/07/Annapoorna-Logo-1536x234.png 1536w, /wp-content/uploads/2024/07/Annapoorna-Logo-2048x312.png 2048w, /wp-content/uploads/2024/07/Annapoorna-Logo-600x92.png 600w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-59368c5 e-con-full e-flex e-con e-child" data-id="59368c5" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-8039ac4 elementor-align-center shop-now elementor-widget elementor-widget-button" data-id="8039ac4" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://order.strideq.com/annapoorna-milpitas-ca/store/annapoorna?utm_source=custwebsite">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Order Chitale Bandhu Products Here</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dbc6f6e e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-parent" data-id="dbc6f6e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5af121d elementor-widget elementor-widget-wcct_tag_slider" data-id="5af121d" data-element_type="widget" data-e-type="widget" data-widget_type="wcct_tag_slider.default">
+				<div class="elementor-widget-container">
+					        <!-- Full Width Background Wrapper -->
+        <div class="wcct-slider-full-bg">
+            <!-- Boxed Container for Content -->
+            <div class="wcct-slider-section" id="wcct-slider-5af121d" 
+                 data-autoplay="true"
+                 data-autoplay-speed="4000"
+                 data-items-desktop="4"
+                 data-items-tablet="3"
+                 data-items-mobile="1">
+                
+                <!-- Header Section -->
+                <div class="wcct-slider-header">
+                    <div class="wcct-slider-title-row">
+                                                    <div class="wcct-slider-logo">
+                                <img decoding="async" src="/wp-content/uploads/2025/10/917859238d60.jpg" alt="Savory Snacks">
+                            </div>
+                                                
+                        <div class="wcct-slider-title-content">
+                            <h2 class="wcct-slider-main-title">Savory Snacks</h2>
+                        </div>
+                        
+                                            </div>
+                    
+                    <p class="wcct-slider-subtitle">The perfect crunch for any time of day.</p>
+                </div>
+                
+                <!-- Products Slider -->
+                <div class="wcct-slider-container">
+                    <div class="wcct-slider-wrapper">
+                        <div class="wcct-slider-track">
+                                                                    <div class="wcct-slider-product-card" data-product-id="4162">
+            <!-- Product Image -->
+            <div class="wcct-slider-product-image-wrapper">
+                <a href="/chitale-products">
+                    <img decoding="async" src="/wp-content/uploads/2025/02/Untitlxedd-1-300x300.jpg" 
+                         alt="Banana Chips" 
+                         class="wcct-slider-product-image">
+                </a>
+                
+                <!-- Sale Badge (Top Left) -->
+                                    <div class="wcct-slider-sale-badge">
+                        Sale!                    </div>
+                                
+                <!-- Price Badge (Top Right on Image) -->
+                <div class="wcct-slider-price-badge-overlay">
+                    <span class="woocommerce-Price-amount amount" aria-hidden="true"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>3.50</bdi></span> <span aria-hidden="true">&ndash;</span> <span class="woocommerce-Price-amount amount" aria-hidden="true"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>4.00</bdi></span><span class="screen-reader-text">Price range: &#36;3.50 through &#36;4.00</span>                </div>
+                
+                <!-- Stock Pill (Below Price on Image) -->
+                <div class="wcct-slider-stock-badge-overlay in-stock">
+                                            IN STOCK                                    </div>
+                
+                <!-- Out of Stock Overlay (if out of stock) -->
+                            </div>
+            
+            <!-- Product Info -->
+            <div class="wcct-slider-product-info">
+                <h3 class="wcct-slider-product-name">
+                    <a href="/chitale-products">Banana Chips</a>
+                </h3>
+                
+                                    <div class="wcct-slider-product-description">
+                        Weight : 125g Shelf Life : 120 Days                    </div>
+                                
+                <!-- Action Button (Fixed Height Container) -->
+                                    <div class="wcct-slider-product-action">
+                                                    <!-- Variable Product - Select Options -->
+                            <button type="button" 
+                                    class="wcct-slider-btn-select-options"
+                                    data-product-id="4162"
+                                    data-product-type="variable">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
+                                </svg>
+                                Select Options                            </button>
+                                            </div>
+                            </div>
+        </div>
+                                                                            <div class="wcct-slider-product-card" data-product-id="3590">
+            <!-- Product Image -->
+            <div class="wcct-slider-product-image-wrapper">
+                <a href="/chitale-products">
+                    <img decoding="async" src="/wp-content/uploads/2024/10/potato-chivda-1-300x300.jpg" 
+                         alt="Potato Chivda" 
+                         class="wcct-slider-product-image">
+                </a>
+                
+                <!-- Sale Badge (Top Left) -->
+                                
+                <!-- Price Badge (Top Right on Image) -->
+                <div class="wcct-slider-price-badge-overlay">
+                    <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>4.50</bdi></span>                </div>
+                
+                <!-- Stock Pill (Below Price on Image) -->
+                <div class="wcct-slider-stock-badge-overlay in-stock">
+                                            IN STOCK                                    </div>
+                
+                <!-- Out of Stock Overlay (if out of stock) -->
+                            </div>
+            
+            <!-- Product Info -->
+            <div class="wcct-slider-product-info">
+                <h3 class="wcct-slider-product-name">
+                    <a href="/chitale-products">Potato Chivda</a>
+                </h3>
+                
+                                    <div class="wcct-slider-product-description">
+                        Weight : 500 gms                    </div>
+                                
+                <!-- Action Button (Fixed Height Container) -->
+                                    <div class="wcct-slider-product-action">
+                                                    <!-- Simple Product - Add to Cart -->
+                                                            <button type="button" 
+                                        class="wcct-slider-btn-add-cart"
+                                        data-product-id="3590"
+                                        data-product-type="simple">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-9.83-3.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4h-.01l-1.1 2-2.76 5H8.53l-.13-.27L6.16 6l-.95-2-.94-2H1v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.13 0-.25-.11-.25-.25z"/>
+                                    </svg>
+                                    Add to Cart                                </button>
+                                                                        </div>
+                            </div>
+        </div>
+                                                                            <div class="wcct-slider-product-card" data-product-id="3569">
+            <!-- Product Image -->
+            <div class="wcct-slider-product-image-wrapper">
+                <a href="/chitale-products">
+                    <img decoding="async" src="/wp-content/uploads/2024/10/patal-poha-chivda-1-300x300.webp" 
+                         alt="Patal pohe chivda 200gm" 
+                         class="wcct-slider-product-image">
+                </a>
+                
+                <!-- Sale Badge (Top Left) -->
+                                
+                <!-- Price Badge (Top Right on Image) -->
+                <div class="wcct-slider-price-badge-overlay">
+                    <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>4.00</bdi></span>                </div>
+                
+                <!-- Stock Pill (Below Price on Image) -->
+                <div class="wcct-slider-stock-badge-overlay in-stock">
+                                            IN STOCK                                    </div>
+                
+                <!-- Out of Stock Overlay (if out of stock) -->
+                            </div>
+            
+            <!-- Product Info -->
+            <div class="wcct-slider-product-info">
+                <h3 class="wcct-slider-product-name">
+                    <a href="/chitale-products">Patal pohe chivda 200gm</a>
+                </h3>
+                
+                                    <div class="wcct-slider-product-description">
+                        Weight : 500 gms                    </div>
+                                
+                <!-- Action Button (Fixed Height Container) -->
+                                    <div class="wcct-slider-product-action">
+                                                    <!-- Simple Product - Add to Cart -->
+                                                            <button type="button" 
+                                        class="wcct-slider-btn-add-cart"
+                                        data-product-id="3569"
+                                        data-product-type="simple">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-9.83-3.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4h-.01l-1.1 2-2.76 5H8.53l-.13-.27L6.16 6l-.95-2-.94-2H1v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.13 0-.25-.11-.25-.25z"/>
+                                    </svg>
+                                    Add to Cart                                </button>
+                                                                        </div>
+                            </div>
+        </div>
+                                                                            <div class="wcct-slider-product-card" data-product-id="2752">
+            <!-- Product Image -->
+            <div class="wcct-slider-product-image-wrapper">
+                <a href="/chitale-products">
+                    <img decoding="async" src="/wp-content/uploads/2024/08/special-chivda-namkeens-chitale-bandhu-mithaiwale-106545-_1_1024x1024-300x300.webp" 
+                         alt="Special Chivda (200 gm)" 
+                         class="wcct-slider-product-image">
+                </a>
+                
+                <!-- Sale Badge (Top Left) -->
+                                
+                <!-- Price Badge (Top Right on Image) -->
+                <div class="wcct-slider-price-badge-overlay">
+                    <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>4.50</bdi></span>                </div>
+                
+                <!-- Stock Pill (Below Price on Image) -->
+                <div class="wcct-slider-stock-badge-overlay in-stock">
+                                            IN STOCK                                    </div>
+                
+                <!-- Out of Stock Overlay (if out of stock) -->
+                            </div>
+            
+            <!-- Product Info -->
+            <div class="wcct-slider-product-info">
+                <h3 class="wcct-slider-product-name">
+                    <a href="/chitale-products">Special Chivda (200 gm)</a>
+                </h3>
+                
+                                    <div class="wcct-slider-product-description">
+                        Product Type : Savory Snacks Shelf Life : 180 Days                    </div>
+                                
+                <!-- Action Button (Fixed Height Container) -->
+                                    <div class="wcct-slider-product-action">
+                                                    <!-- Simple Product - Add to Cart -->
+                                                            <button type="button" 
+                                        class="wcct-slider-btn-add-cart"
+                                        data-product-id="2752"
+                                        data-product-type="simple">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-9.83-3.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4h-.01l-1.1 2-2.76 5H8.53l-.13-.27L6.16 6l-.95-2-.94-2H1v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.13 0-.25-.11-.25-.25z"/>
+                                    </svg>
+                                    Add to Cart                                </button>
+                                                                        </div>
+                            </div>
+        </div>
+                                                                            <div class="wcct-slider-product-card" data-product-id="2157">
+            <!-- Product Image -->
+            <div class="wcct-slider-product-image-wrapper">
+                <a href="/chitale-products">
+                    <img decoding="async" src="/wp-content/uploads/2024/07/rsw_500h_500-8-300x300.webp" 
+                         alt="BingeBar Bhel (10 Pcs)" 
+                         class="wcct-slider-product-image">
+                </a>
+                
+                <!-- Sale Badge (Top Left) -->
+                                
+                <!-- Price Badge (Top Right on Image) -->
+                <div class="wcct-slider-price-badge-overlay">
+                    <span class="woocommerce-Price-amount amount" aria-hidden="true"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>1.25</bdi></span> <span aria-hidden="true">&ndash;</span> <span class="woocommerce-Price-amount amount" aria-hidden="true"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>10.00</bdi></span><span class="screen-reader-text">Price range: &#36;1.25 through &#36;10.00</span>                </div>
+                
+                <!-- Stock Pill (Below Price on Image) -->
+                <div class="wcct-slider-stock-badge-overlay in-stock">
+                                            IN STOCK                                    </div>
+                
+                <!-- Out of Stock Overlay (if out of stock) -->
+                            </div>
+            
+            <!-- Product Info -->
+            <div class="wcct-slider-product-info">
+                <h3 class="wcct-slider-product-name">
+                    <a href="/chitale-products">BingeBar Bhel (10 Pcs)</a>
+                </h3>
+                
+                                    <div class="wcct-slider-product-description">
+                        Quantity : 10 pcs                    </div>
+                                
+                <!-- Action Button (Fixed Height Container) -->
+                                    <div class="wcct-slider-product-action">
+                                                    <!-- Variable Product - Select Options -->
+                            <button type="button" 
+                                    class="wcct-slider-btn-select-options"
+                                    data-product-id="2157"
+                                    data-product-type="variable">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
+                                </svg>
+                                Select Options                            </button>
+                                            </div>
+                            </div>
+        </div>
+                                                                            <div class="wcct-slider-product-card" data-product-id="2139">
+            <!-- Product Image -->
+            <div class="wcct-slider-product-image-wrapper">
+                <a href="/chitale-products">
+                    <img decoding="async" src="/wp-content/uploads/2024/07/bakarwadi-namkeens-chitale-bandhu-mithaiwale-609891-_1_1024x1024-300x300.jpg" 
+                         alt="Bakarwadi 250g" 
+                         class="wcct-slider-product-image">
+                </a>
+                
+                <!-- Sale Badge (Top Left) -->
+                                    <div class="wcct-slider-sale-badge">
+                        Sale!                    </div>
+                                
+                <!-- Price Badge (Top Right on Image) -->
+                <div class="wcct-slider-price-badge-overlay">
+                    <del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>4.00</bdi></span></del> <span class="screen-reader-text">Original price was: &#036;4.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol" translate="no">&#36;</span>3.50</bdi></span></ins><span class="screen-reader-text">Current price is: &#036;3.50.</span>                </div>
+                
+                <!-- Stock Pill (Below Price on Image) -->
+                <div class="wcct-slider-stock-badge-overlay in-stock">
+                                            IN STOCK                                    </div>
+                
+                <!-- Out of Stock Overlay (if out of stock) -->
+                            </div>
+            
+            <!-- Product Info -->
+            <div class="wcct-slider-product-info">
+                <h3 class="wcct-slider-product-name">
+                    <a href="/chitale-products">Bakarwadi 250g</a>
+                </h3>
+                
+                                    <div class="wcct-slider-product-description">
+                        Weight : 250 gms Shelf Life : 180 Days                    </div>
+                                
+                <!-- Action Button (Fixed Height Container) -->
+                                    <div class="wcct-slider-product-action">
+                                                    <!-- Simple Product - Add to Cart -->
+                                                            <button type="button" 
+                                        class="wcct-slider-btn-add-cart"
+                                        data-product-id="2139"
+                                        data-product-type="simple">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-9.83-3.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4h-.01l-1.1 2-2.76 5H8.53l-.13-.27L6.16 6l-.95-2-.94-2H1v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.13 0-.25-.11-.25-.25z"/>
+                                    </svg>
+                                    Add to Cart                                </button>
+                                                                        </div>
+                            </div>
+        </div>
+                                                            </div>
+                        
+                                                    <!-- Navigation Arrows -->
+                            <div class="wcct-slider-nav wcct-slider-nav-prev">
+                                <div class="wcct-slider-arrow wcct-slider-arrow-left"></div>
+                            </div>
+                            <div class="wcct-slider-nav wcct-slider-nav-next">
+                                <div class="wcct-slider-arrow wcct-slider-arrow-right"></div>
+                            </div>
+                                            </div>
+                    
+                                            <!-- Dot Indicators -->
+                        <div class="wcct-slider-dots"></div>
+                                    </div>
+            </div>
+        </div>
+        
+        <!-- Variation Modal -->
+        <div class="wcct-variation-modal" style="display: none;">
+            <div class="wcct-variation-modal-overlay"></div>
+            <div class="wcct-variation-modal-content">
+                <button class="wcct-variation-modal-close">&times;</button>
+                <div class="wcct-variation-modal-body">
+                    <!-- Content loaded via AJAX -->
+                </div>
+            </div>
+        </div>
+        				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-401f4e9 e-flex e-con-boxed e-con e-parent" data-id="401f4e9" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3815d65 e-con-full e-flex e-con e-child" data-id="3815d65" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ef12ff2 elementor-widget elementor-widget-heading" data-id="ef12ff2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">About Us</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8ebf66b elementor-widget elementor-widget-heading" data-id="8ebf66b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Authentic Indian Flavors in the Heart of the San Francisco Bay Area</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-76b5202 elementor-widget elementor-widget-image" data-id="76b5202" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img20.png" class="attachment-medium size-medium wp-image-22" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-9d2652c elementor-widget elementor-widget-image" data-id="9d2652c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="800" height="802" src="/wp-content/uploads/2024/06/Annapoorna-1-1-1021x1024.webp" class="attachment-large size-large wp-image-1505" alt="" srcset="/wp-content/uploads/2024/06/Annapoorna-1-1-1021x1024.webp 1021w, /wp-content/uploads/2024/06/Annapoorna-1-1-300x300.webp 300w, /wp-content/uploads/2024/06/Annapoorna-1-1-150x150.webp 150w, /wp-content/uploads/2024/06/Annapoorna-1-1-768x770.webp 768w, /wp-content/uploads/2024/06/Annapoorna-1-1.webp 1024w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-92ccaef e-flex e-con-boxed e-con e-child" data-id="92ccaef" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-e9d086b e-flex e-con-boxed e-con e-child" data-id="e9d086b" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-22f59d3 e-flex e-con-boxed e-con e-child" data-id="22f59d3" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-e8340e3 e-flex e-con-boxed e-con e-child" data-id="e8340e3" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b519280 elementor-widget elementor-widget-heading" data-id="b519280" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Order now and enjoy our food at home!</h3>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-32e859c e-flex e-con-boxed e-con e-child" data-id="32e859c" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b6fdd8e elementor-widget elementor-widget-image" data-id="b6fdd8e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.ubereats.com/store/annapoorna-authentic-indian-cuisine/XkorzDoxQU-DeFZVU_HtqQ">
+							<img loading="lazy" decoding="async" width="800" height="132" src="/wp-content/uploads/2024/06/Untitled-1_0001_Layer-1.png" class="elementor-animation-grow attachment-large size-large wp-image-788" alt="" srcset="/wp-content/uploads/2024/06/Untitled-1_0001_Layer-1.png 1005w, /wp-content/uploads/2024/06/Untitled-1_0001_Layer-1-300x50.png 300w, /wp-content/uploads/2024/06/Untitled-1_0001_Layer-1-768x127.png 768w, /wp-content/uploads/2024/06/Untitled-1_0001_Layer-1-600x99.png 600w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-96d6b62 elementor-widget elementor-widget-image" data-id="96d6b62" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.doordash.com/store/annapoorna-restaurant-and-catering-services-milpitas-70498/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJhbm5hcG9vcm5hIGF1dGhlbnRpYyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJhbm5hcG9vcm5hIGF1dGhlbnRpYyIsInZlcnRpY2FsX2lkIjotOTk5LCJ2ZXJ0aWNhbF9uYW1lIjoiYWxsIn0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSwxNzUsMTc2LDE5Nl19&#038;pickup=false">
+							<img loading="lazy" decoding="async" width="800" height="132" src="/wp-content/uploads/2024/06/Untitled-1_0000_DoorDash-logo.png" class="elementor-animation-grow attachment-large size-large wp-image-789" alt="" srcset="/wp-content/uploads/2024/06/Untitled-1_0000_DoorDash-logo.png 1005w, /wp-content/uploads/2024/06/Untitled-1_0000_DoorDash-logo-300x50.png 300w, /wp-content/uploads/2024/06/Untitled-1_0000_DoorDash-logo-768x127.png 768w, /wp-content/uploads/2024/06/Untitled-1_0000_DoorDash-logo-600x99.png 600w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-a648ceb elementor-widget elementor-widget-image" data-id="a648ceb" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.grubhub.com/restaurant/annapoorna-restaurant-770-east-tasman-dr-milpitas/342620">
+							<img loading="lazy" decoding="async" width="491" height="139" src="/wp-content/uploads/2024/07/GrubHub.png" class="elementor-animation-grow attachment-large size-large wp-image-1768" alt="" srcset="/wp-content/uploads/2024/07/GrubHub.png 491w, /wp-content/uploads/2024/07/GrubHub-300x85.png 300w" sizes="(max-width: 491px) 100vw, 491px" />								</a>
+															</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-eaa495c e-con-full e-flex e-con e-child" data-id="eaa495c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-8377dff elementor-widget elementor-widget-image" data-id="8377dff" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="800" height="553" src="/wp-content/uploads/2024/06/Mumbai-Link-1.webp" class="attachment-large size-large wp-image-1507" alt="" srcset="/wp-content/uploads/2024/06/Mumbai-Link-1.webp 1000w, /wp-content/uploads/2024/06/Mumbai-Link-1-300x207.webp 300w, /wp-content/uploads/2024/06/Mumbai-Link-1-768x531.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-25edce9 elementor-widget elementor-widget-text-editor" data-id="25edce9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Indulge in our traditional and contemporary Maharashtrian recipes, perfect for every occasion and festival. At Annapoorna, we prioritize high-quality, pure ingredients and heart-friendly cooking mediums. Enjoy fresh, flavorful dishes crafted to perfection.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-4f8219d elementor-align-left elementor-widget elementor-widget-button" data-id="4f8219d" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/about">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">MORE ABOUT US</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+		<div class="elementor-element elementor-element-c124515 e-con-full e-flex e-con e-child" data-id="c124515" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-f56c94f e-con-full e-flex e-con e-child" data-id="f56c94f" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b5a44b0 elementor-widget elementor-widget-spacer" data-id="b5a44b0" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-50cb962 elementor-widget elementor-widget-elementskit-video" data-id="50cb962" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_video_popup_close_icon&quot;:{&quot;value&quot;:&quot;icon icon-cancel&quot;,&quot;library&quot;:&quot;ekiticons&quot;}}" data-widget_type="elementskit-video.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >		<div class="video-content" data-video-player="[]" data-video-setting="{&quot;videoVolume&quot;:&quot;horizontal&quot;,&quot;startVolume&quot;:0.8,&quot;videoType&quot;:&quot;iframe&quot;,&quot;videoClass&quot;:&quot;mfp-fade&quot;,&quot;popupIcon&quot;:{&quot;value&quot;:&quot;icon icon-cancel&quot;,&quot;library&quot;:&quot;ekiticons&quot;},&quot;videoStyle&quot;:&quot;popup&quot;,&quot;videoTypeName&quot;:&quot;youtube&quot;,&quot;autoplay&quot;:false,&quot;muted&quot;:false,&quot;loop&quot;:false,&quot;bg_color&quot;:&quot;&quot;}">
+					<div class="ekit-hidden-icons" style="display: none;">
+			<div class="ekit-popup-close-icon">
+				<i aria-hidden="true" class="icon icon-cancel"></i>			</div>
+		</div>
+		
+<a class="ekit_icon_button glow-ripple ekit-video-popup ekit-video-popup-btn" href="https://www.youtube.com/embed/A6GhEL9i-pk?feature=oembed?playlist=A6GhEL9i-pk&amp;mute=0&amp;autoplay=0&amp;loop=no&amp;controls=0&amp;start=0&amp;end=" aria-label="Play video">
+    <i aria-hidden="true" class="icon icon-play-button"></i></a>
+					</div>
+		</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d370806 elementor-widget elementor-widget-spacer" data-id="d370806" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e1c9c30 e-flex e-con-boxed e-con e-parent" data-id="e1c9c30" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d79f774 e-con-full e-flex e-con e-child" data-id="d79f774" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-3ad066c e-con-full e-grid e-con e-child" data-id="3ad066c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-1cdcce4 elementor-view-stacked elementor-position-inline-start elementor-shape-circle elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="1cdcce4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 186.53 196.31"><title>Authentic Marathi</title><g id="_ffffffff" data-name="#ffffffff"><path d="M178.2,70.84c2,1.44,4.25,3,4.91,5.48.58,2.24-.85,4.32-2.47,5.71-3.21,2.77-7.25,4.3-11.19,5.73C172.37,82.12,175.27,76.47,178.2,70.84Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path></g><g id="_151515ff" data-name="#151515ff"><path d="M169.31,27.49c2.66-1,5.64-.69,8.36,0a38.41,38.41,0,0,1,15.19,8.34c2.76,2.57,5.56,5.66,6,9.55.54,3.55-2.19,6.85-5.4,8-2.1.74-4.92-.68-6.46,1.38-2,2.83-3.38,6.05-5.14,9,5.35,2.87,11,6.49,13.27,12.39,1.52,3.81.5,8-1.6,11.42-1.84,5.46-2.43,11.24-3.78,16.82-2.5,11.09-6.26,22.06-12.54,31.61a33.84,33.84,0,0,1-10.36,10c1.76,2.82,3.74,5.91,3,9.42,11.54-4.16,23.14-8.19,34.84-11.88,3.5-1.37,6.91,1.6,8.68,4.4,2.14,3.06,1.39,8.32-2.53,9.49,3.89-.89,7.65,2.74,7.39,6.58a5.89,5.89,0,0,1-2.85,4,48.34,48.34,0,0,1-8,3.56q-30.93,13.17-61.67,26.83a10.36,10.36,0,0,1-9.37.58c-4-1.63-7.73-4.6-8.86-8.9-.75-2.8-.82-6.42,1.57-8.46,1.58-.93,3.27-1.63,4.86-2.53-3.67-1.36-4.29-6.42-2-9.24,1.39-1.84,3.62-2.69,5.77-3.25a103.28,103.28,0,0,1-32.54-2.71,32.66,32.66,0,0,1-11.38-5.38,6.43,6.43,0,0,1-2.52-5.86c.2-2.52,1.89-4.53,3-6.68a33.37,33.37,0,0,1-10.73-10.58c-7-11-10.13-23.88-12.47-36.56-.89-4.49-1.55-9.1-3.48-13.31a12.05,12.05,0,0,1,.23-11,22.81,22.81,0,0,1,6.87-7.3c5.63-4,12.14-6.4,18.69-8.29,16.23-4.45,33.26-5.43,50-4.28,4.66.32,9.31.93,13.92,1.69,2.77-4.08,5.59-8.15,8.32-12.26.64-1.1,1.53-2.33,1.18-3.68-.58-1.53-1.72-2.83-2-4.48-.47-3.33,1.18-7.12,4.43-8.39m-.71,7.78c.49,1.91,2,3.53,1.9,5.58.11,3.19-2.19,5.66-3.77,8.2C156.85,63.87,147,78.77,136.24,93a111.69,111.69,0,0,0,17.23-1.55c5.84-10.29,12.23-20.25,18.92-30a15.51,15.51,0,0,1,2.41-2.77,35.11,35.11,0,0,1-2.92,6.86c-2.76,5.59-5.77,11.06-8.75,16.54-.54,1-1.19,2.38-.24,3.38s2.48.41,2.91-.71c4.24-8.54,8.33-17.16,12.85-25.55,2.9-4.48,1.85-10.8-1.75-14.59,2.89.29,4.74,2.82,7.41,3.67a12.89,12.89,0,0,0,5.1.82,4.8,4.8,0,0,0,3.4-6.48c-1.18-2.77-3.7-4.65-6.15-6.23-3.79-2.38-7.88-4.62-12.39-5.13-2.49-.22-5.63,1.24-5.67,4.07M94.42,66.5c-4.32,1.38-8.69,3-12.3,5.78-1.87,1.46-3.64,3.74-2.94,6.26s2.9,4,4.94,5.32c5,3,10.77,4.68,16.45,6A138.75,138.75,0,0,0,130.5,93q11.26-14.69,22-29.77a161,161,0,0,0-26-1.35c-10.83.32-21.71,1.54-32.1,4.67m-21,6.73c-2.11,1.92-4.08,4.54-3.83,7.55s2.49,5.36,4.71,7.2c4.37,3.48,9.55,5.76,14.76,7.68,10.22,3.62,21,5.25,31.81,6,15.43.87,31.08-.08,46.05-4.07,7-2,14-4.48,19.75-9,3-2.42,5.65-6.14,4.75-10.21a14.88,14.88,0,0,0-4.8.41c-1,4-4.45,6.72-7.87,8.66-6.57,3.64-14,5.44-21.29,6.82a161.24,161.24,0,0,1-44.15,1.23c-8.54-1-17.1-2.57-25.1-5.79-4-1.67-8-3.73-10.74-7.15a7.87,7.87,0,0,1-1.26-8.26c1.76-3.88,5.63-6.11,9.24-8a41.13,41.13,0,0,0-12,7M178.2,70.84c-2.93,5.63-5.83,11.28-8.75,16.92,3.94-1.43,8-3,11.19-5.73,1.62-1.39,3.05-3.47,2.47-5.71-.66-2.5-2.93-4-4.91-5.48M75.68,99.29c1.81,11.37,4.69,22.84,10.87,32.7a29.33,29.33,0,0,0,8.28,9.11c8.89,6.2,19.94,8.35,30.6,8.83,8.55.33,17.27.11,25.49-2.5,7.72-2.39,15.51-6.13,20.49-12.72,6.1-8.77,9.82-19,12.42-29.25-.58-.56-1.18-1.12-1.79-1.64-.9,2.39-1.36,4.93-2.16,7.36-2.73,8.89-6.74,17.61-13.09,24.51-7.39,7.81-18.48,11.28-29,10.89a56.5,56.5,0,0,0,17.14-5.38,34.71,34.71,0,0,0,14.93-14.88c4.45-8.61,6.13-18.28,7.8-27.74a95.3,95.3,0,0,1-17.31,5,157.75,157.75,0,0,1-56.21.41c-8.95-1.67-17.91-4.08-25.93-8.53-1.26.89-2.76,2-2.49,3.81M195.3,149.11c-17,5.65-33.52,12.4-50.25,18.68,4.15,2.26,9,6.56,7.14,11.84a7.78,7.78,0,0,0,1.4-3.29c18.89-7.77,37.83-15.43,56.68-23.3.18-.33.56-1,.75-1.32-19.37,7.47-38.72,15-58.1,22.5l-.81-1.74c15.3-6,30.55-12.2,46-17.7a109.3,109.3,0,0,1,12.89-3.9c-.14-2.43-2.06-5-4.71-4.69-3.79.48-7.4,1.8-11,2.92m-98-1.48c-.85,2.18-3.21,4.06-2.55,6.6,1.11,1.73,3.16,2.57,4.93,3.48,7.22,3.13,15.16,4.09,23,4.68,11.2.67,22.76.34,33.48-3.28,2.32-1,5.25-1.72,6.5-4.14,1-2.16-.41-4.52-2.22-5.72a67.66,67.66,0,0,1-22.6,4.9c-13.7.63-28.06-.13-40.49-6.52m107.31,12.3q-23.16,9.47-46.33,18.89c-3.41,1.45-6.93,2.66-10.22,4.38-1.45.73-3.11.56-4.67.83,3.55.59,5.27,4.14,5.32,7.42,9.45-4.25,19-8.22,28.51-12.38,3.56-1.59,7.2-3,10.62-4.89-12.48,4.93-24.71,10.65-37.66,14.28,3.74-2.36,7.85-4.05,11.81-6,15.26-7.13,30.69-13.89,46.09-20.71a39,39,0,0,0,5.18-2.46,17.61,17.61,0,0,0-8.65.64m-70.73,11.94c-.54,1.4-.58,3.31.61,4.39.77.67,1.86.33,2.79.42,1.28-.32,1.51,2,.4,2.25-1.38.56-2.67,1.27-4,1.92a7.48,7.48,0,0,1,3.09,3.49l3.78-2.45c-1.09-2.14-1.83-4.9-.42-7.07,1.54-1.67,3.69-2.59,5.51-3.9a10.59,10.59,0,0,0-6.16-1.38c-2,.16-4.54.32-5.59,2.33m8.52,3.8c-.43,1.3-.9,2.81-.21,4.1,1.17,1.85,3.87,1.78,5.68,1,2-.94,1.88-3.37,1.41-5.19a15.92,15.92,0,0,1-4.64,1.94,8.15,8.15,0,0,0-2.24-1.9m-11.76,7.48c-1.71,1.35-1.56,3.87-1.18,5.81.84,3.93,4.26,6.66,7.84,8.07,2,.76,4.39,1,6.11-.42,3-2,3.7-6.9,1.13-9.53-2.33-2.27-6.08,1.12-5,3.83.31,1.53,2.16,1.4,3.35,1.28.5.55,1.36,1,1,1.91a11,11,0,0,0-2.67,2c-4.3.86-9.55-1.91-10.26-6.43,1.34,1.7,2.49,3.67,4.44,4.76,1.68,1.08,3.73,1.21,5.66,1.37l-.45-1.06c-1.8.08-3-1.68-3.34-3.26s.15-2.95.49-4.37a30.07,30.07,0,0,1-4.55,2.34,1.14,1.14,0,0,1-.72-1.68c.69-.68,1.72-1,2.19-1.88C134.88,183.85,132.44,181.94,130.6,183.15Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M96.48,69.73a90,90,0,0,1,22.69-4.48c6.25-.38,12.62-.76,18.79.47-11.5,1.51-23.19,1.74-34.54,4.34A83.72,83.72,0,0,0,86,75.94C88.83,72.91,92.68,71.15,96.48,69.73Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M66.63,148.5c4.08-3.8,9.56-5.4,14.26-8.23,4.13,5.07,3.75,12.79.27,18.09a27.68,27.68,0,0,1,13.26,7.18c-1.76,2.86-3.25,6.07-6,8.11a11.92,11.92,0,0,1-5.75,2c1.64,3.1,1,6.8,2.55,9.94.76,1.18.45,3.06-1,3.45a21,21,0,0,1-15.47-.41,14.19,14.19,0,0,1-5.65-5c-5.68,5-13.14,8.17-20.76,7.56a7.54,7.54,0,0,1-2.93-1.38,4.64,4.64,0,0,1-.6-3.88,67.24,67.24,0,0,1,2.85-11.08c-1.56-.64-3.25-1.25-4.33-2.61-1.28-1.6-2-3.59-3.32-5.14a15.34,15.34,0,0,1-2.17-2.8c-.25-.82.57-1.44,1.12-1.89a21.36,21.36,0,0,1,11.9-3.84c-.87-3.18-1.16-6.49-1.76-9.72a17.13,17.13,0,0,1-.34-4.62,2.79,2.79,0,0,1,3.53-2c6.92,1.29,14.31,4.61,17.48,11.3a10.72,10.72,0,0,1,2.92-5m-.17,4.78c-1.24,1.84-1.39,4.09-1.83,6.19l-.54.39c-1.69-1.43-2.13-3.74-3-5.67a12.35,12.35,0,0,0-6.44-6.66,41.78,41.78,0,0,0-9.89-3.28c.5,4.07,2.89,7.6,5,11,2.84,3.43,7.19,5.11,10.53,8a21.73,21.73,0,0,1-5.44-1.32,25.56,25.56,0,0,0-19.52,1c2.55.6,3.86,3.27,6.47,3.73,4.89,1.21,10,.27,14.88-.3-1.3,1.73-3.45,2.3-5.19,3.43a16.46,16.46,0,0,0-6.32,6.63,54.41,54.41,0,0,0-3.57,12.18c3.46-3.1,8.24-3.59,12.12-6,4.77-2.62,7.83-7.57,9.26-12.7,1.92,7.45,8.65,12.85,15.86,14.81,1.33.3,2.74,1.64,4.08.79.56-1.56-.48-3.14-.65-4.69-.74-5.66-5.12-10.18-10.08-12.58,0-.66-.06-1.32-.08-2l-.42.6L70,165.57c1.44-2.15,4-3,6.49-3.28,3.35-.39,7.18-.34,9.77,2.15l-.12-.12,1,.9c.77.11,1.54.19,2.31.26-5,1.18-10.09,2.83-15.25,1.88-.28-.48-2.23,0-1.18.58,3.27,1.18,6.84.91,10.23.56,2.82-.22,5.34-1.58,7.94-2.53-.34-.49-.53-1.21-1.17-1.41-2.34-1-4.61-2.21-7-3-4.45-1.31-9.11-.1-13.26,1.64,1.62-1.74,3.71-2.91,5.46-4.49a29.31,29.31,0,0,0,5.41-11.61c.36-1.2-.36-3.12-1.88-2.61a19.65,19.65,0,0,0-12.25,8.81M75,166a89.92,89.92,0,0,0,10.76-.37c.5-1.07-1.28-1.22-2-1.29C80.87,164.21,77.18,163.61,75,166Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M121.41,145.9a29.34,29.34,0,0,1,10.81.28A20.55,20.55,0,0,1,121.41,145.9Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M49.17,147.9c2.46-.78,4.82.92,6.57,2.5,3.16,2.93,6.15,6.95,5.45,11.52-3.9-2.76-8.75-4.59-11.1-9,1.93,2,4,4,6.6,5,0-3.87-3.63-8.39-7.83-7C48.56,149.94,47.86,148.38,49.17,147.9Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M77.3,147.72A3.71,3.71,0,0,1,78,152a17.14,17.14,0,0,1-5.32,6.5C74.63,155.09,77.43,151.89,77.3,147.72Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M67.39,154.36a8.86,8.86,0,0,1,6.47-5.26c-2.47,2.72-5.33,5.9-5.18,9.82.08,1.44,1.79,1.12,2.78,1a43.27,43.27,0,0,1-4.6,3.24C65.25,160.45,66.22,157.07,67.39,154.36Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M39.81,163.36a47.13,47.13,0,0,1,12.5,0c2.16.3,4.42-.08,6.47.8C52.52,164.85,45.68,166.53,39.81,163.36Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M63.49,167c-1.75-.39-1.16-2.49,0-3.2l-.2,2c1.37.21,2-.92,2.6-1.91C66.19,165.45,65.47,167.38,63.49,167Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M66.48,167.42c1.38-.73,1.47-2.4,1.92-3.71a6.25,6.25,0,0,1-.1,3.78c1.9.93,4,1.49,5.69,2.83a22,22,0,0,1,5.89,7.18c.57,1.27,1.34,3.35-.2,4.24-1.73.57-3.35-.67-4.54-1.79,1.12,0,2.14,1.25,3.22.52-.77-3-3.38-5.13-5.55-7.2-1.37-1-2.77-2.59-4.6-2.41-.38,1.91.92,3.58,1.49,5.3a13.84,13.84,0,0,1-4.39-7,4.73,4.73,0,0,1-3.91-1.45C63.09,168,64.94,168.43,66.48,167.42Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M59.13,168.94a4.08,4.08,0,0,1,1,4.61,16.29,16.29,0,0,1-6.43,7.52c-2.87,1.89-6.48,2.07-9.31,4,1.65-3.17,2-6.9,4-9.89a11.42,11.42,0,0,1,7.71-5.2c-2.79,3.28-6.74,6.16-7.43,10.7a28.11,28.11,0,0,0,9-7.46A7.44,7.44,0,0,0,59.13,168.94Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M79.4,203.86a44.86,44.86,0,0,1,31.45-8.3c8.85.78,18.23,4.66,22.68,12.77,3.68-.27,7.31-1.11,11-1,1.49,0,3.39,1.08,3,2.79a3.2,3.2,0,0,1-2.74,1.83c-3.72.42-7.51.27-11.22.65a41.1,41.1,0,0,1-18.94,7.69,37.17,37.17,0,0,1-20.86-3.91A36.21,36.21,0,0,1,79.4,203.86m3.7,0c5.48,5.84,13,9.59,20.69,11.42A30.68,30.68,0,0,0,126,211.75c-6.74-1.22-13-4.27-19.64-5.73a64.66,64.66,0,0,0-14.88-1.45c6-2.3,12.57-1,18.65.2,6.5,1.36,12.79,4.11,19.55,3.84-4.47-6.51-12.47-9.5-20.08-10C100.55,197.94,91,199.23,83.1,203.87Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M159.44,200.8a6.16,6.16,0,0,1,9.31-1.5c2.49,2,2.77,5.7,1.33,8.44a29.07,29.07,0,0,1,2.86,1.28,2.53,2.53,0,0,1-2,1.38,56.43,56.43,0,0,1-7.47.07c-4.21-.71-6.4-6.16-4.05-9.67m3.69-.84a3.55,3.55,0,0,0-2.46,4.39,4.79,4.79,0,0,0,5.19,2.53c2.31-.51,3-3.57,1.8-5.39A3.89,3.89,0,0,0,163.13,200Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M175.93,202.19a5.1,5.1,0,0,1,8.4,1.73c.86,1.78.21,3.71-.73,5.3.92.27,1.84.55,2.74.88-2.07,1.84-5.09,1.11-7.59,1-4.06-.48-5.76-6.15-2.82-8.89m1.93.81c-2.47,1-1.29,5.57,1.46,5.3,2.56.13,3.75-3.57,1.86-5.14A5.69,5.69,0,0,0,177.86,203Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path><path d="M162,221.13c-2.6-3.09-.26-8.46,3.83-8.52,3.84-.27,6.48,4.16,5,7.57a9.32,9.32,0,0,1,4.13,1.07,7.38,7.38,0,0,1-4.61,1.69c-2.83.14-6.43.94-8.34-1.81m2.86-6.37a3,3,0,0,0-1,4.55,2.75,2.75,0,0,0,4.63-.42C170,216.7,167.29,213.28,164.9,214.76Z" transform="translate(-31.74 -26.85)" style="fill:#fff"></path></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h5 class="elementor-icon-box-title">
+						<span  >
+							Maharashtrian Cuisine						</span>
+					</h5>
+				
+									<p class="elementor-icon-box-description">
+						Savor the rich flavors of Maharashtra with our traditional dishes made from age-old recipes. 					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-01c75e9 elementor-view-stacked elementor-position-inline-start elementor-shape-circle elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="01c75e9" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 227.24 147.7"><title>North Indian</title><g id="_000000ff" data-name="#000000ff"><path d="M108.77,61c15.79-7.47,33.48-10.42,50.87-9.82,17.2.67,34.54,4.91,49.32,13.92a62.39,62.39,0,0,1,17.51,15.57,40.68,40.68,0,0,1,8,19.61,4.73,4.73,0,0,1,3.08,1.23,3.79,3.79,0,0,1-.09,5.35,5.6,5.6,0,0,1-2.91,1.19,41.11,41.11,0,0,1-8.74,20.69c-8.91,11.31-22,18.61-35.5,23a3.79,3.79,0,0,1-4.57-5c.74-2.18,3.26-2.49,5.12-3.22,11-4,21.67-10.17,29-19.52a34.65,34.65,0,0,0,6.87-14.93,407.27,407.27,0,0,1-60.2,4.87,3.78,3.78,0,0,1-3.68-4.49,3.88,3.88,0,0,1,4.09-3.08,405.16,405.16,0,0,0,60-5c-.75-7.68-4.58-14.77-9.83-20.32-8.17-8.67-19.1-14.27-30.37-17.8a110.38,110.38,0,0,0-47.73-3.46c-12.84,1.88-25.54,6-36.37,13.27A50.66,50.66,0,0,0,88.43,87.29,3.79,3.79,0,1,1,82.21,83C88.6,73.19,98.33,66,108.77,61Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M157.8,66.48a22.26,22.26,0,0,1,5.88-.08,3.8,3.8,0,0,1,2.11,6c-1.53,2-4.34,1.39-6.54,1.47a3.79,3.79,0,0,1-1.45-7.38Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M193.39,71.37A14.47,14.47,0,0,1,209,79.65a3.79,3.79,0,0,1-3.64,5,4,4,0,0,1-3.49-2.41,6.83,6.83,0,0,0-8.07-3.2c-1.33.47-2.8,1.18-4.2.47a3.82,3.82,0,0,1-1.5-5.82C189.43,72.24,191.52,71.79,193.39,71.37Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M129.93,77.86a14.49,14.49,0,0,1,12.67,3.06,3.77,3.77,0,0,1,.6,4.86,3.81,3.81,0,0,1-5.52.87,7,7,0,0,0-7.16-1.05,9.7,9.7,0,0,0-3.18,2.51,3.73,3.73,0,0,1-5.16-.1,3.78,3.78,0,0,1-.36-5A14.48,14.48,0,0,1,129.93,77.86Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M76.13,94.26a115.5,115.5,0,0,1,54.71,4.38c11.58,4,22.66,10.14,31.13,19.1,6.28,6.63,10.9,15.08,11.9,24.24a4.93,4.93,0,0,1,3,1.2,3.79,3.79,0,0,1-.06,5.38,5.39,5.39,0,0,1-3,1.19,41.45,41.45,0,0,1-9.17,21c-7.51,9.3-17.9,15.9-28.89,20.38-16.06,6.49-33.7,8.68-50.93,7.31A106,106,0,0,1,50.57,190c-10.43-4.66-20.24-11.33-27.17-20.53A39.7,39.7,0,0,1,15.05,146a5.11,5.11,0,0,1-2.93-1.69A3.79,3.79,0,0,1,13,139a5.23,5.23,0,0,1,3-.73c2.37-10.79,9.48-20,18.05-26.66,12.13-9.46,27-14.88,42.11-17.31m3.77,7.08c-14.18,1.91-28.28,6.48-39.92,15-7.83,5.76-14.53,13.77-16.63,23.45,6.4,1.24,12.82,2.44,19.27,3.44,1.39-1.31,2.64-2.77,4.09-4a3.79,3.79,0,0,1,5.74,1.56,4.48,4.48,0,0,1-.41,3.85,388.25,388.25,0,0,0,84.29,2.08,3.93,3.93,0,0,1,3.14-4.6c2.71-.46,4.22,2.21,6,3.75,7-.73,14-1.7,20.94-2.72A34.22,34.22,0,0,0,158,124.48c-7.17-8.4-17-14.09-27.24-17.9-16.19-5.93-33.85-7.42-50.9-5.24m-55.21,55c2.91,7.7,8.63,14,15.17,18.89,9.35,6.9,20.4,11.2,31.7,13.64a119.24,119.24,0,0,0,29.5,2.32,94.19,94.19,0,0,0,47-15.08c-2.37-.19-5.41.76-7.16-1.37a3.8,3.8,0,0,1,2.21-6.11,22.81,22.81,0,0,1,5.66.09,4,4,0,0,1,2.41,5.17,39.58,39.58,0,0,0,14.95-23.08,420.88,420.88,0,0,1-45.51,4.52,60.79,60.79,0,0,1-4.64,4.72,3.77,3.77,0,0,1-5.56-.86,4.62,4.62,0,0,1-.41-3.59c-9.12.3-18.26,0-27.37-.48a4.4,4.4,0,0,1,.09,3.92,3.76,3.76,0,0,1-5.64,1.11c-1.81-1.81-4-3.42-5.16-5.73a395.7,395.7,0,0,1-49.17-7.15A29.15,29.15,0,0,0,24.69,156.36Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M172.71,93.09a19.07,19.07,0,0,1,5.94-.2,3.78,3.78,0,0,1,2.32,6c-1.55,2.12-4.48,1.43-6.74,1.5a3.78,3.78,0,0,1-1.52-7.28Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M81.82,104.44a19.37,19.37,0,0,1,5.94-.18,3.78,3.78,0,0,1,2.31,6c-1.56,2.14-4.5,1.44-6.77,1.51a3.78,3.78,0,0,1-3.77-3A3.83,3.83,0,0,1,81.82,104.44Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M117.74,109.23a14.47,14.47,0,0,1,15.54,8.4,3.8,3.8,0,0,1-3.53,5,4.06,4.06,0,0,1-3.7-2.49,6.8,6.8,0,0,0-8.23-3c-1.29.49-2.74,1-4.06.35a3.81,3.81,0,0,1-1.14-6.09A10.8,10.8,0,0,1,117.74,109.23Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M54,115.79a14.48,14.48,0,0,1,12.83,3,3.77,3.77,0,0,1-4.69,5.89,7.19,7.19,0,0,0-6.38-1.5c-1.92.36-3.15,1.93-4.54,3.13a3.79,3.79,0,0,1-5.78-2.59c-.35-1.76.86-3.24,2.07-4.34A14.56,14.56,0,0,1,54,115.79Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M199,121a3.81,3.81,0,0,1,4.52,4.93,14.48,14.48,0,0,1-15.19,8.11,12.39,12.39,0,0,1-5.45-2.08,3.8,3.8,0,0,1,.46-6,4.14,4.14,0,0,1,4.28,0,6.83,6.83,0,0,0,8.47-2.29C196.8,122.58,197.57,121.3,199,121Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M97.59,130.78c2.56,0,6-.91,7.74,1.57a3.78,3.78,0,0,1-3,5.88c-2.27-.07-5.16.67-6.82-1.34A3.8,3.8,0,0,1,97.59,130.78Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M49.54,165.53A3.8,3.8,0,0,1,54,168a7,7,0,0,0,6.23,4.54c1.88.15,3.8-1.24,5.61-.24a3.81,3.81,0,0,1,1.55,5.39c-1.09,1.78-3.38,2.05-5.26,2.35a14.52,14.52,0,0,1-15.38-9.94A3.79,3.79,0,0,1,49.54,165.53Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path><path d="M101.25,168.73a4.19,4.19,0,0,1,4,1.29,6.81,6.81,0,0,0,8.74.16c1.08-1,2.43-1.9,4-1.51a3.81,3.81,0,0,1,2.39,5.9,14.42,14.42,0,0,1-16.63,3.4A12,12,0,0,1,99,174.31,3.82,3.82,0,0,1,101.25,168.73Z" transform="translate(-11.38 -51.15)" style="fill:#fff"></path></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h5 class="elementor-icon-box-title">
+						<span  >
+							North Indian Favorites						</span>
+					</h5>
+				
+									<p class="elementor-icon-box-description">
+						Indulge in the diverse tastes of North India, from aromatic curries to tantalizing tandoori delights.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-eecd661 elementor-view-stacked elementor-position-inline-start elementor-shape-circle elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="eecd661" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 225.38 202"><title>Fresh &amp;amp;  Local Ingredients</title><g id="_191919ff" data-name="#191919ff"><path d="M33.53,29.8A6.17,6.17,0,0,1,38.65,24c9.05,0,18.09,0,27.14,0a5.76,5.76,0,0,1,4.26,1.86,4.25,4.25,0,0,1,1.54,3.3c0,5.85,0,11.7,0,17.54-.54,2.37-2.82,3.57-4.66,4.82,0,1.8,0,3.6,0,5.41a2.6,2.6,0,0,0,.73,1,15.56,15.56,0,0,1,12,6.81,21,21,0,0,1,2.58,6.16c.17,4.57,0,9.15.09,13.73l.32.89a27.71,27.71,0,0,1,7.33-.4c1.67.06,3.08,1.34,4.77,1.23A26.41,26.41,0,0,1,99,83.49a21.74,21.74,0,0,1,5.1-1.72,16.81,16.81,0,0,1,12.6,3.37,2.07,2.07,0,0,0,1.27.35c4.65-4.71,9.36-9.37,14-14.07a9.65,9.65,0,0,1,5.06-3.3,5.44,5.44,0,0,1,3.9,1.26,29,29,0,0,1,7.23,10.13,10.64,10.64,0,0,0,1.42,2.55,29.12,29.12,0,0,1,7.76-3.16c1.74-.22,3.42-.86,5.19-.73a25.91,25.91,0,0,1,11.66,2.07c1.78.8,2.14,2.88,2.75,4.53,1.34,3.73.81,7.73.88,11.6.1.12.31.33.42.44,1.18,0,2.33-.46,3.53-.35A17.59,17.59,0,0,1,193,101.14a18,18,0,0,1,5,8c.46,1.19.1,2.52.67,3.69,2,.78,4.21,0,6.21.72,1.85.58,4,.71,5.42,2.14,1.28,1,1.53,2.77,2.06,4.25a28.67,28.67,0,0,1,.27,12c-.21,1.47-1.22,2.72-1.16,4.23A10.76,10.76,0,0,1,214,139a7.57,7.57,0,0,1,.35,3.28,28.48,28.48,0,0,1-.25,5.23c-.16,1.17,0,2.36-.15,3.54a19.6,19.6,0,0,0-.56,4.88,6.73,6.73,0,0,1,5.84,3.14c1,1.66,2,3.35,2.91,5.07a14.87,14.87,0,0,1,0,4.8c-1.68,3.19-5.27,4.47-8,6.49a6.84,6.84,0,0,0-1.11,1.4c2.66-.48,5.32-.93,8-1.54,3.07-.36,6-1.26,9.11-1.64,3.74-.38,6.88,3.2,7,6.77-.08,1.59.79,3.06.63,4.66a6.76,6.76,0,0,1-4.88,5.64,24.4,24.4,0,0,1-2.68.4,49.3,49.3,0,0,1-6.13,1.13c-1.6.17-3.12.84-4.74.92a26.71,26.71,0,0,0-2.66.41c0,.25,0,.51,0,.76,2,.35,3.91.77,5.83,1.3,2.64.15,5.43,1.6,6.37,4.2,1,2.28,0,4.73-.19,7.06a6.79,6.79,0,0,1-4.48,6.08c-3.28.44-6.49-.5-9.67-1.14a53.37,53.37,0,0,1-6.88-1.26c-2.95-.1-5.75-1.25-8.69-1.38a23.21,23.21,0,0,0-3.69-.66,3.5,3.5,0,0,0-.33,2.12c.39,6.24-4.08,12.09-9.79,14.26a27.52,27.52,0,0,1-4.54,1q-65.08,0-130.17,0a30.46,30.46,0,0,1-5.81-.24,36.94,36.94,0,0,1-19.66-7.54A33.06,33.06,0,0,1,13.93,203a31.05,31.05,0,0,1-1.44-13.43,31.91,31.91,0,0,1,9.63-19c.36-.42.91-.81.91-1.41q0-48.66,0-97.31A16,16,0,0,1,35.21,58.22c1-.28,2.08,0,3-.55,0-2.17.08-4.33,0-6.49-2.4-.82-4.53-3-4.64-5.58q0-7.91,0-15.8m6.88,1.7q0,6.33,0,12.65a3.29,3.29,0,0,0,1.38.33c6.63,0,13.25,0,19.88,0A7.31,7.31,0,0,0,65,44.13c.07-3.93,0-7.87,0-11.8a3.57,3.57,0,0,0-.34-1.43H41.25c-.39-.08-.9.14-.84.6m4.44,19.62c0,2-.05,4,0,6,0,.67.82.9,1.36.86,4.53,0,9,0,13.57,0,1.46-1,.2-2.82.62-4.22a4,4,0,0,0-.17-2.68c-5.12,0-10.25-.08-15.37,0m-14.55,19A4.46,4.46,0,0,0,30,72.35c0,2.58,0,5.17,0,7.75,15.15,0,30.29,0,45.43,0,0-2.67,0-5.34,0-8A6.26,6.26,0,0,0,74,68.38c-1.65-2.25-4.34-4-7.22-3.78-9.78,0-19.55,0-29.33,0a9.42,9.42,0,0,0-7.1,5.47m104.49,8c-4,4-8,8-12,12a9.48,9.48,0,0,0-1.15,1.52c.64,1.22.88,2.59,1.45,3.85a22.91,22.91,0,0,1,6,3.18,18.09,18.09,0,0,1,3.75,4.25,5.39,5.39,0,0,0,3.87-1.44c.77-.57.42-1.68,0-2.39-1.79-.18-4,.63-5.41-.77A5,5,0,0,1,129.91,96c.19-1.9,1.86-3.88,3.91-3.62,1.81.09,3.68-.25,5.43.37,1.52-1.72,2.61-3.76,4.15-5.48.42-1.67-.55-3.18-1.16-4.65a24.8,24.8,0,0,0-4.59-7.1A13.49,13.49,0,0,0,134.79,78m13.05,14.32a23.16,23.16,0,0,0-3.92,7.35,4.62,4.62,0,0,0-.14,1.7,23.79,23.79,0,0,1,4.87,1.41c2.9-2.74,5.61-5.67,8.51-8.4a3.24,3.24,0,0,1,3.1-.72c1.33.75,2.69,2.18,2.38,3.83a8.26,8.26,0,0,1-2,2.61c-2.14,2-4.12,4.14-6.24,6.15-.21,1.39,1,2.33,1.78,3.31.69.42,1.5-.08,2.08-.49a14.49,14.49,0,0,1,6.81-2.31,23.88,23.88,0,0,1,3.7-5.15c1.3-1.26,1.57-3.11,2.14-4.74.43-1.21.11-2.52.42-3.75.29-1.06-.16-2.1-.16-3.16a7.61,7.61,0,0,0-1-3.86c-.37-.7-1.22-.75-1.9-.92a26.86,26.86,0,0,0-7.33-.36,21,21,0,0,0-13.08,7.5M30.06,87a3.27,3.27,0,0,0-.37,1.43q0,18.3,0,36.59l1.07.82a8.91,8.91,0,0,1,2.23-.33H56c1.35,0,2.88.76,4.06-.25a33.82,33.82,0,0,1,4-3.08c.08-1.28-.43-2.5-.33-3.79a16.4,16.4,0,0,1,4.43-11.49c.77-.82,1.75-1.42,2.46-2.29.2-1.6-.07-3.22.09-4.83a17.72,17.72,0,0,1,3.19-7.94c.72-1,2-2,1.84-3.39.09-.65-.32-1.54-1.08-1.43-14.86,0-29.72,0-44.58,0m69.27,4.43a16.46,16.46,0,0,1-3,2.84,3.64,3.64,0,0,1-2.55-.41,11.58,11.58,0,0,0-5-2.1,24.11,24.11,0,0,0-3.29,0c-5,1-9.08,6.29-8,11.46a7.83,7.83,0,0,1,.41,4.14c-.86,1.7-2.83,2.22-4.15,3.44a11.18,11.18,0,0,0-3,4.59,10.89,10.89,0,0,0-.32,4.55,24.52,24.52,0,0,0,1.48,4l.92,0c.42-1.3.73-2.63,1.1-4a5.11,5.11,0,0,1,3.29-3.4,26.21,26.21,0,0,1,11.92-1.37,23.84,23.84,0,0,1,9.81,3.48A3.93,3.93,0,0,0,100,119c1.23-1.55,2.8-3,4.85-3.24,6.27,0,12.54,0,18.81,0a14.24,14.24,0,0,0,1.27-3.2c.57-1.92,1.86-3.48,2.86-5.18a10.39,10.39,0,0,0-6.5-5.43c-1.37-.15-2.89-.36-3.84-1.47-1.24-1.16-1-3-1.12-4.52a12.91,12.91,0,0,0-1.94-3.76,10.13,10.13,0,0,0-6.67-3.84,9.93,9.93,0,0,0-8.36,3.09m73,16.26c1,1.17,2.44,1.72,3.58,2.69a16,16,0,0,1,4.07,5.07c.68,1.31,1,2.77,1.58,4.1.64,0,1.38.1,1.88-.42a23.23,23.23,0,0,1,6-3.81c.88-.39,1.73-.83,2.58-1.29.26-2.22-.78-4.32-1.93-6.15a10.7,10.7,0,0,0-9.58-4.75,11.6,11.6,0,0,0-8.15,4.56m-33.27.38a11.29,11.29,0,0,0-7.3,5.41,2.93,2.93,0,0,0-.61,2.24c6.75,0,13.5,0,20.26,0a5.08,5.08,0,0,0-1.2-2.93,10.69,10.69,0,0,0-11.15-4.7m22.06,6.79q0,.68,0,1.35a5.66,5.66,0,0,1,4,3.79,45.06,45.06,0,0,1,0,4.65c-.23,1.82-.7,3.61-1.09,5.4a50.72,50.72,0,0,1-1.8,5.06l.52.76c7.16,0,14.33,0,21.49,0a3.55,3.55,0,0,0,1.41-.36,28.17,28.17,0,0,0-.06-3.56,9.24,9.24,0,0,0-5.54-5.9c-1.18-.48-2.5-.49-3.63-1-.7-.56-1.65-1.21-1.51-2.22a9.14,9.14,0,0,0-6.73-9c-2.41-.75-4.93.07-7.13,1.11m27.84,8.24a1.43,1.43,0,0,0,.28,1.69,13.86,13.86,0,0,1,2.26,4.13l1.12.07c.83-.82,1.69-1.88,3-1.64,1.6-.31,2.89,1.16,3.33,2.55.43,2.17-1.51,3.63-2.87,5,0,.34,0,.68,0,1,2.59-.08,5.18,0,7.76,0a17.64,17.64,0,0,0,2.65-7.09c0-2.77.46-5.93-1.3-8.28a14.38,14.38,0,0,0-5.45-.72,18.2,18.2,0,0,0-10.76,3.33m-108.73-.33c-1.51,3.33-1.29,7.19-.35,10.65a3.09,3.09,0,0,0,1.66,2.43c2.09,0,4.19,0,6.28,0,0-1.54-1.69-2.82-.9-4.39.66-2,3.5-3,5.13-1.52,1.86,1.61,3.46,3.49,5.27,5.15,1.38,1.39,3.49.61,5.23.78,0-1.58-1-2.92-1.38-4.4-.43-1.13-.51-2.42-1.23-3.43a19.55,19.55,0,0,0-11.44-6.32c-2.76.11-5.84-.6-8.27,1.07m26,.25a26,26,0,0,0,1.55,7.19c.78,2,1.51,4.1,3.1,5.57,1.86.2,3.78,0,5.67.07,1.64-1.19,2.86-2.87,4.4-4.19a3.41,3.41,0,0,1,5,.33c1.06,1.07.08,2.72.91,3.9.66,0,1.32,0,2,0,.93-.55,1.52-1.53,2.44-2.1a8.26,8.26,0,0,1,2.38,0c1.37.7,2.23,2.64,4,2.13,1-.88,0-2.47.75-3.48a4.53,4.53,0,0,1,2.42-1.76c.81-.31,1.59.25,2.27.64,1.81,1.34,3.11,3.27,4.92,4.6h5.72c1.5-.92,2.06-2.78,2.8-4.29a31.17,31.17,0,0,0,2.11-8.71c-2.11-.62-4.36.08-6.5-.41-1.79-.37-3.56.27-5.36.17H119.65c-1.79.12-3.57-.6-5.35-.1a22.82,22.82,0,0,1-6-.15c-.76-.18-1.41.36-2.07.65m-40.79,6.38c-1.62,1.66-3.33,3.73-3.05,6.21q5.43,0,10.86,0a16.56,16.56,0,0,0-.1-1.73c-.47-.9-1.45-1.29-2.25-1.85a23.72,23.72,0,0,1-3.48-3.17c-.69,0-1.52-.11-2,.55m-35.74,3.87c0,10.43,0,20.87,0,31.3l1.13-.07A9.32,9.32,0,0,1,32.71,161a13,13,0,0,1,6-3.22c3.61-1.4,7.54-1,11.33-1.13,1.07-1-.15-2.38-.13-3.58-.43-2.11-.23-4.27-.63-6.38q-.07-3.09,0-6.18a5,5,0,0,1,2-3.53c1-1,2.59-1,3.89-1.46a6.46,6.46,0,0,0,.42-3.08c-8.33,0-16.67,0-25,0a.72.72,0,0,0-.85.87m26.14,9.3a26.82,26.82,0,0,0,.28,5.45,9.58,9.58,0,0,0,.86,4.32c.45-.06.91-.11,1.35-.2,1.42-.51,2.71.79,3.45,1.87a10.78,10.78,0,0,0,.38,3,18,18,0,0,0,4-.32c4.12,0,8.37-.41,12.33,1,2.45.69,5,1.76,6.56,3.83.85,1.06,1.13,2.55,2.34,3.3a40.15,40.15,0,0,1,5.32,3.52,33.12,33.12,0,0,1,11.1,16.1,4.41,4.41,0,0,0,1.7-.18c3.07-1.29,6.24-2.34,9.34-3.58q25.46-9.69,50.92-19.35a26.83,26.83,0,0,1,6.2-1.79,15.53,15.53,0,0,1,14.35,7.86c.58,1,.8,2.18,1.68,3,5.11-3,10.16-6.08,15.3-9,.89-.62,2.13-1.08,2.38-2.26a26,26,0,0,0,1.21-6.6,40.2,40.2,0,0,0,.87-9.91,6.73,6.73,0,0,0-3.95-.13c-5.78.05-11.56,0-17.34,0-1,0-1.88-.28-2.82-.25-5.16,0-10.31,0-15.46,0a41.39,41.39,0,0,1-9.44,0c-14.71,0-29.42,0-44.13,0-2.51.69-5-.44-7.55.18-6.73.08-13.45,0-20.18,0a18.18,18.18,0,0,0-6,0c-3,0-6.1.06-9.14,0a8.45,8.45,0,0,0-3.47,0c-2.94,0-5.88,0-8.83,0a6.08,6.08,0,0,0-3.63.14m-16,21.67c-.5.05-.81.48-1.17.78a6.88,6.88,0,0,0,5,1.75A4.09,4.09,0,0,1,47,169a10.21,10.21,0,0,1,0,2.47c-.71,1.3-2.65,1.87-2.6,3.54a5.87,5.87,0,0,0,2.09-.22c1.52-.62,3.14-1,4.62-1.69a33.65,33.65,0,0,0,5.82-3.69c.73-.64,1.77-.47,2.67-.41a31.49,31.49,0,0,1,3.58,2.4,30.82,30.82,0,0,0,7.64,3.41,6.85,6.85,0,0,0,2.12.2c0-.34,0-.67-.05-1-1-1-2.5-1.78-2.79-3.33-.29-1.86,1.36-3.53,3.1-3.88,1.9-.17,4.16-.21,5.53-1.77-.17-.16-.51-.5-.69-.66-1.46-.39-3-.67-4.42-1-2.61-.13-5.23-.09-7.84,0a18.5,18.5,0,0,0-5.59,1.76,2.89,2.89,0,0,1-3,0,19.84,19.84,0,0,0-5.73-1.76c-2.55-.1-5.11-.06-7.67,0-1.34.27-2.65.66-4,.93m170,.94c-6.67,3.92-13.32,7.88-20,11.78a1.29,1.29,0,0,0-.64,1.49c.44,2.51.91,5,1.51,7.51a27.25,27.25,0,0,0,1,5.37c.42,1.59.43,3.24.81,4.84s.63,3.51,1.19,5.2a10.9,10.9,0,0,0,4.07.73c1.93.38,3.83.92,5.8,1.15,2.2.13,4.27,1,6.46,1.19s4.21,1,6.39,1.12c1.53.11,3,.86,4.57.53a11.54,11.54,0,0,0,1.34-1.18c-.09-.64.19-1.44-.35-1.92a2.94,2.94,0,0,0-1.87-1.09c-1.56-.27-3.05-.77-4.6-1.06-2.11-.24-4.1-1.12-6.21-1.37-3.41-.78-6.8-1.65-10.22-2.39a4.47,4.47,0,0,1-3.43-2.16,3.47,3.47,0,0,1,.65-3.44c1.34-1.33,3.31-1.45,5.08-1.7,2.62-.29,5.14-1.27,7.79-1.36,3.26-.91,6.66-1.11,9.93-2a52.28,52.28,0,0,0,7.24-1.29c1.29-.15,2.85,0,3.75-1.15,1-.87.44-2.36-.5-3-3.33-.13-6.54.93-9.79,1.47-2.7.31-5.32,1.11-8,1.39-2.5.4-5,1.1-7.48,1.35a31,31,0,0,1-8.28,1.17c-.67.07-1.09-.52-1.53-.92-1-.92-.59-2.47-.56-3.67.89-1.43,2.49-2.16,3.83-3.08,5-3.36,10-6.76,15.08-10.09a6.52,6.52,0,0,0,2.47-2.36c.36-1.2-.76-2-1.68-2.54-1.45-.35-2.6.89-3.76,1.53m-38.94,1.35-22.55,8.56a15.91,15.91,0,0,0-4,1.83c.53,3.63,2,7.19,1.6,10.91-.8,1-1.77,2.24-3.2,2-1.34.21-2.28-1-3-2-.42-1.52-.65-3.1-1-4.63-.35-1.28-.21-2.63-.65-3.88-1.34-.11-2.49.63-3.7,1.07-4.22,1.69-8.54,3.12-12.71,4.91-.24,3,1.2,5.77,1,8.74a7.64,7.64,0,0,1-1.36,1.59c-.67.76-1.79.44-2.68.43a4,4,0,0,1-2.21-3.85,15.42,15.42,0,0,0-.71-4.37,6.32,6.32,0,0,0-1.44.12c-6,2.46-12.07,4.55-18.06,7-.22,2.33,1,4.5,1,6.82a3.29,3.29,0,0,1-3.6,3.52,3.14,3.14,0,0,1-2.36-1.37c-1-2-1.05-4.23-1.68-6.31a12.61,12.61,0,0,0-3.31,1.09c-3.06,1.15-6.09,2.38-9.17,3.47a9.19,9.19,0,0,0-5.69,6.38c-.09,1.91-.29,4,.71,5.68a8.69,8.69,0,0,0,5.82,4.88c12.25.09,24.51,0,36.76,0a19.21,19.21,0,0,0,2.51.24c.41-.2.79-.46,1.18-.7-.66-2.12-.62-4.37-1.33-6.47a11,11,0,0,1-.28-4.28c.85-1.44,2.54-2.62,4.23-1.93a5.21,5.21,0,0,1,2.63,4.06,62.15,62.15,0,0,0,1.64,9.06c8.72,0,17.44.06,26.16,0-.12-2.39-1.17-4.66-1-7.09-.37-2.53,3.16-4.38,5.06-2.66,1.58,1,1.45,3,1.85,4.58s.45,3.51,1,5.19c3.56,0,7.13.06,10.69,0,.77-.81,0-2.05-.05-3-.36-3.08-1.66-6.08-1.18-9.23.72-.94,1.71-2,3-2a3.34,3.34,0,0,1,3.15,2c1,2.66.93,5.57,1.68,8.29.38,1.3.3,2.7.9,3.94,1.8,0,3.61.07,5.4-.08a8.88,8.88,0,0,0,6.32-6.77,25,25,0,0,0,0-3.35c-.27-1.3-.72-2.57-.88-3.88-.15-2.26-.86-4.43-1.23-6.65a37.66,37.66,0,0,0-1-5.57c-.31-1.34-.32-2.73-.68-4.06-.56-2.1-.75-4.28-1.17-6.41-.95-3.66-1.07-7.5-2.34-11.09a9.11,9.11,0,0,0-5.59-4.72,20.14,20.14,0,0,0-4.39,0M32.56,170.89a30.41,30.41,0,0,0-6,4.67A26.25,26.25,0,0,0,19,190.2a31.07,31.07,0,0,0,.26,7.15,26.55,26.55,0,0,0,7.25,13.51,30.18,30.18,0,0,0,11.58,6.92c2.15.52,4.28,1.36,6.53,1.29,6.1,0,12.2,0,18.29,0,1.24,0,2.57.67,3.73-.07,0-1.56-1.27-2.7-1.47-4.22-.31-1.78-1.07-3.55-.76-5.38.42-2.25.75-4.6,2-6.58a15.5,15.5,0,0,1,8.68-7.07c6.28-2.44,12.6-4.8,18.9-7.22a13,13,0,0,0,3.54-1.72,26.8,26.8,0,0,0-11.63-15.18c-.89-.53-1.77-1.5-2.91-1.09-1,.56-2,1.14-3,1.65-.07,1.56,1.42,2.85.9,4.44A6.4,6.4,0,0,1,76,181.52a22.82,22.82,0,0,1-7.69-.54,33.81,33.81,0,0,1-9.18-4.31c-.51-.43-1.07,0-1.52.33a27.62,27.62,0,0,1-6.07,3.11,18,18,0,0,1-7.2,1.47c-1.55-.06-3.23.23-4.63-.59a6,6,0,0,1-3.36-5.87,8.6,8.6,0,0,0,.94-2.89c-.86-.46-1.72-.9-2.53-1.42A1.85,1.85,0,0,0,32.56,170.89Z" transform="translate(-12.31 -24)" style="fill:#fff"></path></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h5 class="elementor-icon-box-title">
+						<span  >
+							Fresh and Local Ingredients						</span>
+					</h5>
+				
+									<p class="elementor-icon-box-description">
+						We use fresh, locally sourced ingredients to bring you the most authentic and flavorful dishes.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b14d648 elementor-view-stacked elementor-position-inline-start elementor-shape-circle elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="b14d648" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 212.72 132.25"><title>Family Dining</title><g id="_0a0a0bff" data-name="#0a0a0bff"><path d="M107.39,59.38c2.11-.29,4.26-.77,6.38-.33a21.9,21.9,0,0,1,14.33,6.86,24.48,24.48,0,0,1,5.16,7.73,32.91,32.91,0,0,1,2.08,7.89,18.31,18.31,0,0,0,.16,2.77c.26,1-.19,1.9-.13,2.87a29.44,29.44,0,0,1-.51,4,22.93,22.93,0,0,1-1.36,4.31c-.41,1.15-.55,2.38-1,3.51-.56,1.29-1,2.62-1.6,3.9a11.22,11.22,0,0,1-7.93,6.19,9.67,9.67,0,0,1-2.63.25,1.87,1.87,0,0,1-.12-2.33c.72-.54,1.65-.2,2.47-.38a9.9,9.9,0,0,0,4.91-3.22c1.4-1.91,2-4.23,2.93-6.39.46-1.16-.46-2.18-1-3.13a26.58,26.58,0,0,0-5-6.45,15.81,15.81,0,0,0-6.42-3.87C113.65,82,108.92,81,105,78.29a20.6,20.6,0,0,1-2.57-2.46,13.16,13.16,0,0,1-2.34-4.92,2.28,2.28,0,0,1,0-1.13c.49-.76,1.54-.32,2.28-.4a14.3,14.3,0,0,0,1.28,3.78,12.27,12.27,0,0,0,5.12,4.39c4.09,2,8.69,2.71,12.83,4.6a23.68,23.68,0,0,1,7.45,6.42,14,14,0,0,1,2.06,3.25l.88,0a13.23,13.23,0,0,0,.75-4.44c.47-2.25,0-4.51-.08-6.76a28,28,0,0,0-2.35-7.2,20.47,20.47,0,0,0-5.05-6.67,19.32,19.32,0,0,0-7.69-4.45,18.64,18.64,0,0,0-4.54-.84,17.71,17.71,0,0,0-4.6.3,23.19,23.19,0,0,0-3.75,1.05,5.46,5.46,0,0,1-2.57.57,9,9,0,0,0-2.76.53,12.37,12.37,0,0,0-8.26,7,22.2,22.2,0,0,0-1.79,6.55,18,18,0,0,1-.22,3.2c0,1.75-.06,3.51,0,5.26.31,1.4,0,2.86.39,4.26A29.29,29.29,0,0,0,92,98.39a29.5,29.5,0,0,1,1.6,3c-.62.42-1.13,1.24-2,1.15a19.75,19.75,0,0,1-2.9-5.24,38.92,38.92,0,0,1-2.07-8.58c.06-1.9-.34-3.77-.24-5.67a23,23,0,0,1,.2-4.06c-.12-1.83.55-3.55.8-5.34a19.67,19.67,0,0,1,2.86-6.51,14.94,14.94,0,0,1,9.59-6,25,25,0,0,1,2.86-.44C104.35,60.43,105.78,59.58,107.39,59.38Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M185.25,64.79a9.78,9.78,0,0,1,3.71-.66c1,.07,2.06-.42,3.1-.12a24,24,0,0,0,2.4.17,22.06,22.06,0,0,1,12.23,6.67,15,15,0,0,1,3.59,7.24c.13,2.67,0,5.34.05,8,.86,1.15,2.13,2,2.57,3.46a20.05,20.05,0,0,1,0,3.1,7.09,7.09,0,0,1-2.24,3.57c-.5.45-1.17.75-1.52,1.35-.28,1.08-.41,2.19-.76,3.27A17,17,0,0,1,197,113.18a8.18,8.18,0,0,1-2.37.6,2,2,0,0,1-.84-2.11c1.39-.84,3.07-.94,4.46-1.79a14.06,14.06,0,0,0,7.31-8.48c.66-1.75.72-3.65,1.21-5.45.15-.84,1.09-1,1.73-1.39a3.71,3.71,0,0,0,1.85-2.47A2.76,2.76,0,0,0,209,88.73a5.7,5.7,0,0,0-2.09.3,8,8,0,0,1-2.49.14,22.06,22.06,0,0,1-.45-3c-.11-.59-.06-1.19-.13-1.78a4,4,0,0,0-.76-1.36c-4-.1-7.8,1.06-11.72,1.41-3.21-.05-6.3-1.08-9.5-1.23a7.55,7.55,0,0,0-2.88-.11c-1,.79-.81,2.19-.9,3.32-.24,1-.09,2.15-.74,3-1.41.18-2.74-.47-4.13-.49-.71-.12-1.16.57-1.52,1.06a12.23,12.23,0,0,0,0,2.42,4,4,0,0,0,2,2.23c.48.31,1.18.33,1.54.8a15.46,15.46,0,0,0,.86,4.21,5.57,5.57,0,0,1,.17,1.73,5,5,0,0,1-1.36.69c-.44.12-.73-.31-1-.58a14.74,14.74,0,0,1-.78-3.29c-.05-.8-.86-1.2-1.39-1.67a6.5,6.5,0,0,1-2.27-7.61c.37-1.13,1.5-1.7,2.17-2.62.14-2.65-.08-5.32.08-8a16.27,16.27,0,0,1,1.5-4.3,17.5,17.5,0,0,1,4.33-5.24,21.73,21.73,0,0,1,7.74-4m3.21,1.94a21.59,21.59,0,0,0-3.66.84,23.6,23.6,0,0,0-5.5,3,15.77,15.77,0,0,0-4,4.81,8.37,8.37,0,0,0-1.06,3.43c0,2.5,0,5,0,7.49l.64.33c.22-.24.54-.44.58-.79.49-1.63.27-3.41,1-5a7.62,7.62,0,0,1,2.93-.31c1.16,0,2.32,0,3.47,0,2,.19,4,1,6,1,3.26.62,6.5-.41,9.69-1,2-.11,3.92-.07,5.88,0a2.93,2.93,0,0,1,1.52.55,17.74,17.74,0,0,0,.23,2.3c.15,1-.17,2,.37,2.9.47,0,1,.09,1.34-.36,0-2.31,0-4.63,0-6.94a13.82,13.82,0,0,0-2-5,17.9,17.9,0,0,0-8.17-6.24,26.58,26.58,0,0,0-5.05-1.23A14.69,14.69,0,0,0,188.46,66.73Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M95.5,81.31a5.77,5.77,0,0,1,4.06-.93,1.51,1.51,0,0,1,0,2.31c-1.05.22-2.23.26-3,1.07-1.36,1.36-.85,3.71.42,4.95.6.7,1.64.67,2.29,1.3a5.88,5.88,0,0,1,.57,2.92,5,5,0,0,1-2.06.59c-.37-.55-.64-1.18-1-1.72a19.05,19.05,0,0,1-1.92-1.66,6.71,6.71,0,0,1-1.56-5.59A5.48,5.48,0,0,1,95.5,81.31Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M29.06,91.47a19.39,19.39,0,0,1,12.18-2.68,3.5,3.5,0,0,0,1.64.09A9.3,9.3,0,0,1,47,89a15.52,15.52,0,0,1,9,4.57,20.73,20.73,0,0,1,5,8.07A46.91,46.91,0,0,1,62.29,107c.07,1.71.05,3.42,0,5.13a25.52,25.52,0,0,1-2.16,7.53,12.68,12.68,0,0,1-6,5.75,16.24,16.24,0,0,1-3.48,1c-1.21.36-2.5,0-3.72.35s-2.23.94-3.45,1a4.1,4.1,0,0,1-2.68,0,3,3,0,0,1,.48-2.34,10.43,10.43,0,0,0,5.77-1.89,10.26,10.26,0,0,0,3.42-4.44,12.4,12.4,0,0,1,1-2.78c.69-1,1.93-1.68,2.34-2.91a2.41,2.41,0,0,0,0-2.46c-.62-.93-1.81-1-2.68-1.6-.51-.8-.38-2-1.24-2.54a11.65,11.65,0,0,0-2.93-.66c-1.56-.39-3.19-.38-4.77-.71a31.15,31.15,0,0,1-6.91-2,3,3,0,0,0-1.4-.32A7.58,7.58,0,0,0,31.58,107c-.06.85,0,1.71,0,2.57-1.07.45-2.45.51-3.1,1.64a9,9,0,0,0,0,2.08c.51,1.9,3,2.6,3.1,4.69-.58.35-1.11,1-1.84.88a16.08,16.08,0,0,1-2.18-2.26,8.09,8.09,0,0,1-1.71-3.12,18.3,18.3,0,0,1,0-2.67,5.65,5.65,0,0,1,2.05-2.56c.42-.35.94-.65,1.16-1.17a10.73,10.73,0,0,1,.9-3,12.6,12.6,0,0,1,3.65-3.8c.52-.37,1.1.06,1.56.32a22.3,22.3,0,0,0,6.05,2.11c2.49.24,4.92.89,7.4,1.16a5.64,5.64,0,0,1,3.6,1.4c.55.56.55,1.46,1.06,2a7.57,7.57,0,0,1,3.3,3.23,17.94,17.94,0,0,1,0,3.11,7.65,7.65,0,0,1-2.12,3.45c-1.22,1-1.24,2.69-2,4a6,6,0,0,0-1.19,2.55,6.75,6.75,0,0,0,3.33-1.37,11.15,11.15,0,0,0,4.32-6.38,18,18,0,0,0,.78-4.37,38.1,38.1,0,0,0-.09-4.78,19.8,19.8,0,0,0-2.83-8.16,14.67,14.67,0,0,0-11.26-7.23c-3,.06-6.06-.09-9.09,0a17.08,17.08,0,0,0-7.22,3.11,17.24,17.24,0,0,0-5.33,7.78,23.12,23.12,0,0,0-1.16,7.33c-.09,1.67.3,3.31.27,5a20.89,20.89,0,0,0,1.49,4.35,5.4,5.4,0,0,1-1.41,1.29c-.37,0-.8.06-1-.33a14.4,14.4,0,0,1-1.53-5.48,27.54,27.54,0,0,1-.45-3.62c0-1.12-.05-2.24.05-3.35s.4-2,.56-3A19.9,19.9,0,0,1,29.06,91.47Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M123.23,92.63c.42-.7,1.51-.34,2.17-.14.23,2.12-.74,4.09-1.79,5.87a18,18,0,0,1-6.76,6.34,1.55,1.55,0,0,1-2.25-1.38c.43-.69,1.28-.9,1.93-1.33a14.86,14.86,0,0,0,6-6.93A7.32,7.32,0,0,0,123.23,92.63Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M101.8,92.84c1.23-.7,2.7-.14,3.78.6s1.57,1.84,2.48,2.65c.68.1,1.28-.38,2-.44a7.17,7.17,0,0,1,4.19.62,7.38,7.38,0,0,1,2.17,2.35c-.24.27-.46.54-.73.79-.7.07-1.52.22-2.06-.35-1-.84-2.41-1.48-3.62-.72,1,2,3.24,3.21,3.61,5.52.62,2.59-2.08,5-4.58,4.64a7.89,7.89,0,0,1-2.74-1.86,1.21,1.21,0,0,0-1.24.4,51,51,0,0,1-4,3.19,4.58,4.58,0,0,1-2.92.45c-.73,0-1.45-.81-2.16-.34-.4.29-1,.61-.94,1.19-.05,1,1.2,1.73.95,2.82a6.42,6.42,0,0,1-.95,1.79,7.6,7.6,0,0,1-2.3,1.36c-.73.5-1.22,1.3-2,1.69a8.92,8.92,0,0,0-2,1.4c-.65.55-1.62.49-2.24,1.1s-1.49,1.49-2.55,1.4c-.84.15-1.48-.49-2.22-.72-.56-.16-.95.31-1.33.62a11.79,11.79,0,0,1-2.67,2,1.23,1.23,0,0,1-1.18-.34A12,12,0,0,1,74,121.75a2.27,2.27,0,0,1,.07-1.13c.75-1.37,2.31-2,3.24-3.17.1-.7-.37-1.29-.53-1.94a3.12,3.12,0,0,1,.34-2.64c.17-.45.82-1,.12-1.32a15.57,15.57,0,0,0-3.1,2.14c-2.76,2.22-5.63,4.54-7.26,7.76a15.87,15.87,0,0,0-1.21,4.6,10.13,10.13,0,0,0,2.74,7.63,3.1,3.1,0,0,0,2.34.86,16.29,16.29,0,0,0,4.84-.79A9.88,9.88,0,0,0,79,132.13l6.89-6c.63-.35,2.1-.37,2,.7,0,6.55,0,13.1,0,19.65a2.18,2.18,0,0,1-2.32-.06,4,4,0,0,1-.09-1c0-4.62,0-9.24,0-13.86a2.62,2.62,0,0,0-.29-1.2,41.15,41.15,0,0,0-4,3.27c-1.58,1.63-3.81,2.28-5.91,2.93a23.21,23.21,0,0,1-6.17.34,6,6,0,0,1-3.77-3,14.9,14.9,0,0,1-2-4.59c-.11-1.53-.06-3.06,0-4.59a15.6,15.6,0,0,1,4.63-8.89,46,46,0,0,1,18.59-11.52,4,4,0,0,1,3.74,1.38,21,21,0,0,1,2.68,3.12c1,.29,1.64-.66,2.4-1.16a4.9,4.9,0,0,1,1.38-.05c.87.06,1.59.75,2.48.72a10.2,10.2,0,0,0,2.47-1.71,33.37,33.37,0,0,0,2.54-2.2l-.43-.71c-.7,0-1.11.6-1.6,1-.8.64-1.59,1.28-2.36,2-.31.33-.8.17-1.2.22a3.57,3.57,0,0,1-1-1.65,30.63,30.63,0,0,0,4.11-3.5c0-.16.06-.47.09-.63l-.91.07a35.36,35.36,0,0,0-3.53,2.81c-1.1.46-2-.82-1.9-1.82a31.82,31.82,0,0,0,4.1-3.39c.1-.87-.64-1.61-.46-2.5a4.67,4.67,0,0,1,2.7-3.39m1.08,2.31a1.62,1.62,0,0,0-1.12,1.78,23.16,23.16,0,0,0,2.12,2.75c1.6,1.89,3.15,3.83,4.8,5.69a1.18,1.18,0,0,0,1.91.09,1.44,1.44,0,0,0,.06-2c-1-1.3-2.11-2.52-3.13-3.8a42.24,42.24,0,0,0-3.91-4.44,3.57,3.57,0,0,0-.73,0M86.41,107a17.94,17.94,0,0,0-6.16,5.32c-.5.82-1.17,1.7-.94,2.71a15.8,15.8,0,0,0,3.63,5.06c.37.51,1,.25,1.43.06-.45-1.66-2.32-2.48-2.8-4.16a7.91,7.91,0,0,1,1.66-1.39c1.52,1.15,2.11,3.23,3.92,4,0-.39.16-.86-.15-1.17-.81-1-1.7-2-2.47-3-.34-1,.91-1.5,1.58-2,1,1.2,1.81,2.6,2.94,3.7.26.33.71.21,1.07.27a2.14,2.14,0,0,0-.27-.83c-.76-1.06-1.67-2-2.48-3-.25-.25-.22-.61-.27-.93a7.67,7.67,0,0,1,1.63-1.32c1.58,1.29,2.21,3.51,4,4.49l.64-.93c-1.75-2.42-3.24-5.11-5.6-7a1.79,1.79,0,0,0-1.4.15m-8.54,13.23a2.23,2.23,0,0,0-.81,1.69,4,4,0,0,0,2.2-1.09l0-1.21A14.8,14.8,0,0,0,77.87,120.27Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M186,99.26a10.1,10.1,0,0,1,4.19-.54,8.19,8.19,0,0,1,6.47,2.5,4.12,4.12,0,0,1,1.28,3.36,4.9,4.9,0,0,1-2.1,3.27c-1.25.9-2,2.38-3.46,3-.94.51-2,.23-3.06.28-.77,1.06-.24,2.42-.6,3.6-.38,1.71-.32,3.77-1.72,5-.81.85-2.06,1.08-2.84,2a9.31,9.31,0,0,0-.06,1.83c.75.4,1.63.52,2.36,1a2.73,2.73,0,0,1,1.24,2.07,3.79,3.79,0,0,1-.36,2.35c-.84,1.13.07,2.66-.74,3.8-.56.77-.27,1.75-.4,2.63a12.67,12.67,0,0,1-1.09,2c-.14,1,.23,2.22-.64,3a5.83,5.83,0,0,1-2.64,1.67c-1,.9-.36,2.39-.77,3.53a2.46,2.46,0,0,1-1.62,2.06,10.48,10.48,0,0,1-3.8-.57c-.6-.55-1.29-1.26-1.08-2.15a12.18,12.18,0,0,0,.48-3.7c-1-.64-2.25-1-3-2.07-1.69-2.41-1.7-5.5-1.5-8.32.31-2.52.71-5.22,2.32-7.27a5.72,5.72,0,0,1,4.18-1.19,16.27,16.27,0,0,1,3.6.7l.75-.32c.36-1,.24-2.21.92-3.11s1.85-1,2.71-1.59a2.79,2.79,0,0,0,1-2.14c0-1.78.67-3.51.47-5.29a11.15,11.15,0,0,0-1.29.07c-.39,1.49-.3,3.06-.59,4.57a2.12,2.12,0,0,1-1.09,1.87,1.87,1.87,0,0,1-1.55-1.09,13.39,13.39,0,0,0,.26-2.44c0-1,.61-2,.43-3-.21-.51-.8-.35-1.22-.43a6,6,0,0,0-.48,2.82,10.31,10.31,0,0,1-.75,3.38,3.06,3.06,0,0,1-2.08-.19c-.17-2.1.54-4.12.54-6.21A9.24,9.24,0,0,1,176,107.5a3.59,3.59,0,0,1,0-3.94,4.1,4.1,0,0,1,3.64-2.22,56.54,56.54,0,0,1,6.21.74,2.47,2.47,0,0,0,1-.26c-.23-.89-1.1-1.55-.87-2.56m2.27,1.89c-.48.21-.38.73-.39,1.16a16.41,16.41,0,0,0,3.95.53c1.47.11,2,2,3.55,1.93,0-.39,0-.77-.07-1.15a4.8,4.8,0,0,0-3-2.11,9.22,9.22,0,0,0-4-.36M179.09,104a1.78,1.78,0,0,0-.94,2.23,3.3,3.3,0,0,0,2.65,1.13c1.13.18,2.27.24,3.39.43,2.42,0,4.75.91,7.18.77a8,8,0,0,0,1-1,4.51,4.51,0,0,0,0-1.16,2.68,2.68,0,0,0-1.78-1.18c-1.58-.2-3.16-.46-4.76-.52-2.25-.23-4.48-.91-6.77-.69m-4.35,21.46c-1.16,1.46-1.31,3.41-1.64,5.18,0,1.91-.25,3.89.35,5.74a3.1,3.1,0,0,0,2.31,2.23,14.7,14.7,0,0,0,3.87.73c.84,0,1.76.49,2.53-.09,0-.44,0-.89,0-1.33a3.89,3.89,0,0,0-1.34-.26c-1.08,0-2.12-.34-3.19-.27a1.85,1.85,0,0,1,.05-2.63c1.85-.07,3.57.8,5.41.81a8.55,8.55,0,0,0,0-1.24,8.39,8.39,0,0,0-3.21-.52c-.73-.1-1.72.23-2.22-.48a3.57,3.57,0,0,1,.51-2.33c1.89-.06,3.64,1,5.53.92.53-.17.37-.72.35-1.14a18.25,18.25,0,0,0-4.19-.8,12.94,12.94,0,0,1-1.76-.3c0-.77.23-1.51.29-2.27a21.75,21.75,0,0,1,5.32.69c.44,0,1.1.22,1.31-.32,0-.39.14-.89-.3-1.1a8.89,8.89,0,0,0-3-.9,17.05,17.05,0,0,0-3.24-.57c-1.21-.07-2.66-.61-3.7.25m2.86,16.46c-.3.91-.84,2.11-.14,3,.4,0,.89,0,1-.48a4.52,4.52,0,0,0,.36-2.47Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M119.84,110.65a27.26,27.26,0,0,1,3,.09c1.63.25,3.23.71,4.86,1a34,34,0,0,1,13,6,20.27,20.27,0,0,1,3.7,4.15,15.31,15.31,0,0,1,1.85,5,27.53,27.53,0,0,0,.28,3.52c0,1.75.56,3.44.55,5.19.29,1.27.14,2.59.41,3.86,0,1.69.6,3.3.54,5-.07.52.21,1.25-.39,1.53-.6.06-1.2.05-1.79.07a9.29,9.29,0,0,1-.53-3.7,17.87,17.87,0,0,1-.25-2.63c-.71-3.74-.66-7.56-1.34-11.31a9.78,9.78,0,0,0-1.93-5.8,20.24,20.24,0,0,0-8.33-6.23,30.14,30.14,0,0,0-6.65-2.19,22.79,22.79,0,0,0-5.17-.91c-.5-.07-.79.43-1.09.74-3.16,4.41-6.24,8.88-9.42,13.25a14.16,14.16,0,0,1-2.33-3L102,114.67c-.49-.77-1.44-1.4-1.26-2.44a2.73,2.73,0,0,1,2-.9c1.48,1.82,2.72,3.83,4.1,5.73,1.28,1.75,2.51,3.54,3.78,5.3a.58.58,0,0,0,1-.11Q115.72,116.45,119.84,110.65Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M202.79,117.24c.7-.7.94-1.92,1.9-2.29a49.75,49.75,0,0,1,10.13,2.66,28.52,28.52,0,0,1,10.27,6.68,15.19,15.19,0,0,1,3.21,5.41c1.07,4.21.92,8.57,1.63,12.83.25,1.18.17,2.41.41,3.6,0,2.63.71,5.21.78,7.84a26.16,26.16,0,0,1,.24,4.43,3.7,3.7,0,0,1-1.92.3,3.82,3.82,0,0,1-.55-2.08c-.51-3.15-.45-6.35-1-9.49-.13-.63-.09-1.28-.21-1.91-.24-1.14-.06-2.31-.33-3.44,0-1.12-.3-2.19-.3-3.3s-.51-2.27-.47-3.43-.26-2.06-.26-3.1a12.56,12.56,0,0,0-3.11-6c-2.83-3.06-6.65-5-10.5-6.45a45.75,45.75,0,0,0-4.43-1.29,7.3,7.3,0,0,0-2.44-.4c-.87.72-1.53,1.67-2.47,2.31a14.55,14.55,0,0,1-3.87,1.86c-1.32.39-2.7.5-4,.78-1.44.12-2.89,0-4.33,0a3.72,3.72,0,0,1-1.94-.55,2.12,2.12,0,0,1,.39-2.1c2.22,0,4.44.13,6.65,0C198.52,119.62,201.07,119.06,202.79,117.24Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M171.9,116.41a17.09,17.09,0,0,1,3.08-.52,3.78,3.78,0,0,1,.51,2.23c-.92.53-2,.44-3,.8-5.21,1.17-10.26,3.88-13.38,8.31a23.48,23.48,0,0,0-3.07,8.16,12.55,12.55,0,0,0-.42,2.79l.9-.11a22.27,22.27,0,0,1,3.43-4.25,57.34,57.34,0,0,1,8-7.24c.64.59,1.53,1.18,1.33,2.18a54.35,54.35,0,0,0-4.58,3.86,52.46,52.46,0,0,0-7,8,14.87,14.87,0,0,0-2.47,5.78,15.46,15.46,0,0,0,1,5.5c.56,1.73,1.62,3.49,3.44,4.08a10.09,10.09,0,0,0,3.91-.26,19,19,0,0,0,7.2-4.69,23.22,23.22,0,0,0,3.09-3.41c1-.17,1.57.59,2.23,1.13-.69,1.6-2.22,2.6-3.35,3.87-.16.42-.28,1.09.3,1.22a26.77,26.77,0,0,1,4.29.23c2.81.09,5.56.67,8.35,1,1.92.06,3.78.61,5.7.76,2.29.21,4.51.8,6.79,1.07,1.75.25,3.44.76,5.19,1,1.39.17,2.7.7,4.09.9s2.91.81,4.41,1.08a80.4,80.4,0,0,1,9.07,3,23.83,23.83,0,0,1,7,4.24,7.3,7.3,0,0,1,2,3.53,6,6,0,0,1-1.91,4.89,23.54,23.54,0,0,1-6.94,4.28,83.12,83.12,0,0,1-10.65,3.44c-2.07.6-4.2,1-6.27,1.52-2.12.17-4.12,1-6.25,1.13-3.6.82-7.29,1-10.9,1.78-2.78.1-5.52.67-8.28,1-1.36-.07-2.67.33-4,.28a44.11,44.11,0,0,1-5,.51c-1.42.36-2.89,0-4.32.34-1.18.19-2.4,0-3.58.22-.86.18-1.76,0-2.62.23a30.87,30.87,0,0,1-3.34.15,38.66,38.66,0,0,1-5.49.22c-2.76.41-5.57.11-8.36.27a21.31,21.31,0,0,1-3.91.19q-12.72.06-25.45,0c-2.84-.43-5.73-.08-8.59-.29-1.41-.31-2.87,0-4.28-.34-1.83-.11-3.67.05-5.49-.14-1.16-.3-2.37,0-3.53-.31s-2.27,0-3.39-.21-2.21,0-3.3-.22-2.18,0-3.24-.29a19.48,19.48,0,0,0-3.73-.36,22.71,22.71,0,0,0-3.3-.27c-2-.4-4-.59-6.08-.85-2.55-.06-5-.87-7.56-1-1.87-.2-3.68-.7-5.55-.92s-3.72-.91-5.64-1C42.46,183.4,36,181.8,30,179c-2.62-1.37-5.44-2.94-6.73-5.75a4.4,4.4,0,0,1-.36-2.46,3.83,3.83,0,0,1,.69-2,11.27,11.27,0,0,1,3.91-3.76,47.75,47.75,0,0,1,9.95-4.24c3.15-.94,6.34-1.74,9.55-2.42,1.72-.56,3.54-.63,5.27-1.13s3.56-.45,5.3-.9a9.83,9.83,0,0,1,2.46-.42c2.41-.15,4.74-.91,7.16-1,2.86-.25,5.67-1,8.56-1a13.24,13.24,0,0,1,2.67-.21c1.65-.18,3.29-.46,5-.52,1.44-.33,2.94,0,4.39-.34,1.2-.18,2.45,0,3.64-.23.88-.17,1.79,0,2.67-.18a31.37,31.37,0,0,1,3.62-.2c2.39-.46,4.85.08,7.24-.41.52-.1.83.46,1,.86a2.58,2.58,0,0,1-.46,1.75,21.77,21.77,0,0,0-4.12.2,43.65,43.65,0,0,0-5,.23,39.86,39.86,0,0,0-4.09.2c-1,.19-2.08,0-3.1.2-.86.21-1.76.05-2.63.25-1.1.24-2.25,0-3.36.24-.93.2-1.89,0-2.81.23s-1.88.05-2.8.28c-2.73.35-5.47.57-8.21.85-2.88.6-5.85.64-8.72,1.32-2.79.19-5.47,1-8.23,1.32-4.55.92-9.09,1.91-13.54,3.24a48.61,48.61,0,0,0-9.36,3.77A11.15,11.15,0,0,0,25.9,170a3.26,3.26,0,0,0-.27,2.4c1.14,2,3.24,3.15,5.2,4.18,5.34,2.6,11.14,4,16.87,5.41,1.62.14,3.14.76,4.75,1,2,.14,3.92.82,5.92,1,2.33.22,4.6.94,6.95,1,.94.25,1.93.1,2.87.35a24.48,24.48,0,0,0,4.9.58c1.13.26,2.31.15,3.44.39,2.17.23,4.33.55,6.51.58,1.32.32,2.7.05,4,.34.8.16,1.62,0,2.41.2,1.09.25,2.21,0,3.3.29,1.65.22,3.34-.09,5,.25,1.6.16,3.22,0,4.82.12a27.41,27.41,0,0,0,4.44.21,67.64,67.64,0,0,0,7.93.23c1.21-.1,2.38.28,3.59.21,5.89,0,11.78,0,17.66,0,2.69-.4,5.42-.09,8.12-.26,1.65-.35,3.35-.08,5-.24,2.12-.43,4.31,0,6.43-.38a48.09,48.09,0,0,0,5.76-.27c1.52.06,3-.3,4.5-.3,1.28-.31,2.61-.09,3.9-.38,3.88-.13,7.71-.86,11.6-1.05,2.45-.37,4.89-.81,7.37-1,1.72-.23,3.41-.64,5.13-.85,2,0,3.9-.82,5.89-1,1.48-.15,2.89-.65,4.34-.91a16.32,16.32,0,0,0,2.93-.65,76.33,76.33,0,0,0,14-4.49,16.59,16.59,0,0,0,4.76-3.11c.62-.66,1.44-1.4,1.32-2.41.13-1-.67-1.77-1.27-2.46a23.72,23.72,0,0,0-7.28-4.15,79.31,79.31,0,0,0-7.66-2.45c-1.69-.58-3.48-.77-5.18-1.28s-3.69-.77-5.52-1.18c-2.22-.16-4.33-.92-6.55-1.09a37.07,37.07,0,0,1-3.91-.65c-1.18-.33-2.42-.14-3.61-.42a27.35,27.35,0,0,1-3.12-.49c-3.89-.36-7.77-.81-11.66-1.22-1.23.1-2.65-.4-3.7.46a16.15,16.15,0,0,1-5.14,2.05,7.19,7.19,0,0,1-6.45-1.67c-1.67-1.47-2.35-3.67-3-5.71a17.44,17.44,0,0,1-.46-4.32,54,54,0,0,1,.23-7.63c-.1-2.41.64-4.73,1.17-7A19.77,19.77,0,0,1,160.49,122,26.7,26.7,0,0,1,171.9,116.41Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M38.62,116.46a7.57,7.57,0,0,1,6,1.44,3.54,3.54,0,0,1,1.23,2.66,5,5,0,0,1-3.6,3.19c-.86.14-1.27,1-1.85,1.49s-1.66.67-2.4,1.19c-.42.4-.19,1-.2,1.54a20.71,20.71,0,0,1,.15,4.31,4.91,4.91,0,0,1-1.29,2.83,10.43,10.43,0,0,0-1.95,1.74,5.76,5.76,0,0,0-.06,1.44c1.16.56,2.53.9,3.25,2.08.55.65.35,1.59.27,2.37-.54,1.28.16,2.67-.28,4-.36.83.13,1.66.11,2.5-.13.61-.51,1.13-.67,1.74s0,1.44,0,2.16c.05,1.3-1.4,1.83-2.19,2.63,0,1.44.27,3.32-1.29,4.07-1.12.06-2.25,0-3.37,0-.91.09-1.42-.87-1.69-1.59-.2-1,.08-2.11-.13-3.15-.71-1.05-1.72-1.94-2.06-3.21a10.49,10.49,0,0,1-.76-3.39c0-1.48,0-3,0-4.45a13.94,13.94,0,0,1,.95-3,4.83,4.83,0,0,1,2.86-2.36c.84-.2,2,.27,2.52-.7.26-1-.31-2.34.57-3.16s2-1.21,2.58-2.2c.08-2.12.05-4.27,0-6.4l-1.16,0c-.09,1.79,0,3.59,0,5.38,0,1.29-2.37,1.53-2.57.21-.07-1.86,0-3.72-.06-5.58h-.93a2,2,0,0,0-.25,1.06c0,1.7,0,3.4,0,5.1a3,3,0,0,1-2,.24,1.49,1.49,0,0,1-.59-1.05c-.07-1.63.05-3.26,0-4.88-.18-.38-.65-.46-1-.61a3.51,3.51,0,0,1-2.31-2.19,6.53,6.53,0,0,1,0-1.82,3.83,3.83,0,0,1,3.51-2.31,9.43,9.43,0,0,1,2.31.22,19.4,19.4,0,0,1,4.31-.23c1.34,0,2.68,0,4,0s2.24,1.79,3.69,1.45c.48-.25,1.07-.93.58-1.44-1-1.12-2.7-.49-4-.78a5.49,5.49,0,0,1-.82-1.48c0-.44.33-.75.63-1m-11.59,6c-.27.74.58,1.4,1.27,1.31a24.76,24.76,0,0,0,4.31-.21c1.89-.07,3.78,0,5.67,0,.53-.07.71-.65.68-1.12a5.9,5.9,0,0,0-2.77-.29c-2.7,0-5.41,0-8.12,0a1.49,1.49,0,0,0-1,.36m2.67,19a4.06,4.06,0,0,0-1.27,3.15c0,1.57-.05,3.14,0,4.71.25,1.4.8,3,2.17,3.65a4.92,4.92,0,0,0,4-.14c0-.24,0-.48,0-.72a6.86,6.86,0,0,0-2.16-.23,2.86,2.86,0,0,1,.07-2.36c.74,0,1.48,0,2.22,0,.48-.13.26-.79.39-1.14a15.5,15.5,0,0,0-2.36,0,1.62,1.62,0,0,1-.28-2.17h2.81a3,3,0,0,0-.26-1.41c-.78,0-1.56,0-2.33,0-.49-.62-.28-1.45-.33-2.17,1-.46,2.1-.14,3.15-.27,0-.3,0-.59,0-.88a7.22,7.22,0,0,0-2.46-.52,6,6,0,0,0-3.41.54m1.6,14.59c0,.19,0,.56,0,.75l.61.44.63-.4c0-.21,0-.61,0-.82l-.6-.35Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M48.28,129.29c1.48-.21,2.85.51,4.29.72,3.39.92,6.85,2.37,9.2,5.09a7.45,7.45,0,0,1,1.7,3.27c.1,1.71.6,3.38.57,5.1a25.34,25.34,0,0,1,.29,3c.2.85.09,1.73.26,2.59a19.43,19.43,0,0,1,.39,4,2.57,2.57,0,0,1-2.05.53c-.87-.75-.53-2-.61-3-.29-3.11-.9-6.2-1-9.34-.24-1-.06-2.11-.57-3.05-1.07-2.45-3.58-3.82-5.93-4.79a39.78,39.78,0,0,0-4.13-1.34,2,2,0,0,0-1.95.07,10,10,0,0,1-5.59,1.89,12.5,12.5,0,0,1-3.34.17c-1-.58-.66-1.85-.09-2.6a13.33,13.33,0,0,0,5.3-.47A8.18,8.18,0,0,0,48.28,129.29Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M134.67,131.31a2.12,2.12,0,0,1,2.38-.08c0,5,0,10,0,15a1.63,1.63,0,0,1-2.43,0C134.67,141.2,134.58,136.25,134.67,131.31Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M24.86,131.8c.3-.09.6-.34.91-.26a4.2,4.2,0,0,1,1,1.64c.26.57-.46.87-.84,1.11-1.94.9-3.84,2.43-4.35,4.6a19.28,19.28,0,0,0-.33,2.71c0,2.27-.07,4.53,0,6.78a9,9,0,0,0,1.61,4.31A4.65,4.65,0,0,0,26.23,154a13.82,13.82,0,0,1,.05,2.23,2.8,2.8,0,0,1-2.2.08A6.53,6.53,0,0,1,19.55,152a13.59,13.59,0,0,1-.87-3.82c-.08-2.52,0-5,0-7.55a9.06,9.06,0,0,1,2.16-5.84A14.4,14.4,0,0,1,24.86,131.8Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M216.28,138.29a2.52,2.52,0,0,1,1.85-.39,1.58,1.58,0,0,1,.75,1.55c0,4.85,0,9.7,0,14.55a18.12,18.12,0,0,0,.25,2.74,2,2,0,0,1-2.57.35c-.21-2.12,0-4.27-.13-6.4a19.9,19.9,0,0,1-.16-3.86C216.29,144,216.26,141.14,216.28,138.29Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M54.22,141.7c.42-.75,1.41-.48,2.12-.48.5.43.17,1.2.3,1.79.36,1.89.1,3.82.26,5.73.39,1.58-.08,3.24.46,4.8-.53.8-1.51.6-2.33.6a1.21,1.21,0,0,1-.55-1.1c0-2.07,0-4.14,0-6.21A29.29,29.29,0,0,1,54.22,141.7Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M123.89,148.38c1.41.08,2.78-.32,4.19-.22a55.35,55.35,0,0,1,7.4.2,29.28,29.28,0,0,1,4.29.19,46.08,46.08,0,0,1,7.56,1.45,4.48,4.48,0,0,1,3.55,2.8,6.72,6.72,0,0,1-2.16,4.4,19.79,19.79,0,0,1-7.48,3.62,25.42,25.42,0,0,1-4.78.94,57.83,57.83,0,0,1-7.9.23c-1.51.08-3-.31-4.49-.29a32.1,32.1,0,0,1-9.35-3.17,8,8,0,0,1-3.6-3.86,3.88,3.88,0,0,1-.32-2.44,5.21,5.21,0,0,1,2.93-2.1,20.32,20.32,0,0,1,4.86-1.07,47.11,47.11,0,0,1,5.3-.68m2.39,2.42c-1.29.3-2.62.12-3.92.29a19.43,19.43,0,0,1-2.41.21,31.65,31.65,0,0,1-5.79.95c0,.36,0,.73,0,1.09a2.24,2.24,0,0,0,1.29.53c2.17.16,4.23,1,6.41,1a26.14,26.14,0,0,0,4.34.23,47.69,47.69,0,0,0,6.44.21c1.36.07,2.69-.34,4-.23a39.7,39.7,0,0,0,4.5-.31,56.25,56.25,0,0,1,5.61-1c.62-.15.51-.83.53-1.32a8.66,8.66,0,0,0-2.06-.47,32.76,32.76,0,0,1-3.39-.67c-.73-.12-1.48,0-2.2-.17-1.23-.26-2.5,0-3.72-.33-3.22-.1-6.44-.07-9.66,0m-7.85,6.52a14.34,14.34,0,0,0,5,1.61c1.48.2,3,.38,4.43.64,2,.05,4,.06,6,0,1.87-.38,3.77-.52,5.66-.78a23.08,23.08,0,0,0,3.66-1.46,2.92,2.92,0,0,0-2.15-.26,19,19,0,0,1-4.79.63c-1.2-.07-2.37.29-3.57.21a42.27,42.27,0,0,1-5.63-.18c-1-.07-2,0-3-.06-1.28-.16-2.56-.37-3.82-.64A2.66,2.66,0,0,0,118.43,157.32Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M165.42,160.77c1.94-.29,3.91-.39,5.85-.67,3.91,0,7.82-.07,11.72,0,2.92.5,5.93.4,8.77,1.31,1.75.36,3.66,1,4.66,2.56.42,1.94-.77,3.85-2.17,5.1a21.15,21.15,0,0,1-8.3,3.65,22.58,22.58,0,0,1-5,.76,37.41,37.41,0,0,1-5.8.19c-1,.07-2-.28-3.06-.26a31,31,0,0,1-8.72-2.15,13.35,13.35,0,0,1-4.34-2.83c-1-1-1.4-2.44-1.94-3.72a5.15,5.15,0,0,1,4-3.06,23.27,23.27,0,0,1,4.36-.89m3,2.17a17.87,17.87,0,0,0-3.47.53c-1.35.28-2.81.25-4,.95,0,.3,0,.59,0,.89a4.86,4.86,0,0,0,1.77.32c1.84.33,3.64,1,5.53.91a36.78,36.78,0,0,0,5.25.25,37.7,37.7,0,0,0,6.2.17c1.48-.35,3-.07,4.48-.3,1.15-.26,2.34,0,3.48-.3,1.54-.28,3.06-.72,4.63-.85.29-.15.58-.32.86-.5a4,4,0,0,0-3.17-1.36c-1.75-.16-3.43-.8-5.2-.74a28.25,28.25,0,0,0-4.6-.23c-2.94,0-5.88,0-8.82,0-1,0-1.91.29-2.88.24M165,169c1.46.57,2.86,1.43,4.46,1.54s3.26.59,4.93.54a15.77,15.77,0,0,0,5.22,0c1.53.11,3-.47,4.49-.51A13.11,13.11,0,0,0,188.8,169c-1.12-.79-2.33.12-3.52.13-.85,0-1.66.25-2.51.23-4,0-8,.06-12,0a24.54,24.54,0,0,0-2.72-.25C167.06,168.9,166,168.32,165,169Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M61.39,160.85a38.07,38.07,0,0,0,4.4-.27c3.42-.05,6.85-.06,10.27,0a19.57,19.57,0,0,0,3.59.22c2.24.23,4.44.69,6.66,1.07,1.83.47,3.89,1,5,2.62.54,2.12-.69,4.28-2.31,5.59-3.16,2.41-7.07,3.48-10.9,4.25a33.62,33.62,0,0,0-4,.5c-2,.07-4,0-6,0-1.37.06-2.66-.51-4-.48a33.91,33.91,0,0,1-5.43-1.17c-2.85-1.07-6-2.26-7.74-4.88-.51-1.11-1.38-2.32-1-3.6,1-1.81,3.19-2.28,5-2.85,2.11-.38,4.24-.76,6.37-1m1.84,2.52c-1.38,0-2.73.32-4.11.33-1.89.41-3.8.75-5.68,1.21-.17,1.1,1.1,1.36,1.92,1.55,1.72.22,3.41.62,5.12.87,1.23.28,2.5,0,3.72.29a9.25,9.25,0,0,0,1.58.1c3.43,0,6.86,0,10.29,0,.79,0,1.56-.27,2.36-.22,2.84.11,5.58-.8,8.37-1.2a2.51,2.51,0,0,0,1.33-.66l0-.74a48.82,48.82,0,0,0-7.29-1.29c-1.17-.29-2.39-.07-3.56-.35-.88-.14-1.77,0-2.64-.15A21.06,21.06,0,0,0,70.8,163a19.29,19.29,0,0,0-3.8.17,29.59,29.59,0,0,0-3.77.25M58,170a13.77,13.77,0,0,0,4,1.52,36.2,36.2,0,0,1,4.25.7c1.21.13,2.43,0,3.65.1a6.14,6.14,0,0,0,1.91.13,15.38,15.38,0,0,1,3.11-.18,17.26,17.26,0,0,0,3-.53,20.73,20.73,0,0,0,2.94-.49c1.09-.44,2.18-.87,3.29-1.24-1.38-.89-3-.08-4.53.11-1.43-.06-2.82.3-4.24.25-3.1,0-6.21,0-9.31,0-1.29,0-2.55-.3-3.84-.23S59.27,169,58,170Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M101.44,161a26.26,26.26,0,0,1,4.94-.16,18.26,18.26,0,0,1,5.05,1.26c.79.58,1.88,1.29,1.75,2.41a10.73,10.73,0,0,1-.23,2.4c0,1.51-.35,3-.29,4.49a29.81,29.81,0,0,0-.28,3.54c-.28,1.06-.07,2.18-.33,3.25s.08,2.52-.65,3.57a4.78,4.78,0,0,1-1.83,1.2,18.61,18.61,0,0,1-7,.68c-1-.23-2-.42-3-.67a4.12,4.12,0,0,1-2-1.52c-.7-.88-.22-2.08-.46-3.09-.29-1.22,0-2.48-.33-3.7,0-1.32-.32-2.62-.35-3.95-.34-1.38,0-2.81-.37-4.19a18.08,18.08,0,0,1-.06-2.44c-.06-.5.37-.84.67-1.17,1.23-1.33,3.13-1.48,4.78-1.91m-1.9,2.93c0,.29,0,.58,0,.87a7.63,7.63,0,0,0,2.26.55q3,.06,6,0a3.55,3.55,0,0,0,1.79-.66c0-.24,0-.48,0-.72a6.88,6.88,0,0,0-2.26-.33,20.87,20.87,0,0,0-4.54-.14c-1.06.28-2.2,0-3.24.45m-.7,3.55A12.79,12.79,0,0,0,99,170c.25,1.27,0,2.58.25,3.84.17.8,0,1.62.2,2.43.28,1.22,0,2.56.53,3.73a2.11,2.11,0,0,0,1.45.82,21.26,21.26,0,0,0,5,.22c1-.17,2.29-.27,2.94-1.19.52-1.31.11-2.79.32-4.16s.07-2.61.38-3.88c0-1.46.41-2.89.3-4.36a17.38,17.38,0,0,0-3.73.46c-1.34.07-2.69,0-4,0A17.3,17.3,0,0,0,98.84,167.46Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path><path d="M143.47,163.22a9.7,9.7,0,0,1,3,.18c2.29.07,5,.55,6.3,2.68a30.35,30.35,0,0,1-.43,6.52,16.37,16.37,0,0,1-.14,2.42c-.25,1.17,0,2.39-.25,3.57-.15.78-.08,1.6-.27,2.38s.13,1.87-.35,2.68a3,3,0,0,1-1.19,1.22,7,7,0,0,1-3.44,1,17.53,17.53,0,0,1-6.17-.16c-1.2-.41-2.64-.76-3.3-2s-.27-2.52-.47-3.77-.07-2.78-.4-4.15c0-2.28-.58-4.53-.53-6.83a8.77,8.77,0,0,1-.15-2.89c1.06-1.8,3.22-2.41,5.16-2.68a13.77,13.77,0,0,0,2.64-.22m-3.7,3.14c-.39.11-.53.49-.73.8,1.83.76,3.83.52,5.75.56,1.42-.06,2.92.16,4.25-.42.44-.2.13-.76-.19-.91a8.31,8.31,0,0,0-3.34-.6c-1.92.05-3.93-.24-5.74.57M138.5,170c-.17,1.13.29,2.23.2,3.37a19,19,0,0,0,.23,2.61c-.06,2,.58,3.93.5,5.93-.06.81.88,1.18,1.55,1.31,1.7,0,3.39.55,5.09.15,1-.19,2.18,0,2.81-.92.63-1.18.14-2.58.41-3.84a22.94,22.94,0,0,0,.21-2.62c.26-1.14.13-2.31.39-3.45,0-.9.55-1.87,0-2.7a12.91,12.91,0,0,0-3,.5c-1.75.08-3.51,0-5.27,0C140.6,170.33,139.55,169.51,138.5,170Z" transform="translate(-18.64 -58.87)" style="fill:#fff"></path></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h5 class="elementor-icon-box-title">
+						<span  >
+							Family-Friendly Dining						</span>
+					</h5>
+				
+									<p class="elementor-icon-box-description">
+						Enjoy a warm, welcoming atmosphere perfect for family gatherings and celebrations. 					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5bd6944 elementor-view-stacked elementor-position-inline-start elementor-shape-circle elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="5bd6944" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 192.57 199"><title>Takeout</title><g id="_000000ff" data-name="#000000ff"><path d="M189.22,28.3a3.17,3.17,0,0,1,3.14-2.77c8.44,0,16.86,0,25.3,0a3.26,3.26,0,0,1,3.59,3.15c0,13.79,0,27.59,0,41.38a3.27,3.27,0,0,1-3.18,3.59q-12.85,0-25.72,0a3.19,3.19,0,0,1-3.18-3.14c-.05-2.16,0-4.31,0-6.47-2.16,0-4.31,0-6.46,0a17.42,17.42,0,0,1-17.19,16q6.14,20.88,12.29,41.77c.78,2.74,1.8,5.48,1.72,8.37q0,44.72,0,89.42c0,1.16.15,2.46-.59,3.46a3.34,3.34,0,0,1-3,1.38H32.33a3.25,3.25,0,0,1-3.59-3.18q-.06-45.53,0-91.07a17,17,0,0,1,.63-4.86q7.17-24.27,14.34-48.55A9.89,9.89,0,0,1,36.63,71a16.8,16.8,0,0,1,.13-14.14c1.47-3.06,4.47-5.67,8-5.62,12.56,0,25.13,0,37.69-.05,8.68-4.62,17.28-9.42,25.94-14.11,4.11-2.15,8.14-5,13-5.08,22.6-.06,45.2,0,67.8,0,0-1.22-.06-2.43,0-3.64m6.37,3.64v35.3h19.26V31.94H195.59M116.8,39.78,95.88,51.19c16.13,0,32.26,0,48.39,0a3.21,3.21,0,0,1,2.44,5.23c-7.36,7.48-14.84,14.85-22.24,22.3a7.71,7.71,0,0,0,7,12.94,9.73,9.73,0,0,0,4.42-2.34c6.15-4.81,12.33-9.59,18.49-14.4A4.83,4.83,0,0,1,157,73.7c3.37-.18,6.75.15,10.1-.19a11,11,0,0,0,9.2-10.69,5.14,5.14,0,0,1,4.78-5.18c2.68-.08,5.37,0,8.06,0V38.36h-66.6a11.34,11.34,0,0,0-5.78,1.42M42.23,60.29a10.61,10.61,0,0,0,.25,8c.52,1,1.34,2.21,2.63,2.11q39.28,0,78.56,0,6.42-6.42,12.82-12.83H47.15a18.15,18.15,0,0,0-2.76.08,4.38,4.38,0,0,0-2.16,2.6m8.15,16.58Q43,101.62,35.75,126.36a11.43,11.43,0,0,0-.61,3.84v87.86H141V129.77a16.9,16.9,0,0,1,.63-4.41q6.21-21,12.43-42.09c-5.17,4-10.29,8-15.46,12a14.15,14.15,0,0,1-20.8-18.4H50.38M159.49,87.7q-5.81,19.67-11.61,39.32a10.17,10.17,0,0,0-.42,3.2q0,41.66,0,83.3c3.21-3.19,6.41-6.41,9.62-9.6,0-23.11,0-46.22,0-69.33a3.21,3.21,0,0,1,4-3.07,3.3,3.3,0,0,1,2.42,3.5q0,34.44,0,68.88,4.81,4.8,9.62,9.62V130.61a12.93,12.93,0,0,0-.62-4.05c-4.08-13.78-8.08-27.59-12.19-41.35a15.48,15.48,0,0,0-.83,2.49M152,218.06h16.58c-2.76-2.76-5.52-5.54-8.3-8.29Z" transform="translate(-28.72 -25.5)" style="fill:#fff"></path><path d="M54.41,128.17a3.2,3.2,0,0,1,6.39,0c0,3.22,0,6.45,0,9.67h6.42c0-3.22,0-6.44,0-9.66a3.2,3.2,0,0,1,6.39,0c.05,3.22,0,6.44,0,9.67h6.42c0-3.23,0-6.45,0-9.68a3.2,3.2,0,0,1,6.39,0c0,4,0,8,0,12.06a4.9,4.9,0,0,1-.55,2.66c-1.84,3.66-3.65,7.33-5.5,11-.49.72-.22,1.61-.2,2.42q1.28,17.64,2.52,35.27a9.67,9.67,0,0,1-5.59,9.56c-2.73,1.31-5.82.76-8.74.88a10,10,0,0,1-7.14-2.46,9.69,9.69,0,0,1-3.18-8C59,179.26,59.9,167,60.73,154.64c-1.86-4.16-4.09-8.17-6-12.3a6.24,6.24,0,0,1-.3-2.51c0-3.89,0-7.77,0-11.66m8.39,16.09L66,150.67h8.86c1.08-2.14,2.14-4.27,3.21-6.41H62.8m4.21,13c-.83,11.17-1.59,22.35-2.41,33.53a12.74,12.74,0,0,0-.06,2,3.18,3.18,0,0,0,3.06,2.76c1.89,0,3.79,0,5.69,0a3.23,3.23,0,0,0,3.07-3.6q-1.23-17.44-2.49-34.88C71.61,157.18,69.18,156.89,67,157.24Z" transform="translate(-28.72 -25.5)" style="fill:#fff"></path><path d="M102.34,128.5A15.14,15.14,0,0,1,112.58,125a3.18,3.18,0,0,1,2.77,3.13c0,12.72,0,25.44,0,38.17.64,7.23,1.43,14.45,2.13,21.67.22,2.5.78,5.11-.15,7.55a9.64,9.64,0,0,1-8.78,6.44,54,54,0,0,1-7.2-.17A9.64,9.64,0,0,1,93.6,192c.76-8.84,1.87-17.65,2.53-26.49-1.6-.84-3.24-1.59-4.83-2.44a3.17,3.17,0,0,1-1.58-3.16,72.72,72.72,0,0,1,4-18.08c1.86-5,4.45-9.92,8.65-13.32m-1.16,12a61.83,61.83,0,0,0-4.84,17.92c1.6.83,3.25,1.56,4.82,2.47a3.76,3.76,0,0,1,1.44,2.62H109c0-10.51,0-21,0-31.53-3.72,1.52-6.07,5-7.76,8.52m1,29.43c-.72,7.36-1.48,14.71-2.19,22.07a3.2,3.2,0,0,0,1.19,2.9c1.29,1,3,.61,4.55.7,1.58-.07,3.46.36,4.71-.89,1.14-1,1.07-2.61.86-4-.71-6.93-1.39-13.87-2.08-20.81Q105.73,169.91,102.22,169.93Z" transform="translate(-28.72 -25.5)" style="fill:#fff"></path></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h5 class="elementor-icon-box-title">
+						<span  >
+							Convenient Takeaways						</span>
+					</h5>
+				
+									<p class="elementor-icon-box-description">
+						Enjoy our delicious meals at your convenience with our quick and easy takeaway service. 					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-68baff3 elementor-view-stacked elementor-position-inline-start elementor-widget__width-initial elementor-shape-circle elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="68baff3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 230.1 197"><title>Monthly Specials</title><g id="_ffffffff" data-name="#ffffffff"><path d="M239.13,219.64l.54-.21a15.64,15.64,0,0,1,.11,4.43,32.21,32.21,0,0,1-5.38.06l0-.36c.72-.17,1.62-.15,1.91-1A8.13,8.13,0,0,0,239.13,219.64Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_393939ff" data-name="#393939ff"><path d="M115.62,27.35a22.54,22.54,0,0,1,3.06-.33c4.48,0,9-.06,13.44,0a46.48,46.48,0,0,0,6.95,1c1.53.33,3,1,4.61.94l.51.2a15.15,15.15,0,0,1-2.69.08c-1-.07-1.88-.83-2.91-.91-1.55-.15-3.15.13-4.66-.35a8.68,8.68,0,0,0-3-.65c-4.09,0-8.17,0-12.26,0-1.66,0-3.17.85-4.81.93-1,.06-1.91,0-2.87,0s-1.88.84-2.92.91a13.38,13.38,0,0,1-2.45,0l.18-.19c.56-.13,1.15,0,1.72-.16.94-.2,1.83-.63,2.78-.81A25.84,25.84,0,0,0,115.62,27.35Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_000000ff" data-name="#000000ff"><path d="M113.86,28.27c1.64-.08,3.15-.94,4.81-.93,4.09,0,8.17,0,12.26,0a8.68,8.68,0,0,1,3,.65c1.51.48,3.11.2,4.66.35,1,.08,1.87.84,2.91.91a15.15,15.15,0,0,0,2.69-.08c.53-.1.88.28,1.13.7.64,0,1.29,0,1.93.09s1.15.43,1.75.57c0,.08.08.26.1.34a4.75,4.75,0,0,1,2.6.48l0,.49a3.67,3.67,0,0,1,2.44.39c.72.56,1.74.38,2.43,1s1.42.39,2.05.81c.82.62,2,.58,2.68,1.36a3.87,3.87,0,0,1,1.92,1,3.71,3.71,0,0,1,2,1.14,10.51,10.51,0,0,1,2.51,1.35c.75.56,1.79.7,2.28,1.56a4.51,4.51,0,0,1,2,1.11c1,.79,2.15,1.32,3.1,2.17,1.36,1.21,2.86,2.26,4.27,3.41a86.94,86.94,0,0,1,7.88,8c.65,1.09,1.54,2,2.28,3a35.55,35.55,0,0,1,2.9,3.82c1.08,1.43,1.93,3,3,4.43,1,1.6,1.82,3.27,2.81,4.86a48.62,48.62,0,0,1,2.53,5.49c.46,1,.86,1.93,1.37,2.86.35.68.34,1.49.73,2.16a4.84,4.84,0,0,1,.61,1.88,7.85,7.85,0,0,0,.74,1.8c.18.56.17,1.15.3,1.71s.73,1.12.78,1.79a6.19,6.19,0,0,0,.49,2.63,7.75,7.75,0,0,1,.56,3.64c0,.74.61,1.27.71,2a46.91,46.91,0,0,1,.27,5.93c0,1.31.75,2.5.72,3.82,0,1.76,0,3.52,0,5.29a12.91,12.91,0,0,1-.25,3.51,32.8,32.8,0,0,0-.46,3.7,2.5,2.5,0,0,1-1-.59,56.36,56.36,0,0,0-5.29-4.73,3.14,3.14,0,0,1-1.23-1.73c-.2-1.24-.07-2.52-.31-3.76-.59-3.1,0-6.26-.5-9.37-.09-.76-.56-1.41-.7-2.15s0-1.65-.14-2.47-.58-1.39-.77-2.12c-.11-.58-.09-1.17-.2-1.75a15.62,15.62,0,0,0-.74-1.4c-.14-.56-.1-1.15-.22-1.72s-.72-1.15-.79-1.83a3.38,3.38,0,0,0-.53-1.58,4.37,4.37,0,0,1-.62-1.85c-2-4-3.7-8.21-6.3-11.89a39.11,39.11,0,0,0-2.49-3.78c-.72-1.09-1.64-2-2.43-3.07a39.21,39.21,0,0,0-4-4.64c-2.63-2.58-5.06-5.49-8.35-7.27l-.23-.23c-.72-1.24-2.1-1.76-3.2-2.56-1.53-1.16-3.23-2.05-4.85-3.06s-3.7-1.9-5.49-2.95c-1-.62-2.23-.82-3.24-1.47-1.16-.32-2.17-1.07-3.37-1.21-.63,0-1.06-.54-1.58-.8a8.37,8.37,0,0,0-1.31-.16c-.69,0-1.14-.64-1.78-.82s-1.17-.11-1.74-.24a10.74,10.74,0,0,0-2.25-.79,8.38,8.38,0,0,1-3.05-.61c-1.24-.55-2.61-.3-3.91-.43a18.56,18.56,0,0,1-3.13-.67,13.36,13.36,0,0,0-3.34-.23h-8.89c-1.5,0-2.88.67-4.35.84a28.92,28.92,0,0,1-3.09.12c-.88,0-1.57.68-2.42.83s-1.54.06-2.3.19c-.56.18-1,.54-1.59.71s-1.47.1-2.17.31-1.11.86-1.83.82a3.57,3.57,0,0,0-1.88.67,52,52,0,0,0-9,4,5.76,5.76,0,0,0-1.75.88,27.24,27.24,0,0,0-4.41,2.56c-1,.67-2.3,1-2.85,2.2l-.85.61-.12.09-.12.09-.58.36-.48.32-.83.75-.08.07-1,.81a22,22,0,0,0-4.46,3.48c-1.52,1.27-2.68,2.91-4.13,4.26a96.12,96.12,0,0,0-7,9.13c-1.09,1.58-2,3.26-3,4.9-1.18,2.51-2.68,4.9-3.5,7.57a13.25,13.25,0,0,1-1.22,2.58c-.57.65-.29,1.58-.54,2.34A8.38,8.38,0,0,0,53.09,88a8.27,8.27,0,0,1-.47,2.53,6.07,6.07,0,0,0-.52,2.41c0,.74-.73,1.19-.87,1.88-.21,1-.09,2.12-.2,3.17s-.52,2.06-.6,3.12a39.48,39.48,0,0,0-.21,4.07,35.38,35.38,0,0,0,.12,4.83c-1.15.36-1.84,1.37-2.66,2.17a55.9,55.9,0,0,0-5.1,5.11l-.5-.37c.2-2.77-.49-5.52-.12-8.28.19-1.54.08-3.09.22-4.64a52.85,52.85,0,0,0,.06-5.63A17.28,17.28,0,0,0,43,94.6a5.22,5.22,0,0,1,.56-2.36A7.74,7.74,0,0,0,44,89.58c.07-.73.73-1.24.81-2a4.84,4.84,0,0,1,.59-2.15c.57-.84.31-1.94.8-2.81A7.12,7.12,0,0,0,46.9,81c.21-.84.77-1.56.91-2.43a4.22,4.22,0,0,1,.69-1.47c1-2.33,2.16-4.57,3.34-6.79A91.17,91.17,0,0,1,58.7,59.6c1.37-1.74,2.9-3.35,4.25-5.11.88-1.12,2-2.05,2.94-3.07s2-2.13,3.18-3.08c1.42-1.14,2.87-2.23,4.24-3.43,1.21-1.14,2.76-1.83,4-3A88,88,0,0,1,98,31.6c1.34-.63,2.86-.68,4.18-1.36,1.23-.07,2.56-.11,3.49-1a13.38,13.38,0,0,0,2.45,0c1-.07,1.88-.83,2.92-.91S112.9,28.33,113.86,28.27Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M103.08,55.86c1.27,0,2.54-.36,3.8-.14a2.85,2.85,0,0,1,1.18,1.89c-.33.7-.75,1.63-1.65,1.68-1.3.16-2.46,1-3.82.84-1.14-.11-2,.84-3.1.93a5,5,0,0,0-1.83.75,35.59,35.59,0,0,0-3.4,1.66c-1.39,1.09-3.2,1.71-4.17,3.27l-.22.23A15.91,15.91,0,0,0,86,70.31,36.6,36.6,0,0,0,81.56,76a33.88,33.88,0,0,0-2.88,5c-.67,1.71-3.55,1.57-4.11-.17-.32-.89.42-1.64.76-2.4a40.66,40.66,0,0,1,5.87-9.06,49.23,49.23,0,0,1,4.12-4.3,13.63,13.63,0,0,0,2.41-2.39l.25-.23a12.22,12.22,0,0,0,3-1.79,26.33,26.33,0,0,1,6.49-3.15,4.81,4.81,0,0,1,1.93-.72C100.71,56.75,101.76,55.76,103.08,55.86Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M80.91,103.82l.13,0c.77,0,1.54,0,2.32,0l.12,0,.14,0,.45.17.17.08a4.06,4.06,0,0,1,1.38,1.12l.07.09.29.48a23.58,23.58,0,0,0,.06,3c-.24.35-.47.68-.72,1l-.11.14-.14.17-.25.23-.26.25-.25.24-.18.18-.16.15a1,1,0,0,0-.71.75l-.12.12-.19.18-.3.28-.26.26-.3.31-.18.19-.13.11-.12.1a23.27,23.27,0,0,0-2.48,2.28,23.4,23.4,0,0,0-2.87,2.67c-3.14,3.1-6.25,6.23-9.48,9.23a3.06,3.06,0,0,0-.6,2.35,4.17,4.17,0,0,0,1.71,2.77,10.46,10.46,0,0,0,2.85,0,5.89,5.89,0,0,0,1-.88c5.64-5.79,11.65-11.23,17.19-17.13,1.07-1,2.67-1.83,4.13-1.18.87.36,1.87,1,1.92,2.08a8.54,8.54,0,0,1-.09,2.37,6.64,6.64,0,0,1-1.45,1.72c-1.91,1.78-3.68,3.69-5.63,5.41q-4.27,4.13-8.47,8.33a18,18,0,0,0-2.77,2.75A3.68,3.68,0,0,0,75.7,140a7.27,7.27,0,0,0,1.83,2.47,20.83,20.83,0,0,0,3.16,0c.29,0,.48-.26.7-.42,4.9-4.61,9.64-9.4,14.5-14.07,1.23-1.18,2.37-2.46,3.68-3.55a13.34,13.34,0,0,1,3.35-.16,6.24,6.24,0,0,1,1.93,2.67,18,18,0,0,0,0,2.08c-.52,1.23-1.69,2-2.56,2.94-2.61,2.67-5.35,5.21-7.86,8l-.1.12-.11.12-.2.19-.32.29-.25.26-.23.23-.24.24-.24.24-.24.24-.24.24-.24.25-.24.24-.24.23-.24.24-.24.24-.24.24-.23.24-.26.25-.3.32-.18.19-.12.11-.12.1a12.1,12.1,0,0,0-2.15,2.14l-.11.14-.14.16-.19.18a1,1,0,0,0-.15.14l-.14.11a20.26,20.26,0,0,0-3,3l-.08.09-.13.13-.48.52-.14.15-.1.1c-.67.68-1.33,1.36-2,2l-.1.1-.09.07-.13.11-.7.56-.1.09c-.22.2-.43.41-.64.62l-.09.08a16.46,16.46,0,0,1-1.71,1.27l-.49.29-.91.56-.2.12-.17.12-.17.12-.13.09-.59.41a.48.48,0,0,0-.76.19l-.22,0a.63.63,0,0,0-.78.5,1.13,1.13,0,0,0-.87.18c-2.91-.06-5.81,0-8.71,0a23.43,23.43,0,0,1-3.25-1.81c-.49-.29-1,.17-1.31.48-1.55,1.57-2.92,3.32-4.51,4.85-2,1.93-3.82,4-5.78,6L42,175.59a31.37,31.37,0,0,0-3.23,3.5l-.54.64a.73.73,0,0,0-.57.69,1,1,0,0,0-.14.15l-.18.17-.14.15-.13.13-.78.79-.07.09c-1.44,1.8-3.16,3.35-4.63,5.13-1.5,1.46-3,2.95-4.42,4.45a24.81,24.81,0,0,1-1.82,2c-1.59,1.12-2.69,2.95-4.62,3.55a18.85,18.85,0,0,1-5.46.07,8.38,8.38,0,0,1-4.26-3.7c-.26-.85,0-2-1-2.4,0-.6,0-1.19,0-1.78,1-.78.91-2.1.91-3.24,3.2-3.28,6.56-6.4,10-9.4,1.65-1.3,3-2.9,4.63-4.26,3.8-3.71,7.95-7.07,11.73-10.81,3.53-3.45,7.39-6.53,10.88-10a31.35,31.35,0,0,0,2.28-2.18,9.89,9.89,0,0,0,0-1.44c-.39-.33-.92-.64-.93-1.22a1.71,1.71,0,0,0-.91-1.44,28.3,28.3,0,0,1-.36-4.77c-.09-1.46.35-2.87.31-4.33.68-.06.74-.81,1-1.31a23.75,23.75,0,0,1,4.23-6.28,38.31,38.31,0,0,1,4.32-4.32c3.76-3.43,7.4-7,11.12-10.48,3.06-2.69,6-5.46,8.93-8.35l.13-.1.13-.11.15-.11.62-.43.12-.09.53-.37a.68.68,0,0,0,.88-.24l.14-.06Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M170.78,120.72a58.15,58.15,0,0,1,8.35-.15,10.05,10.05,0,0,1,1.37.73c.49.13,1,.12,1.5.23,2.09,1,4.18,2,6.18,3.19a25.27,25.27,0,0,0,2.08,1.48,18.51,18.51,0,0,1,3.14,2.66,68.49,68.49,0,0,1,4.91,5.17,51.64,51.64,0,0,1,5.13,8.09c.62,1.09,1,2.29,1.59,3.4a15.67,15.67,0,0,0,.76,2.38,7.2,7.2,0,0,1,.45,2.7c.11,1.14.86,2.12.86,3.28,0,1.45,0,2.89,0,4.34.05,1.2-.86,2.16-.86,3.36,0,1-.75,1.67-1,2.56s-1.21,1.49-1.74,2.29a1.71,1.71,0,0,0,.32.75c1.18,1.82,2.74,3.36,3.94,5.16A13.4,13.4,0,0,0,209,174c1.2,1.24,2,2.81,3.12,4.08s1.91,2.71,3,4a34.89,34.89,0,0,1,2.4,3.12c.71,1,1.63,1.93,2.32,3,.9,1.37,2.09,2.54,3,3.89,1,1.65,2.41,3.05,3.56,4.62s2.43,2.87,3.42,4.47c.51.7.91,1.64,1.83,1.86,1.35,1.52,2.35,3.3,3.75,4.77.88,2,2.85,3.34,3.36,5.52.47,1.36,1,2.82.56,4.27-.37,1.07-.48,2.34-1.39,3.12a5.87,5.87,0,0,1-4.34,2.25,7.88,7.88,0,0,1-3.55-.42,8.43,8.43,0,0,1-2.54-1.54,20.62,20.62,0,0,1-3.42-4.2c-.71-1.32-1.95-2.26-2.69-3.57-1.43-1.94-2.76-3.93-4.24-5.84-1-1.58-2.29-2.89-3.16-4.53-2-2.55-3.85-5.27-5.83-7.86-1-1.23-1.71-2.71-2.8-3.91s-1.88-2.74-2.95-4c-.66-.8-1.11-1.75-1.8-2.53-1-1.1-1.62-2.47-2.61-3.58-1.22-1.33-2-3-3.19-4.32-.64-.64-.9-1.63-1.64-2.15-1.54-.19-3.11,0-4.65-.21a4.94,4.94,0,0,0-2.7-.86c-1,0-1.73-.75-2.66-.93a14.81,14.81,0,0,1-2.73-1.13,29.64,29.64,0,0,1-4.73-3.18,31.2,31.2,0,0,1-5-4.59,56.2,56.2,0,0,1-7-10.33c-.57-.84-.78-1.85-1.29-2.72-.45-.69-.37-1.59-.86-2.26-.7-.83-.32-2-1-2.89-.92-1.25-.21-2.89-.84-4.23a4.35,4.35,0,0,1-.63-2.06c0-1.77,0-3.54,0-5.3,0-.81.53-1.43.78-2.15s.13-1.25.31-1.85a12.76,12.76,0,0,0,.76-1.58c.34-1.34,1.45-2.26,2.29-3.3a11.66,11.66,0,0,1,3.52-2.56c.68-.28,1.23-.87,2-.86A6.39,6.39,0,0,0,170.78,120.72Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M118.56,137.65c.76-.12,1.29.67,1.86,1.06a17.08,17.08,0,0,1,3.61,4.07,12.76,12.76,0,0,1,1.43,2.92c.19.85.86,1.54.89,2.43a53.07,53.07,0,0,1,0,7.67,14,14,0,0,1-.73,1.81c-.54,2.28-2.06,4.14-3.51,5.92a21.27,21.27,0,0,1-2.66,2.16,17.72,17.72,0,0,1-2.69,1.61c-.67.39-1.51.3-2.17.72a2.93,2.93,0,0,1-1.63.58q-3,0-6,0c-.86.07-1.47-.64-2.25-.85-2-.21-3.73-1.5-5.38-2.62-1-.65-1.71-1.66-2.68-2.36l-.29-.24a5,5,0,0,1-.06-1.54,12.07,12.07,0,0,1,1.84-2l18.13-18.11A20.51,20.51,0,0,0,118.56,137.65Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M81.19,172.73c.63,0,.88-.86,1.47-.85a24.6,24.6,0,0,0,3.28,2c1.9,1.35,4,2.29,6,3.49a4.61,4.61,0,0,1,1.71.75c.58.52,1.49.26,2,.84s1.72.32,2.37,1c.48.51,1.19.42,1.82.57s.91.51,1.4.72,1.14.09,1.68.28.88.54,1.37.74,1.2,0,1.8.12a5.9,5.9,0,0,0,2.24.86,5.86,5.86,0,0,1,2.93.48c1.35.79,3,.43,4.45.51,1.8-.09,3.47.81,5.27.73s3.53.21,5.29.05c1.12-.07,2.25,0,3.37-.05s1.88-.58,2.87-.69c1.54-.14,3.09.1,4.61-.16a14.67,14.67,0,0,0,2.14-.75c.9-.2,1.84,0,2.74-.15.64-.21,1.18-.63,1.81-.82s1.21-.06,1.8-.14.85-.61,1.31-.84c.65-.12,1.33,0,2-.16a9.83,9.83,0,0,1,.91-.8c.71-.11,1.54.08,2.08-.51a2.83,2.83,0,0,1,1.9-.56c.27-.28.54-.57.82-.85a3.05,3.05,0,0,0,2.06-.77,23.66,23.66,0,0,0,3.47-1.6,18.42,18.42,0,0,1,3,2.48,24.49,24.49,0,0,0,3.61,3,19.07,19.07,0,0,1-2.93,1.81,17.89,17.89,0,0,1-2.42,1.25,21.86,21.86,0,0,1-2.17.94c-.78.17-1.33.82-2.12,1a3.67,3.67,0,0,0-1.29.62c-.6.48-1.46.13-2.08.57a3.34,3.34,0,0,1-1.8.69c-.76,0-1.27.65-2,.85s-1.13.07-1.68.23-.93.56-1.42.76c-.73.12-1.49,0-2.2.18a7.18,7.18,0,0,1-2.34.82,8.22,8.22,0,0,0-3.11.46c-2.33.95-5,.16-7.31,1.07-1.26.58-2.66.34-4,.38-2.8,0-5.6,0-8.4,0a3.67,3.67,0,0,1-1.58-.2c-1.76-.82-3.74-.73-5.62-.75a6.87,6.87,0,0,1-2.71-.69c-1.11-.47-2.35-.1-3.5-.36-.57-.2-1-.58-1.61-.78-.74-.15-1.5,0-2.24-.14-.48-.23-.89-.59-1.38-.81s-1-.07-1.5-.15c-.74-.3-1.36-.93-2.2-.89a3.22,3.22,0,0,1-1.75-.71c-.62-.41-1.48-.09-2-.64s-1.37-.48-2-.86-1.65-.69-2.42-1.16c-2.33-1-4.54-2.34-6.81-3.52-1.18-.93-2.58-1.51-3.72-2.48-1.74-.74-2.91-2.32-4.6-3.13-.4-.15-.54-.84-.07-1,1.08-.65,2.49,0,3.5-.81a4.64,4.64,0,0,1,2.06-.63A3.43,3.43,0,0,1,81.19,172.73Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_828282ff" data-name="#828282ff"><path d="M104,29.39A3.22,3.22,0,0,1,105.8,29l-.18.19c-.93.94-2.26,1-3.49,1-1.32.68-2.84.73-4.18,1.36A88,88,0,0,0,77.29,41.94c-1.22,1.14-2.77,1.83-4,3-1.37,1.2-2.82,2.29-4.24,3.43-1.13.95-2.13,2-3.18,3.08S63.83,53.37,63,54.49c-1.35,1.76-2.88,3.37-4.25,5.11a91.17,91.17,0,0,0-6.86,10.66c-1.18,2.22-2.37,4.46-3.34,6.79a4.22,4.22,0,0,0-.69,1.47c-.14.87-.7,1.59-.91,2.43a7.12,7.12,0,0,1-.66,1.71c-.49.87-.23,2-.8,2.81a4.84,4.84,0,0,0-.59,2.15c-.08.72-.74,1.23-.81,2a7.74,7.74,0,0,1-.49,2.66A5.22,5.22,0,0,0,43,94.6a17.28,17.28,0,0,1-.75,3.76,23.88,23.88,0,0,0-.29,3.78c-.12,1.81-.44,3.62-.4,5.44a27,27,0,0,0-.12,4c.26,2-.08,4.08.63,6l.52-.32a55.9,55.9,0,0,1,5.1-5.11c.82-.8,1.51-1.81,2.66-2.17-.36.88-1.24,1.35-1.88,2-1.87,1.89-4.1,3.43-5.68,5.6-.22.44-.73.36-1.13.35a33.65,33.65,0,0,1-.58-8.2,30.94,30.94,0,0,1,.29-5.27c.47-2.77.21-5.64,1-8.35.41-1.38.3-2.85.83-4.2s.46-2.61,1-3.84A9.83,9.83,0,0,0,44.74,86a86.94,86.94,0,0,1,4.59-11.71,39.67,39.67,0,0,0,1.87-4,10.91,10.91,0,0,1,1.2-2.45c1.24-1.94,2.44-3.92,3.82-5.77a25,25,0,0,1,2.53-3.44,74.65,74.65,0,0,1,7-7.87,31.72,31.72,0,0,1,3.06-2.73l5.7-4.6a88,88,0,0,1,10.88-6.9c.85-.22,1.46-.9,2.3-1.13.57-.15,1-.62,1.53-.82,1.13-.31,2.09-1,3.22-1.35.85-.64,2-.63,2.86-1.19s1.71-.41,2.46-.91,2-.39,2.92-.91S102.9,29.78,104,29.39Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M82.09,113.13l.3-.31Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M81.91,113.32l.18-.19Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M82.51,120.61c2.22-2.12,4.32-4.36,6.59-6.41,0,.16-.1.47-.13.62-5.54,5.9-11.55,11.34-17.19,17.13a5.89,5.89,0,0,1-1,.88,10.46,10.46,0,0,1-2.85,0,4.17,4.17,0,0,1-1.71-2.77,3.06,3.06,0,0,1,.6-2.35c3.23-3,6.34-6.13,9.48-9.23a23.4,23.4,0,0,1,2.87-2.67c-1.87,2.44-4.41,4.28-6.34,6.68a36.55,36.55,0,0,0-3.52,3.63A25,25,0,0,0,67,128.59a2.82,2.82,0,0,0,.53,2.82c.48.46,1,1.07,1.74,1,1.41.15,2.18-1.25,3.14-2C75.68,127.06,79.12,123.86,82.51,120.61Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M94.3,140l.1-.12Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M92.71,141.6l.24-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M92.23,142.08l.24-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M90.79,143.52l.24-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M89.82,144.52l.18-.19Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M87.18,147.17l.14-.16Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M87,147.35l.19-.18Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M83.5,150.83l.13-.13Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M104.33,168.23l.12,0Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M220.54,188.29l.08.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M225.83,195.2l.08.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_5d5d5dff" data-name="#5d5d5dff"><path d="M115,36.26c1.47-.17,2.85-.84,4.35-.84h8.89a13.36,13.36,0,0,1,3.34.23,18.56,18.56,0,0,0,3.13.67c1.3.13,2.67-.12,3.91.43a8.38,8.38,0,0,0,3.05.61,10.74,10.74,0,0,1,2.25.79c.57.13,1.16.12,1.74.24s1.09.81,1.78.82a8.37,8.37,0,0,1,1.31.16c.52.26,1,.75,1.58.8,1.2.14,2.21.89,3.37,1.21,1,.65,2.22.85,3.24,1.47,1.79,1,3.76,1.79,5.49,2.95s3.32,1.9,4.85,3.06c1.1.8,2.48,1.32,3.2,2.56-2-1.11-3.67-2.61-5.62-3.73a72.57,72.57,0,0,0-15.53-7.53c-1.32-.56-2.74-.81-4.05-1.37a48.39,48.39,0,0,0-5.26-1.14c-1.3-.14-2.54-.64-3.84-.75l-.19,0c-2.67-.25-5.32-.66-8-.88a65.81,65.81,0,0,0-8.54.17c-1.5.15-3,.46-4.49.52-2.19,0-4.23.9-6.4,1-1,.1-1.93.69-3,.83-1.42.19-2.71.86-4.12,1.08A86.77,86.77,0,0,0,86,46.79c-1.41.9-2.78,1.87-4.23,2.71.55-1.17,1.86-1.53,2.85-2.2A27.24,27.24,0,0,1,89,44.74a5.76,5.76,0,0,1,1.75-.88,52,52,0,0,1,9-4,3.57,3.57,0,0,1,1.88-.67c.72,0,1.24-.5,1.83-.82s1.46-.12,2.17-.31,1-.53,1.59-.71c.76-.13,1.54-.06,2.3-.19s1.54-.82,2.42-.83A28.92,28.92,0,0,0,115,36.26Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M130.76,64.92a1.48,1.48,0,0,1,1.81.68A1.56,1.56,0,0,1,131,67.74a2.63,2.63,0,0,1-1.13-1.11c-.5-.71.41-1.35.94-1.71m.25.26c-.54.25-1.25,1.11-.58,1.59.3.24.71.69,1.13.43C132.55,66.77,132.23,64.8,131,65.18Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_dbdbdbff" data-name="#dbdbdbff"><path d="M119.5,36.16A65.81,65.81,0,0,1,128,36c2.67.22,5.32.63,8,.88-3.07.29-6.13-.17-9.19-.2a13.78,13.78,0,0,0-2.64-.17,16.78,16.78,0,0,1-2.64.21c-2.14,0-4.29.45-6.43.16l-.12-.19C116.52,36.62,118,36.31,119.5,36.16Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_c6c6c6ff" data-name="#c6c6c6ff"><path d="M108.61,37.72c2.17-.14,4.21-1.08,6.4-1l.12.19a9.3,9.3,0,0,0-2.9.63c-1.49.55-3.21.06-4.61.9-1,.58-2.31.2-3.31.81s-2.16.43-3.14,1c-.82.46-1.83.42-2.63,1s-2.07.4-2.87,1.16a30.64,30.64,0,0,0-4,1.82,43.78,43.78,0,0,0-5.57,3.08,25.73,25.73,0,0,0-3.43,2.12c-1.13.68-2,1.66-3.17,2.34a26.64,26.64,0,0,0-3,2.48,30.83,30.83,0,0,0-2.42,2.14,65.26,65.26,0,0,0-4.81,5,73.66,73.66,0,0,0-7.64,10.11c-1.07,2-2.28,3.87-3.22,5.92-.2.84-.91,1.44-1.07,2.29s-.74,1.27-.87,2-.9,1.5-1,2.4-.94,1.66-1,2.65-.88,1.84-1,2.89a5.08,5.08,0,0,1-.52,2.09,7.8,7.8,0,0,0-.54,2.62c-.13,1-.64,2-.78,3-.15,1.19-.06,2.4-.15,3.6s-.61,2.33-.72,3.54c-.17,1.85-.07,3.71-.17,5.56,0,.46-.37.73-.66,1-1.56,1.32-3,2.78-4.51,4.13a9.64,9.64,0,0,0-2.49,2.8c-.28.75-1.19.76-1.86.9-.68-.79-.41-1.89-.46-2.84,0-3.28-.07-6.56,0-9.84-.19-2.53.82-4.93.89-7.44a8.65,8.65,0,0,1,.43-3.43,8.23,8.23,0,0,0,.59-2.78c.05-1.11.8-2,.85-3.16,0-1.28.92-2.32,1-3.6.06-1,.79-1.7.9-2.65a2.8,2.8,0,0,1,.49-1.51c.66-.73.39-1.84,1-2.61s.41-1.56.94-2.19.44-1.38.88-2,.58-1.46,1-2.1.63-1.81,1.48-2.35a39.67,39.67,0,0,1-1.87,4A86.94,86.94,0,0,0,44.74,86a9.83,9.83,0,0,1-.56,2.08c-.52,1.23-.5,2.6-1,3.84s-.42,2.82-.83,4.2c-.8,2.71-.54,5.58-1,8.35a30.94,30.94,0,0,0-.29,5.27,33.65,33.65,0,0,0,.58,8.2c.4,0,.91.09,1.13-.35,1.58-2.17,3.81-3.71,5.68-5.6.64-.64,1.52-1.11,1.88-2,.34-2.47.11-5,.35-7.48.19-2,.78-3.93.89-5.93.07-1.27.69-2.41.84-3.66a8.6,8.6,0,0,1,.51-2.13c.48-1.13.49-2.4,1.06-3.5A71.69,71.69,0,0,1,67.8,62.45c1.13-1.27,2.19-2.61,3.41-3.8a51.7,51.7,0,0,1,4.69-4.43,15.77,15.77,0,0,0,1.75-1.62l1-.81.08-.07.83-.75.48-.32.58-.36.12-.09.12-.09.85-.61c1.45-.84,2.82-1.81,4.23-2.71a86.77,86.77,0,0,1,15.58-7.16c1.41-.22,2.7-.89,4.12-1.08C106.68,38.41,107.58,37.82,108.61,37.72Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_cbcbcbff" data-name="#cbcbcbff"><path d="M136.22,36.89c1.3.11,2.54.61,3.84.75a48.39,48.39,0,0,1,5.26,1.14c1.31.56,2.73.81,4.05,1.37a72.57,72.57,0,0,1,15.53,7.53c1.95,1.12,3.66,2.62,5.62,3.73l.23.23c1.36,1.55,3.19,2.56,4.62,4a69.26,69.26,0,0,1,6.07,6.4,65.13,65.13,0,0,1,6.13,8.28,79,79,0,0,1,5.51,10.26c.53,1.53,1.16,3,1.75,4.52.23,1.29.93,2.43,1.13,3.72.15,1.09.82,2,.93,3.14.15,1.47.83,2.83.94,4.31.17,2,.85,3.91.9,5.92.1,3.3.28,6.59.36,9.89.1.79.79,1.27,1.33,1.78l.13.15a2.52,2.52,0,0,1-2-2.64c-.09-2.81.25-5.63-.13-8.43-.1-1.22-.67-2.34-.73-3.56-.06-1,0-2.07-.14-3.1-.11-.75-.57-1.4-.74-2.14s-.08-1.46-.22-2.18a22.36,22.36,0,0,1-.81-2.2,4.87,4.87,0,0,0-.55-2.19,3.9,3.9,0,0,1-.52-1.63c-.07-.82-.86-1.36-.88-2.19s-.88-1.5-1-2.4-.76-1.4-.92-2.2c-.09-1-1-1.56-1.13-2.53-1.63-2.89-3.22-5.8-5.11-8.53-1.3-1.46-2.21-3.2-3.53-4.64-1.87-1.89-3.4-4.09-5.37-5.9-1.29-1.18-2.51-2.45-3.89-3.53a42.51,42.51,0,0,0-4-3.21,36.75,36.75,0,0,0-3.51-2.45c-2-1.16-3.83-2.48-5.89-3.48-1.43-.72-2.86-1.46-4.32-2.13a7.14,7.14,0,0,1-1.56-.65c-.77-.59-1.83-.43-2.62-1a24.07,24.07,0,0,0-2.62-1c-1-.5-2.12-.48-3.09-1a6.11,6.11,0,0,0-2.35-.5c-.94-.11-1.72-.78-2.67-.81a11.69,11.69,0,0,1-3.33-.46A1.24,1.24,0,0,1,136.22,36.89Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_6e6e6eff" data-name="#6e6e6eff"><path d="M80.76,50.2l.12-.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M75.25,157.71l.17-.12Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M81.7,171.89a1.24,1.24,0,0,1,1.75,0,38.41,38.41,0,0,1,3.47,2.28c.37.35,1,.25,1.32.62.54.47,1.27.6,1.83,1a3.92,3.92,0,0,0,1.6.59l.49.61a3.53,3.53,0,0,1,2,.86,28.86,28.86,0,0,0,3.86,1.45c.7.92,2,.51,2.86,1.16a5.46,5.46,0,0,0,2.1.6c.69.17,1.22.77,2,.78a7,7,0,0,1,1.88.24c1.5,1.35,3.86.17,5.4,1.49,1.43.48,3,.08,4.5.34a54.09,54.09,0,0,0,12.71.42c1.72.08,3.35-.6,5.06-.5s3.48-.8,5.27-.89c1.49-.07,2.84-.82,4.33-.84a4.64,4.64,0,0,0,2-.55c.91-.48,2-.37,2.91-.91s1.71-.44,2.47-.89c1-.64,2.15-.79,3-1.61a9,9,0,0,1,1.16-.15c.49-.72,1.42-.76,2.14-1.12s1.29-.58,1.9-.94c.28-.15.6-.49.94-.26.73.65,1.32,1.45,2.09,2.06,1.52,1.19,2.7,2.88,4.59,3.51,0,.35.12.87-.3,1a7.77,7.77,0,0,1-2,1.17c-.84.65-1.92.86-2.68,1.62a31.26,31.26,0,0,0-3,1.1c-.85.52-1.82.82-2.63,1.41s-2.19.25-3,1c-.38.35-.92.32-1.39.44-.7.12-1.26.66-2,.78s-1.75.12-2.42.7c-.87.67-2.31.07-3,1.08a18.23,18.23,0,0,0-4,.6c-.21.05-.31.27-.46.42a13.24,13.24,0,0,0-4.92.64c-2.28.12-4.54.5-6.84.4-3.51.3-7,0-10.55,0-1-.08-2.08-.3-3.13-.3-.3-.34-.79-.27-1.19-.35-1.37-.11-2.73-.33-4.1-.36-.52,0-.94-.35-1.43-.44-1-.19-2-.38-3-.54-.52-.22-1-.66-1.56-.67-.82-.14-1.79.07-2.46-.54-.83-.67-2.09-.26-2.9-1s-2.18-.23-3-1-1.9-.33-2.6-1.05c-.54-.49-1.42-.18-2-.7s-1.49-.5-2.06-1.06-1.44-.36-1.95-1-1.17-.36-1.62-.79c-.61-.65-1.67-.58-2.15-1.39-.93-.29-1.59-1-2.51-1.31-.83-.5-1.54-1.19-2.4-1.63-1.21-.61-2.07-1.7-3.28-2.31-.71-.59-1.8-.87-2.08-1.85a4,4,0,0,1-.15-1,12.51,12.51,0,0,0,3.81-.33,12.22,12.22,0,0,1,3.1-.94l.12-.61a3,3,0,0,0,2-.61m-.51.84a3.43,3.43,0,0,0-1.75.9,4.64,4.64,0,0,0-2.06.63c-1,.79-2.42.16-3.5.81-.47.15-.33.84.07,1,1.69.81,2.86,2.39,4.6,3.13,1.14,1,2.54,1.55,3.72,2.48,2.27,1.18,4.48,2.48,6.81,3.52.77.47,1.67.65,2.42,1.16s1.47.28,2,.86,1.42.23,2,.64a3.22,3.22,0,0,0,1.75.71c.84,0,1.46.59,2.2.89.5.08,1,.05,1.5.15s.9.58,1.38.81c.74.12,1.5,0,2.24.14.56.2,1,.58,1.61.78,1.15.26,2.39-.11,3.5.36a6.87,6.87,0,0,0,2.71.69c1.88,0,3.86-.07,5.62.75a3.67,3.67,0,0,0,1.58.2c2.8,0,5.6,0,8.4,0,1.33,0,2.73.2,4-.38,2.35-.91,5-.12,7.31-1.07a8.22,8.22,0,0,1,3.11-.46,7.18,7.18,0,0,0,2.34-.82c.71-.18,1.47-.06,2.2-.18.49-.2.92-.55,1.42-.76s1.13-.11,1.68-.23,1.21-.85,2-.85a3.34,3.34,0,0,0,1.8-.69c.62-.44,1.48-.09,2.08-.57a3.67,3.67,0,0,1,1.29-.62c.79-.14,1.34-.79,2.12-1a21.86,21.86,0,0,0,2.17-.94,17.89,17.89,0,0,0,2.42-1.25,19.07,19.07,0,0,0,2.93-1.81,24.49,24.49,0,0,1-3.61-3,18.42,18.42,0,0,0-3-2.48,23.66,23.66,0,0,1-3.47,1.6,3.05,3.05,0,0,1-2.06.77c-.28.28-.55.57-.82.85a2.83,2.83,0,0,0-1.9.56c-.54.59-1.37.4-2.08.51a9.83,9.83,0,0,0-.91.8c-.64.18-1.32,0-2,.16-.46.23-.82.65-1.31.84s-1.2,0-1.8.14-1.17.61-1.81.82c-.9.15-1.84-.05-2.74.15a14.67,14.67,0,0,1-2.14.75c-1.52.26-3.07,0-4.61.16-1,.11-1.87.7-2.87.69s-2.25,0-3.37.05c-1.76.16-3.52-.11-5.29-.05s-3.47-.82-5.27-.73c-1.49-.08-3.1.28-4.45-.51a5.86,5.86,0,0,0-2.93-.48,5.9,5.9,0,0,1-2.24-.86c-.6-.11-1.21,0-1.8-.12s-.89-.54-1.37-.74-1.13-.13-1.68-.28-.91-.55-1.4-.72-1.34-.06-1.82-.57c-.65-.67-1.71-.34-2.37-1s-1.47-.32-2-.84a4.61,4.61,0,0,0-1.71-.75c-2-1.2-4.14-2.14-6-3.49a24.6,24.6,0,0,1-3.28-2C82.07,171.87,81.82,172.71,81.19,172.73Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_7a7a7aff" data-name="#7a7a7aff"><path d="M80.64,50.29l.12-.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M82.78,151.6l.1-.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M80.65,153.7l.1-.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_666666ff" data-name="#666666ff"><path d="M79.58,51l.48-.32Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M162.8,92.24c.58-.8,1.33-1.8,2.46-1.58.48.62,1.34,1.16,1.29,2A2.23,2.23,0,0,1,165,94.19a1.82,1.82,0,0,1-2.22-2m1.52-1a3.55,3.55,0,0,0-.79,1.45,2,2,0,0,0,.66.84c.91.46,2.05-.81,1.44-1.66A.92.92,0,0,0,164.32,91.22Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M72.77,158.86a.63.63,0,0,1,.78-.5A.73.73,0,0,1,72.77,158.86Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_797979ff" data-name="#797979ff"><path d="M78.67,51.79l.08-.07Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M140.63,98.32c2.34-1.48,4.08-3.78,6.64-4.91a2.82,2.82,0,0,1-.94,1.22c-2.68,1.94-5.15,4.15-7.82,6.11a7.39,7.39,0,0,0-2.15,2.27c0,.79-.24,1.75.34,2.39s.79,1.27,1.28,1.82c1.23,1.42,2.3,3,3.55,4.39,2,2.22,3.77,4.69,5.75,7a1.48,1.48,0,0,1,0,2,4.63,4.63,0,0,0-.71,1.73,4.87,4.87,0,0,1-1.08,0c-.06-.27-.11-.55-.16-.83.33.17.67.32,1,.47a2.91,2.91,0,0,1,.52-1.57,1.25,1.25,0,0,0,.1-1.53c-1.06-1.76-2.88-2.87-4.05-4.54-2-2.71-4.37-5.14-6.26-7.93-.31-.46-.85-.84-.82-1.45a6.66,6.66,0,0,1,.18-2.6A44,44,0,0,1,140.63,98.32Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M78.9,155.23l.09-.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_4a4a4aff" data-name="#4a4a4aff"><path d="M170.75,51.64c3.29,1.78,5.72,4.69,8.35,7.27a39.21,39.21,0,0,1,4,4.64c.79,1,1.71,2,2.43,3.07A39.11,39.11,0,0,1,188,70.4c2.6,3.68,4.26,7.9,6.3,11.89a4.37,4.37,0,0,0,.62,1.85,3.38,3.38,0,0,1,.53,1.58c.07.68.59,1.19.79,1.83s.08,1.16.22,1.72a15.62,15.62,0,0,1,.74,1.4c.11.58.09,1.17.2,1.75.19.73.64,1.37.77,2.12s0,1.65.14,2.47.61,1.39.7,2.15c.47,3.11-.09,6.27.5,9.37.24,1.24.11,2.52.31,3.76a3.14,3.14,0,0,0,1.23,1.73l-.64-.12c-.54-.51-1.23-1-1.33-1.78-.08-3.3-.26-6.59-.36-9.89,0-2-.73-3.92-.9-5.92-.11-1.48-.79-2.84-.94-4.31-.11-1.11-.78-2-.93-3.14-.2-1.29-.9-2.43-1.13-3.72-.59-1.5-1.22-3-1.75-4.52a79,79,0,0,0-5.51-10.26,65.13,65.13,0,0,0-6.13-8.28,69.26,69.26,0,0,0-6.07-6.4C173.94,54.2,172.11,53.19,170.75,51.64Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_afafafff" data-name="#afafafff"><path d="M133.35,53.1c1.54-1.06,3.61-.68,5.24,0,.78.35,1.7.24,2.45.69a97.73,97.73,0,0,1,9.21,5.17c.52.28,1.13.51,1.33,1.13A13.37,13.37,0,0,1,149,58.51c-1.75-1.09-3.59-2-5.4-3a15.19,15.19,0,0,0-5-2,21.74,21.74,0,0,0-2.95-.69,7.09,7.09,0,0,0-2.9,1c-.34.15-.69.28-1,.43C132.06,53.57,132.81,53.45,133.35,53.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_464646ff" data-name="#464646ff"><path d="M73.19,56.08a22,22,0,0,1,4.46-3.48,15.77,15.77,0,0,1-1.75,1.62,51.7,51.7,0,0,0-4.69,4.43c-1.22,1.19-2.28,2.53-3.41,3.8A71.69,71.69,0,0,0,54,87.3c-.57,1.1-.58,2.37-1.06,3.5a8.6,8.6,0,0,0-.51,2.13c-.15,1.25-.77,2.39-.84,3.66-.11,2-.7,3.93-.89,5.93-.24,2.49,0,5-.35,7.48a35.38,35.38,0,0,1-.12-4.83,39.48,39.48,0,0,1,.21-4.07c.08-1.06.52-2,.6-3.12s0-2.12.2-3.17c.14-.69.87-1.14.87-1.88a6.07,6.07,0,0,1,.52-2.41A8.27,8.27,0,0,0,53.09,88a8.38,8.38,0,0,1,.73-1.13c.25-.76,0-1.69.54-2.34a13.25,13.25,0,0,0,1.22-2.58c.82-2.67,2.32-5.06,3.5-7.57,1-1.64,1.92-3.32,3-4.9a96.12,96.12,0,0,1,7-9.13C70.51,59,71.67,57.35,73.19,56.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_535353ff" data-name="#535353ff"><path d="M132.82,53.79a7.09,7.09,0,0,1,2.9-1,21.74,21.74,0,0,1,2.95.69,15.19,15.19,0,0,1,5,2c1.81,1,3.65,1.92,5.4,3a13.37,13.37,0,0,0,2.56,1.56l.43.26a18,18,0,0,0,2.93,2.11,19.87,19.87,0,0,1,2.56,2,20.41,20.41,0,0,1-3.37-2.18c-2.29-1.37-4.39-3-6.75-4.29-1.37-.93-2.93-1.53-4.32-2.41-.86-.59-1.94-.68-2.8-1.25a4.05,4.05,0,0,0-2.12-.4c-1,0-1.74-.7-2.68-.83C134.56,53.27,133.79,54,132.82,53.79Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M164.87,79.14a4.62,4.62,0,0,1,3.52.32c1.11.71,2.47,1.18,3.14,2.41a35.17,35.17,0,0,0-3.38-2.16,3.82,3.82,0,0,0-3.22-.27c-.55.26-.37,1,0,1.28a22.84,22.84,0,0,1,2.93,2.63,15.67,15.67,0,0,1-3.3-2.48C164.09,80.39,164.09,79.32,164.87,79.14Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M118.33,137.42c.48-.3,1,0,1.39.32a28.48,28.48,0,0,1,3.69,3.51,19.67,19.67,0,0,1,2.78,5.14,15.3,15.3,0,0,1,.72,3.86,18.49,18.49,0,0,1-.33,5.79,25.25,25.25,0,0,1-2.39,5.52,2,2,0,0,1-.46.49l-.28.42a1.31,1.31,0,0,1-.45.54l-.28.42a6.37,6.37,0,0,1-1.47,1.46l-.4.29a4.06,4.06,0,0,1-.79.59l-.1.07-.95.67-.12.09-.16.1-.27.14a.83.83,0,0,0-.7.27l-.39.32-.14.08-.42.35-.31,0a.82.82,0,0,0-.7.21l-.22.06-.49.18-.48.27c-.91.16-1.83.26-2.73.48a15.2,15.2,0,0,1-3.93,0c-.88-.21-1.78-.31-2.67-.52l-.83-.26-.12,0-.43-.15c-.52-.18-1-.35-1.55-.55l-.26-.23a1,1,0,0,0-.75-.37l-.53-.22-.13-.08-.12-.08-.58-.44-.44-.24a7.83,7.83,0,0,1-.69-.58l-.11-.1-.11-.08c-.37-.29-.74-.55-1.08-.87-.33-.48-.62-1-1-1.47,1,.7,1.67,1.71,2.68,2.36,1.65,1.12,3.34,2.41,5.38,2.62.78.21,1.39.92,2.25.85q3,0,6,0a2.93,2.93,0,0,0,1.63-.58c.66-.42,1.5-.33,2.17-.72a17.72,17.72,0,0,0,2.69-1.61,21.27,21.27,0,0,0,2.66-2.16c1.45-1.78,3-3.64,3.51-5.92a14,14,0,0,0,.73-1.81,53.07,53.07,0,0,0,0-7.67c0-.89-.7-1.58-.89-2.43a12.76,12.76,0,0,0-1.43-2.92,17.08,17.08,0,0,0-3.61-4.07c-.57-.39-1.1-1.18-1.86-1.06a20.51,20.51,0,0,1-2.34,3.22L98.09,159a12.07,12.07,0,0,0-1.84,2,5,5,0,0,0,.06,1.54c-.38-.35-1-.8-.69-1.38a9.71,9.71,0,0,1,1.76-1.92l18.48-18.48A31.86,31.86,0,0,0,118.33,137.42Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_010101ff" data-name="#010101ff"><path d="M132.82,53.79c1,.17,1.74-.52,2.64-.7.94.13,1.72.81,2.68.83a4.05,4.05,0,0,1,2.12.4c.86.57,1.94.66,2.8,1.25,1.39.88,2.95,1.48,4.32,2.41,2.36,1.26,4.46,2.92,6.75,4.29a20.41,20.41,0,0,0,3.37,2.18c2.39,2.29,4.94,4.4,7.13,6.89-.55.51-1.25,1.49-2.1,1C161.28,71.31,160.29,70,159,69a55.93,55.93,0,0,0-4.45-3.7c-1.31-.75-2.34-1.92-3.72-2.56a96.65,96.65,0,0,0-10.55-6.18c-1.4-.3-2.65-1.18-4.11-1.15-1.17,0-2.09.8-3,1.42,0,.13,0,.38,0,.51a8.43,8.43,0,0,0,1.74,1.08,57.88,57.88,0,0,1,6.89,3.5c1.32.62,2.49,1.51,3.74,2.25.86.56,1.61,1.29,2.52,1.78,1.23.65,2.16,1.72,3.39,2.39s2.17,1.84,3.4,2.57a53.43,53.43,0,0,1,4.3,3.36,2.64,2.64,0,0,1-2.28,1.25c-.74-.57-1.35-1.28-2.09-1.85-1.1-.92-2.39-1.59-3.45-2.55s-2.59-1.71-3.8-2.69c-2-1.29-3.93-2.63-5.92-3.91a62.91,62.91,0,0,0-8.6-4.61c-.48-.15-1-.54-1.47-.41a26.75,26.75,0,0,0-2.79,3.72c-1.17,1.25-2,2.79-3.09,4.08-.8.9-1.27,2-2.08,2.95a25.26,25.26,0,0,0-2.12,2.92c-.82,1.17-1.83,2.19-2.57,3.41-1.9,2.66-3.93,5.23-5.74,8a6.3,6.3,0,0,0-.06,3,15.22,15.22,0,0,0,2.25,2.29c.94,1,2.23,1.41,3.24,2.27s2.26,1.39,3.23,2.31,2.1,1.2,3,2a37.92,37.92,0,0,0,3.62,2.54c0,.94-.73,1.55-1.34,2.15-1-1.09-2.49-1.64-3.61-2.63a10.78,10.78,0,0,0-1.51-1.1c-1.15-.69-2.11-1.63-3.28-2.28s-2.11-1.75-3.34-2.37a13.56,13.56,0,0,1-2.58-2A7.78,7.78,0,0,1,111,88.41a4.6,4.6,0,0,1-.37-2.41,4.52,4.52,0,0,1,.36-2.25c1.55-2.42,3.31-4.69,4.94-7A31.72,31.72,0,0,0,118,73.81a29.16,29.16,0,0,1,2-2.62c1-1.58,2.24-3.06,3.29-4.64a41.59,41.59,0,0,0,2.92-4c1.15-1.35,2-2.9,3.17-4.25.7-.85,1.14-1.88,1.88-2.7C131.76,55,132.31,54.4,132.82,53.79Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M131,65.18c1.22-.38,1.54,1.59.55,2-.42.26-.83-.19-1.13-.43C129.76,66.29,130.47,65.43,131,65.18Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M141,72.49a1.47,1.47,0,0,1,.73-2c.66-.07,1.54-.14,1.85.6a12.35,12.35,0,0,1,0,1.72C142.7,72.88,141.63,73.18,141,72.49Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M164,77c.58-.41,1.34-.23,2-.29,1,0,2.16-.19,3.09.39.72.42,1.51.68,2.19,1.16,2,1.5,3.72,3.32,5.58,5,2.08,1.92,3.8,4.19,5.78,6.22,1.41,1.41,2.4,3.18,3.73,4.68.82.89,1.27,2,2.07,3a5.6,5.6,0,0,1,.8,1.46c.93,1.41,1.57,3,2.38,4.47.58.92.33,2.09.84,3a3.93,3.93,0,0,1,.46,2.56c-.8-.35-1.52-.85-2.32-1.17a20.56,20.56,0,0,0-1.26-4.09,46.06,46.06,0,0,0-3.52-5.83c-.89-1.54-2.22-2.76-3.18-4.26a13.32,13.32,0,0,0-3.24-3.53,7,7,0,0,1-1.11-1c-1.93-2.3-4.25-4.24-6.32-6.4l-.41-.52c-.67-1.23-2-1.7-3.14-2.41a4.62,4.62,0,0,0-3.52-.32c-.78.18-.78,1.25-.28,1.73a15.67,15.67,0,0,0,3.3,2.48l1.27,1,.09.07.08.07q2.49,2.43,4.9,4.94c2,2.47,4.14,4.84,6.11,7.33.93,1.38,2.11,2.57,3,4,1.16,1.42,2.1,3,3.2,4.47,0,.27,0,.53.05.79a8.33,8.33,0,0,1-3.25-.74c-1.56-.81-2.11-2.63-3.38-3.73A27.6,27.6,0,0,0,177,97.75c-1.69-2.36-3.79-4.38-5.63-6.62a78.46,78.46,0,0,0-6.08-6.42c-.38-.37-.94-.5-1.27-.93-.75-.78-1.7-1.68-2.88-1.31-1.73,1.6-3.72,2.89-5.48,4.45-1.47,1-2.84,2.14-4.22,3.27-.9,1-2.19,1.47-3.15,2.39a5.14,5.14,0,0,1-1,.83c-2.56,1.13-4.3,3.43-6.64,4.91a44,44,0,0,0-4.62,4,6.66,6.66,0,0,0-.18,2.6c0,.61.51,1,.82,1.45,1.89,2.79,4.26,5.22,6.26,7.93,1.17,1.67,3,2.78,4.05,4.54a1.25,1.25,0,0,1-.1,1.53,2.91,2.91,0,0,0-.52,1.57c-.33-.15-.67-.3-1-.47-1.36-1.61-2.4-3.48-3.92-5a36,36,0,0,1-2.58-3.19c-1.53-2-3.52-3.73-4.75-6-1-1.61-.62-3.55-.6-5.32a6.22,6.22,0,0,1,2.5-3.28c1.33-1,2.48-2.2,3.87-3.09,1.66-1.11,3-2.63,4.65-3.75a27.53,27.53,0,0,0,2.82-2.25c.93-.84,2-1.46,3-2.27s1.62-1.42,2.47-2.09c1.58-.63,2.74-1.92,4-3s2.94-2.15,4.26-3.41A20.71,20.71,0,0,1,164,77Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M158.86,87.24c.44-.38,1.09-.2,1.62-.21.69.61.28,1.72.32,2.55a1.66,1.66,0,0,1-2.22-.07A1.36,1.36,0,0,1,158.86,87.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M164.32,91.22a.92.92,0,0,1,1.31.63c.61.85-.53,2.12-1.44,1.66a2,2,0,0,1-.66-.84A3.55,3.55,0,0,1,164.32,91.22Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_838383ff" data-name="#838383ff"><path d="M131.8,54.22c.33-.15.68-.28,1-.43-.51.61-1.06,1.17-1.59,1.76-.74.82-1.18,1.85-1.88,2.7-1.15,1.35-2,2.9-3.17,4.25a41.59,41.59,0,0,1-2.92,4c-1.05,1.58-2.25,3.06-3.29,4.64a29.16,29.16,0,0,0-2,2.62,31.72,31.72,0,0,1-2.14,2.89c-1.63,2.36-3.39,4.63-4.94,7a4.52,4.52,0,0,0-.36,2.25,4.6,4.6,0,0,0,.37,2.41,7.78,7.78,0,0,0,1.82,2.29,13.56,13.56,0,0,0,2.58,2c1.23.62,2.14,1.69,3.34,2.37s2.13,1.59,3.28,2.28a10.78,10.78,0,0,1,1.51,1.1c1.12,1,2.56,1.54,3.61,2.63.61-.6,1.37-1.21,1.34-2.15a37.92,37.92,0,0,1-3.62-2.54c-.89-.84-2.1-1.21-3-2s-2.21-1.46-3.23-2.31-2.3-1.32-3.24-2.27a15.22,15.22,0,0,1-2.25-2.29,6.3,6.3,0,0,1,.06-3c1.81-2.73,3.84-5.3,5.74-8,.74-1.22,1.75-2.24,2.57-3.41a25.26,25.26,0,0,1,2.12-2.92c.81-.9,1.28-2,2.08-2.95,1.13-1.29,1.92-2.83,3.09-4.08a26.75,26.75,0,0,1,2.79-3.72c.52-.13,1,.26,1.47.41a62.91,62.91,0,0,1,8.6,4.61c2,1.28,3.93,2.62,5.92,3.91,1.21,1,2.65,1.63,3.8,2.69s2.35,1.63,3.45,2.55c.74.57,1.35,1.28,2.09,1.85a2.64,2.64,0,0,0,2.28-1.25,53.43,53.43,0,0,0-4.3-3.36c-1.23-.73-2.16-1.87-3.4-2.57s-2.16-1.74-3.39-2.39c-.91-.49-1.66-1.22-2.52-1.78-1.25-.74-2.42-1.63-3.74-2.25a57.88,57.88,0,0,0-6.89-3.5,8.43,8.43,0,0,1-1.74-1.08c0-.13,0-.38,0-.51.9-.62,1.82-1.47,3-1.42,1.46,0,2.71.85,4.11,1.15a96.65,96.65,0,0,1,10.55,6.18c1.38.64,2.41,1.81,3.72,2.56A55.93,55.93,0,0,1,159,69c1.3,1,2.29,2.35,3.54,3.41.85.46,1.55-.52,2.1-1-2.19-2.49-4.74-4.6-7.13-6.89a19.87,19.87,0,0,0-2.56-2A18,18,0,0,1,152,60.33a24,24,0,0,1,4.3,2.68,55.85,55.85,0,0,1,9.06,8.18c.16.69-.66,1-1.06,1.37-.62.6-1.55.35-2.32.34a38.17,38.17,0,0,0-5.05-5,97.35,97.35,0,0,0-17.38-11,7.91,7.91,0,0,1-2.09-.52,2.76,2.76,0,0,0-3.46.76,11.19,11.19,0,0,0,2.82,1.38c2,1,4.08,2.08,6,3.27,1.23.88,2.64,1.46,3.8,2.45,2.25,1.59,4.59,3.06,6.73,4.8,2.3,1.43,4.15,3.47,6.52,4.8.17.91-.73,1.39-1.36,1.85a2,2,0,0,1-2.65-.27,36.3,36.3,0,0,0-3.39-2.65c-1.33-1.17-2.89-2-4.24-3.17q-3-2-6.05-4c-3.4-1.85-6.57-4.29-10.35-5.33-1,.58-1.36,1.72-2.1,2.54-2.5,3.27-4.84,6.65-7.32,9.93-2.93,4.13-6,8.14-8.88,12.33a6,6,0,0,0,0,2.12c.88,1.79,2.84,2.48,4.27,3.73,2.9,1.87,5.62,4,8.5,5.89.89.6,1.61,1.49,2.72,1.67.38,1.25-.69,2.16-1.46,3A1.36,1.36,0,0,1,126,101c-1.11-.72-2.06-1.67-3.23-2.31-1-.56-1.8-1.43-2.8-2-1.29-.76-2.39-1.78-3.65-2.56-1.1-.65-2-1.58-3.08-2.24a7.42,7.42,0,0,1-2.33-2.43,6.11,6.11,0,0,1-.83-4.93c.11-1.1,1-1.86,1.52-2.78.81-1.33,1.88-2.48,2.69-3.8,4.93-6.68,9.74-13.44,14.65-20.14A17.19,17.19,0,0,1,131.8,54.22Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M150.8,86.41a54.55,54.55,0,0,1,5.57-4.28c-1,1.24-2.47,2-3.59,3.16-.85.67-1.65,1.39-2.47,2.09s-2.05,1.43-3,2.27a27.53,27.53,0,0,1-2.82,2.25c-1.66,1.12-3,2.64-4.65,3.75-1.39.89-2.54,2.11-3.87,3.09a6.22,6.22,0,0,0-2.5,3.28c0,1.77-.36,3.71.6,5.32,1.23,2.26,3.22,4,4.75,6a36,36,0,0,0,2.58,3.19c1.52,1.48,2.56,3.35,3.92,5l-.62-.11c-2.13-2.73-4.3-5.44-6.58-8.05-1.45-2.12-3.44-3.85-4.7-6.11-.63-.76-.43-1.79-.63-2.69a7.71,7.71,0,0,1,.25-3,9.18,9.18,0,0,1,2.73-3.2c1.55-1,2.81-2.34,4.3-3.39,2-1.44,3.78-3.13,5.77-4.57C147.57,89.1,149.05,87.59,150.8,86.41Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M93.42,140.89l.25-.26Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M92.47,141.84l.24-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M91.51,142.8l.24-.23Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M89.7,144.63l.12-.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M89.58,144.73l.12-.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M86.84,147.49a1,1,0,0,1,.15-.14A1,1,0,0,0,86.84,147.49Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M80.43,153.88l.13-.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M120,165.84l.1-.07Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M224.87,194l.12.15Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_b0b0b0ff" data-name="#b0b0b0ff"><path d="M103.76,55a4.16,4.16,0,0,1,2.79-.31,5.13,5.13,0,0,1,1.86,1.47c.54.56.38,1.42.3,2.12a5,5,0,0,1-3.57,2.35c-.61.06-1.22,0-1.82.13-.81.14-1.49.66-2.3.79A5,5,0,0,0,99,62c-.77.49-1.73.55-2.48,1.08a38.68,38.68,0,0,0-5.34,3.32c-.44.31-.79.89-1.4.79l.09-.21.22-.23a35.85,35.85,0,0,1,9.69-5.39,17.06,17.06,0,0,1,3.13-.93,16,16,0,0,0,4.14-1,3,3,0,0,0,1.31-1.82,2.93,2.93,0,0,0-2.42-2.72c-1,.12-2,.46-3.1.59-1.23.17-2.36.77-3.59.94a13.06,13.06,0,0,0-2.61,1,31.49,31.49,0,0,0-7.18,3.86A10.5,10.5,0,0,0,88,62.46l-.25.23c-2.93,1.89-5.15,4.62-7.42,7.22a49.45,49.45,0,0,0-5.9,9.46c-.78,1.54.68,3.31,2.27,3.35a2.54,2.54,0,0,0,2.16-1.31c1-1.73,1.83-3.54,3-5.19a11.21,11.21,0,0,1,2.07-2.76A17.52,17.52,0,0,1,82.32,76c-1.36,1.92-2.25,4.12-3.47,6.13-.76.49-1.58,1.31-2.56,1.08a5.05,5.05,0,0,1-2.15-1.67,3.41,3.41,0,0,1,.52-3.36,36.26,36.26,0,0,1,3.27-5.62,28.56,28.56,0,0,1,2.8-3.68,36.08,36.08,0,0,1,6.56-6.39,50.84,50.84,0,0,1,4.35-3.07A27.07,27.07,0,0,1,94.38,58c.59-.28,1.07-.78,1.76-.83.89-.09,1.53-.84,2.43-.92a8.31,8.31,0,0,0,2.25-.86A14.6,14.6,0,0,0,103.76,55Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M118.06,137.15c.41-.37,1-.13,1.46.07a17.42,17.42,0,0,1,6.72,8.43,7.43,7.43,0,0,1,.82,3.18c.1.8.23,1.61.29,2.42a19.94,19.94,0,0,1-.31,3.85,7.21,7.21,0,0,1-.63,2.68c-.44.67-.48,1.52-1,2.16a6.84,6.84,0,0,0-.74,1.45l-.52.17a25.25,25.25,0,0,0,2.39-5.52,18.49,18.49,0,0,0,.33-5.79,15.3,15.3,0,0,0-.72-3.86,19.67,19.67,0,0,0-2.78-5.14,28.48,28.48,0,0,0-3.69-3.51c-.39-.28-.91-.62-1.39-.32a31.86,31.86,0,0,1-2.47,3.33L97.38,159.23a9.71,9.71,0,0,0-1.76,1.92c-.27.58.31,1,.69,1.38l.29.24c.33.48.62,1,1,1.47-.91-.41-1.36-1.39-2.14-2-.62-.37-.49-1.27-.12-1.78s.94-.64,1.35-1c6.22-6.26,12.54-12.42,18.73-18.7A22.8,22.8,0,0,0,118.06,137.15Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_565656ff" data-name="#565656ff"><path d="M102.84,55.5c1-.13,2-.47,3.1-.59a2.93,2.93,0,0,1,2.42,2.72,3,3,0,0,1-1.31,1.82,16,16,0,0,1-4.14,1,17.06,17.06,0,0,0-3.13.93,35.85,35.85,0,0,0-9.69,5.39c1-1.56,2.78-2.18,4.17-3.27a35.59,35.59,0,0,1,3.4-1.66,5,5,0,0,1,1.83-.75c1.11-.09,2-1,3.1-.93,1.36.13,2.52-.68,3.82-.84.9,0,1.32-1,1.65-1.68a2.85,2.85,0,0,0-1.18-1.89c-1.26-.22-2.53.18-3.8.14s-2.37.89-3.67.94a4.81,4.81,0,0,0-1.93.72A26.33,26.33,0,0,0,91,60.67a12.22,12.22,0,0,1-3,1.79,10.5,10.5,0,0,1,1.48-1.18,31.49,31.49,0,0,1,7.18-3.86,13.06,13.06,0,0,1,2.61-1C100.48,56.27,101.61,55.67,102.84,55.5Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M174.57,101.37c.44-.08.53.89.07.82C174.61,101.92,174.58,101.64,174.57,101.37Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_818181ff" data-name="#818181ff"><path d="M187.3,55a3.42,3.42,0,0,1,1.3.85,81.36,81.36,0,0,1,8.91,12.72c.87,1.37,1.58,2.84,2.39,4.25.21,1.06,1.09,1.78,1.28,2.85.58,1.06.86,2.25,1.47,3.3a12.44,12.44,0,0,0,.72,2c.59.79.4,1.86.92,2.68a4.42,4.42,0,0,1,.57,1.81c.12,1,.82,1.72.87,2.68a8.16,8.16,0,0,0,.61,2.29,13.45,13.45,0,0,1,.48,2.68c.21,1.24.83,2.39.8,3.66,0,2,.63,4,.79,6a24.58,24.58,0,0,1,.19,3.84c0,3.68,0,7.37,0,11,0,.78-.22,1.54-.24,2.33a11.79,11.79,0,0,1-1.68,0c-1.6-2.37-4.17-3.82-6.08-5.89l-.13-.15.64.12a56.36,56.36,0,0,1,5.29,4.73,2.5,2.5,0,0,0,1,.59,32.8,32.8,0,0,1,.46-3.7,12.91,12.91,0,0,0,.25-3.51c0-1.77,0-3.53,0-5.29,0-1.32-.72-2.51-.72-3.82a46.91,46.91,0,0,0-.27-5.93c-.1-.71-.75-1.24-.71-2a7.75,7.75,0,0,0-.56-3.64,6.19,6.19,0,0,1-.49-2.63c0-.67-.56-1.17-.78-1.79s-.12-1.15-.3-1.71a7.85,7.85,0,0,1-.74-1.8,4.84,4.84,0,0,0-.61-1.88c-.39-.67-.38-1.48-.73-2.16-.51-.93-.91-1.91-1.37-2.86a48.62,48.62,0,0,0-2.53-5.49c-1-1.59-1.84-3.26-2.81-4.86-1.07-1.43-1.92-3-3-4.43a35.55,35.55,0,0,0-2.9-3.82C188.84,57,188,56.11,187.3,55Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M81.78,113.43l.13-.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M94.19,140.15l.11-.12Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M93.67,140.63l.32-.29Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M93.19,141.12l.23-.23Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M93,141.36l.24-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M91.75,142.57l.24-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M91.27,143l.24-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M90.3,144l.26-.25Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M58.63,157.69c.34-.31.82-.77,1.31-.48A23.43,23.43,0,0,0,63.19,159c2.85.86,5.85.4,8.76.19a13.43,13.43,0,0,1-9,0,20.13,20.13,0,0,1-3.13-1.69c-.3-.21-.59.08-.81.26a9.72,9.72,0,0,0-2.2,2.62c-.44.52-.9,1-1.37,1.5-2.5,2.54-4.79,5.29-7.28,7.83-2.26,2.45-4.49,4.94-6.9,7.24-.91.62-1.62,1.45-2.49,2.1a31.37,31.37,0,0,1,3.23-3.5l6.36-7.07c2-2,3.78-4.05,5.78-6C55.71,161,57.08,159.26,58.63,157.69Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_595959ff" data-name="#595959ff"><path d="M80.31,69.91c2.27-2.6,4.49-5.33,7.42-7.22a13.63,13.63,0,0,1-2.41,2.39,49.23,49.23,0,0,0-4.12,4.3,40.66,40.66,0,0,0-5.87,9.06c-.34.76-1.08,1.51-.76,2.4.56,1.74,3.44,1.88,4.11.17a33.88,33.88,0,0,1,2.88-5A36.6,36.6,0,0,1,86,70.31,15.91,15.91,0,0,1,89.87,67l-.09.21c-.2.53-.78.75-1.18,1.11l-.08.08c-.9.84-1.76,1.72-2.62,2.61l-.09.11-.09.11a10.63,10.63,0,0,1-1.85,2.26,11.21,11.21,0,0,0-2.07,2.76c-1.13,1.65-2,3.46-3,5.19a2.54,2.54,0,0,1-2.16,1.31c-1.59,0-3.05-1.81-2.27-3.35A49.45,49.45,0,0,1,80.31,69.91Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_b7b7b7ff" data-name="#b7b7b7ff"><path d="M129.21,66.06c.09-.82.87-1.32,1.52-1.69a2,2,0,0,1,2.32,1.7c.12.83-.56,1.44-1,2.05-.57,0-1.31.26-1.72-.28s-1.26-1-1.11-1.78m1.55-1.14c-.53.36-1.44,1-.94,1.71A2.63,2.63,0,0,0,131,67.74a1.56,1.56,0,0,0,1.62-2.14A1.48,1.48,0,0,0,130.76,64.92Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_040404ff" data-name="#040404ff"><path d="M136.3,67.31a1.25,1.25,0,0,1,1.95.88c0,.54.16,1.21-.35,1.58a4.6,4.6,0,0,1-1.92-.06A1.58,1.58,0,0,1,136.3,67.31Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_979797ff" data-name="#979797ff"><path d="M88.52,68.37l.08-.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M116.81,167.86l.42-.35-.22.39Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M211,175.71l.32.53Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M213.07,178.47l.07.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_989898ff" data-name="#989898ff"><path d="M85.81,71.09,85.9,71Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M122.72,163.43,123,163l.08.21-.14.21Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M99.54,165.87l.44.24-.19.1-.23-.13Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M118.89,166.6l.12-.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M117.23,167.51l.14-.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_8c8c8cff" data-name="#8c8c8cff"><path d="M85.72,71.2l.09-.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M100.56,166.55l.12.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M227,196.68l.08.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_b2b2b2ff" data-name="#b2b2b2ff"><path d="M146.44,73.64a2,2,0,0,1,1.88,0,2.13,2.13,0,0,1,.18,3.08,2,2,0,0,1-2.52-.25,1.38,1.38,0,0,1-.27-2.08,8.16,8.16,0,0,1,.73-.71m.22.21a3,3,0,0,0-.92,1.33,1.68,1.68,0,0,0,2.66,1.15C149.39,75.26,148,73,146.66,73.85Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_585858ff" data-name="#585858ff"><path d="M146.66,73.85c1.36-.88,2.73,1.41,1.74,2.48a1.68,1.68,0,0,1-2.66-1.15,3,3,0,0,1,.92-1.33M146,75.18c.43.54.9,1.32,1.69,1.25,1.16-.42.61-2.71-.65-2.5A7,7,0,0,0,146,75.18Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_020202ff" data-name="#020202ff"><path d="M146,75.18a7,7,0,0,1,1-1.25c1.26-.21,1.81,2.08.65,2.5C146.9,76.5,146.43,75.72,146,75.18Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M167.73,97.75c-.08-.75-.15-1.64.64-2,.66,0,1.63-.39,2,.31a12.69,12.69,0,0,1,0,2c-.3.6-1,.36-1.57.39S168.07,98,167.73,97.75Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M172.21,100.64c.65,0,1.3-.07,2-.08.05.11.17.32.23.43s0,.11.06.14l.11.24c0,.27,0,.55.07.82-.16.41-.55.63-.86.9-.43-.07-.87-.11-1.3-.15l-.12-.07A1.07,1.07,0,0,1,172,102c0-.14,0-.44,0-.58s.18-.35.23-.47Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_696969ff" data-name="#696969ff"><path d="M161,78.41a7.3,7.3,0,0,1,3.28-2.08,14.49,14.49,0,0,1,5.33.2c.1.2.21.4.32.59a8.66,8.66,0,0,1,2.59,1.55,59.35,59.35,0,0,1,4.69,4.42c2.27,2.06,4.11,4.52,6.22,6.73A76.39,76.39,0,0,1,188.82,97c1.09,1.15,1.55,2.71,2.49,4a5,5,0,0,0,.7,1.68,3.57,3.57,0,0,1,.41,2.74c.1-.24.2-.47.31-.69a11.48,11.48,0,0,1,.45,4.19c-.41,0-.89.19-1.18-.19-.56-.67-1.61-.54-2.09-1.28-.24-1.2-.61-2.36-.86-3.55-.3-.42-.72-.78-.77-1.33-.05-.79-.88-1.15-1-1.9a1.41,1.41,0,0,0-.75-1,13.59,13.59,0,0,0-2-3.16c-1-1.7-2.48-3-3.56-4.62-.47-.73-1.25-1.26-1.53-2.11a13.32,13.32,0,0,1,3.24,3.53c1,1.5,2.29,2.72,3.18,4.26a46.06,46.06,0,0,1,3.52,5.83,20.56,20.56,0,0,1,1.26,4.09c.8.32,1.52.82,2.32,1.17a3.93,3.93,0,0,0-.46-2.56c-.51-1-.26-2.13-.84-3-.81-1.48-1.45-3.06-2.38-4.47a5.6,5.6,0,0,0-.8-1.46c-.8-.91-1.25-2.06-2.07-3-1.33-1.5-2.32-3.27-3.73-4.68-2-2-3.7-4.3-5.78-6.22-1.86-1.68-3.58-3.5-5.58-5-.68-.48-1.47-.74-2.19-1.16-.93-.58-2.06-.34-3.09-.39-.66.06-1.42-.12-2,.29a20.71,20.71,0,0,0-2.89,1.92c-1.32,1.26-2.85,2.26-4.26,3.41s-2.46,2.32-4,3c1.12-1.15,2.57-1.92,3.59-3.16.55-.77,1.49-1,2.16-1.66C159.35,79.76,160.28,79.19,161,78.41Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_030303ff" data-name="#030303ff"><path d="M150.69,79.39a1.91,1.91,0,0,1,.89-1.87c.53-.1,1.27-.31,1.61.26,0,.78-1,1-1.35,1.58Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_adadadff" data-name="#adadadff"><path d="M164.93,79.44a3.82,3.82,0,0,1,3.22.27,35.17,35.17,0,0,1,3.38,2.16l.41.52,0,.24a2.94,2.94,0,0,1-.91-.56,25.31,25.31,0,0,0-3.7-2.33,4.19,4.19,0,0,0-2.33.05c-.4.62.58,1,.94,1.36,1.24.93,2.34,2,3.48,3l-.13.33-.08-.07-.09-.07-1.27-1A22.84,22.84,0,0,0,165,80.72C164.56,80.4,164.38,79.7,164.93,79.44Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_717171ff" data-name="#717171ff"><path d="M169.16,84.38l.09.07Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_2e2e2eff" data-name="#2e2e2eff"><path d="M42,102.14a23.88,23.88,0,0,1,.29-3.78,52.85,52.85,0,0,1-.06,5.63c-.14,1.55,0,3.1-.22,4.64-.37,2.76.32,5.51.12,8.28l.5.37-.52.32c-.71-1.92-.37-4-.63-6a27,27,0,0,1,.12-4C41.51,105.76,41.83,104,42,102.14Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_b1b1b1ff" data-name="#b1b1b1ff"><path d="M172.3,100c.7,0,1.58-.27,2.11.33.4.43,1,.85,1,1.49.05.85-.72,1.41-1.35,1.82a2,2,0,0,1-2.28-.63c-.33-.43-.88-1-.6-1.53s.78-1,1.15-1.48m-.09.65,0,.27-.2,0c0,.11,0,.32,0,.43-.44-.14-.46.76,0,.58a1.07,1.07,0,0,0,.35.91l.12.07c.11.49,1.11.59,1.3.15.31-.27.7-.49.86-.9.46.07.37-.9-.07-.82l-.11-.24s-.05-.1-.06-.14-.18-.32-.23-.43A1.54,1.54,0,0,0,172.21,100.64Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M80.71,103.21a3.88,3.88,0,0,1,3.76.41,5,5,0,0,1,2.4,3.32c.34,1.39-.69,2.56-1.51,3.55-2.92,3-6,5.82-9,8.79a29.14,29.14,0,0,1-3.54,3.21c1.93-2.4,4.47-4.24,6.34-6.68a23.27,23.27,0,0,1,2.48-2.28l.12-.1.13-.11.18-.19.3-.31.26-.26.3-.28.19-.18.12-.12a1.22,1.22,0,0,0,.71-.75l.16-.15.18-.18.25-.24.26-.25.25-.23.14-.17.11-.14c.25-.34.48-.67.72-1a2.48,2.48,0,0,0-.06-3l-.29-.48-.07-.09a4.06,4.06,0,0,0-1.38-1.12l-.17-.08-.45-.17-.14,0-.12,0a2.07,2.07,0,0,0-2.32,0l-.13,0-.11.06-.14.06a1,1,0,0,0-.88.24l-.53.37-.12.09-.62.43-.15.11-.13.11-.13.1c0-.25,0-.53.27-.68A12.43,12.43,0,0,1,80.71,103.21Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M169.84,120.15c2.19-.37,4.43-1.09,6.66-.55a23.8,23.8,0,0,0,3.37.49,33.85,33.85,0,0,1,7.73,3.5,39.63,39.63,0,0,1,8,6.42,49,49,0,0,1,7.16,9.38c1,1.64,1.74,3.39,2.6,5.08.43.84.57,1.78,1,2.63a19,19,0,0,1,.7,2.69c.88,2.29.82,4.8.83,7.23-.07,1.55,0,3.2-.79,4.6a14.56,14.56,0,0,1-1.84,3.73c-.28.44-.72.89-.6,1.46a5.53,5.53,0,0,0,1,1.64c.72,1,1.54,2,2.31,3a8.7,8.7,0,0,1,1.71,2.63c-1.1-1.09-1.91-2.41-2.91-3.58a39.54,39.54,0,0,1-2.56-3.49c-.37-.42.05-.87.31-1.21a11.67,11.67,0,0,0,2-3.51c.39-1.59,1.1-3.11,1-4.78A21.55,21.55,0,0,0,207,151a16.59,16.59,0,0,0-1-3.75,44.79,44.79,0,0,0-3.34-7.49,48.79,48.79,0,0,0-5.76-7.91c-1.69-1.75-3.4-3.49-5.23-5.09a33.1,33.1,0,0,0-11.09-6c-1.46-.79-3.16-.51-4.74-.78a12.56,12.56,0,0,0-3.18.11,10.2,10.2,0,0,0-2.87.4,19.88,19.88,0,0,0-4.87,2.51,13,13,0,0,0-5.08,7.18,14.1,14.1,0,0,0-.86,4c.05,2.4-.28,4.88.46,7.21.45,1.47.38,3.07,1.08,4.46a36.67,36.67,0,0,0,4.05,9.44,42,42,0,0,0,3.42,5.23c.89,1.27,2,2.36,2.81,3.7a11.81,11.81,0,0,1-1.92-1.95,49.63,49.63,0,0,1-5.85-9.05,34.08,34.08,0,0,1-2.57-6.11,7,7,0,0,1-.85-2.37c-.06-1.51-.95-2.83-.94-4.35q-.1-3.93,0-7.87a6.81,6.81,0,0,1,.71-2.31,14.41,14.41,0,0,1,4.56-7A22.2,22.2,0,0,1,169.84,120.15Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_515151ff" data-name="#515151ff"><path d="M172.21,100.64a1.54,1.54,0,0,1,2-.08C173.51,100.57,172.86,100.6,172.21,100.64Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_747474ff" data-name="#747474ff"><path d="M172.05,101l.2,0c-.05.12-.17.35-.23.47C172,101.27,172,101.06,172.05,101Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M75.59,157.47l.2-.12Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M37.18,180.89l.14-.15Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_848484ff" data-name="#848484ff"><path d="M174.4,101s0,.11.06.14S174.41,101,174.4,101Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M81.66,113.53l.12-.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M90.56,143.76l.23-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M86.7,147.6l.14-.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M83.63,150.7l.08-.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M215.51,181.8l.06.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M225.28,194.49l.12.15Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_656565ff" data-name="#656565ff"><path d="M172,102c-.45.18-.43-.72,0-.58C172,101.52,172,101.82,172,102Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_707070ff" data-name="#707070ff"><path d="M172.36,102.87l.12.07Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_545454ff" data-name="#545454ff"><path d="M172.48,102.94c.43,0,.87.08,1.3.15C173.59,103.53,172.59,103.43,172.48,102.94Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_5a5a5aff" data-name="#5a5a5aff"><path d="M81,103.77a2.07,2.07,0,0,1,2.32,0C82.58,103.77,81.81,103.76,81,103.77Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_5b5b5bff" data-name="#5b5b5bff"><path d="M80.8,103.88l.11-.06Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_616161ff" data-name="#616161ff"><path d="M83.48,103.83l.14,0Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M71.9,159a1.13,1.13,0,0,1,.87-.18.68.68,0,0,1-.82.35Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_6c6c6cff" data-name="#6c6c6cff"><path d="M79.78,104.18a1,1,0,0,1,.88-.24A.68.68,0,0,1,79.78,104.18Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M83.26,112a1,1,0,0,1,.71-.75A1.22,1.22,0,0,1,83.26,112Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M37.64,180.42a.73.73,0,0,1,.57-.69A.78.78,0,0,1,37.64,180.42Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_676767ff" data-name="#676767ff"><path d="M84.07,104.05l.17.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_6a6a6aff" data-name="#6a6a6aff"><path d="M79.13,104.64l.12-.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_858585ff" data-name="#858585ff"><path d="M78.36,105.18l.15-.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M87.32,147l.11-.14Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_7d7d7dff" data-name="#7d7d7dff"><path d="M78.23,105.29l.13-.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M83,112.28l.19-.18Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_808080ff" data-name="#808080ff"><path d="M85.62,105.25l.07.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M94,140.34l.2-.19Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M92,142.33l.24-.25Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M91,143.28l.24-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M90,144.33l.3-.32Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M82.88,151.5l.14-.15Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_757575ff" data-name="#757575ff"><path d="M86,105.82a2.48,2.48,0,0,1,.06,3A23.58,23.58,0,0,1,86,105.82Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_7f7f7fff" data-name="#7f7f7fff"><path d="M85.21,110l.11-.14Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M82.39,112.82l.26-.26Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M80.56,153.77l.09-.07Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_7e7e7eff" data-name="#7e7e7eff"><path d="M85.07,110.18l.14-.17Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M84.82,110.41l.25-.23Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M84.13,111.08l.18-.18Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M84,111.23l.16-.15Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M83.14,112.1l.12-.12Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M222.71,191.16l.07.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_7c7c7cff" data-name="#7c7c7cff"><path d="M84.56,110.66l.26-.25Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M82.65,112.56l.3-.28Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M224.39,193.32l.08.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_7b7b7bff" data-name="#7b7b7bff"><path d="M84.31,110.9l.25-.24Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_6f6f6fff" data-name="#6f6f6fff"><path d="M89.1,114.2a6.34,6.34,0,0,1,2.69-1.49c1.46-.06,2.54,1.1,3.45,2.09a4,4,0,0,1,.43,2.81c-.2,1.09-1.14,1.78-1.85,2.54-2.93,2.58-5.5,5.55-8.48,8.08-2.8,2.8-5.62,5.58-8.43,8.36-.85.81-.58,2.1-.6,3.15A2.38,2.38,0,0,0,78.58,142c1,.06,2.13.17,2.88-.59,1.87-1.74,3.53-3.69,5.51-5.3s3.61-3.59,5.46-5.34c.53-.5,1-1.05,1.49-1.6,2.18-1.37,3.64-3.61,5.67-5.15,1-.36,2.46-.57,3.33.26a13.34,13.34,0,0,0-3.35.16c-1.31,1.09-2.45,2.37-3.68,3.55-4.86,4.67-9.6,9.46-14.5,14.07-.22.16-.41.4-.7.42a20.83,20.83,0,0,1-3.16,0A7.27,7.27,0,0,1,75.7,140a3.68,3.68,0,0,1,.91-3.69,18,18,0,0,1,2.77-2.75q4.19-4.22,8.47-8.33c2-1.72,3.72-3.63,5.63-5.41a6.64,6.64,0,0,0,1.45-1.72,8.54,8.54,0,0,0,.09-2.37c0-1-1-1.72-1.92-2.08-1.46-.65-3.06.2-4.13,1.18C89,114.67,89.07,114.36,89.1,114.2Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_494949ff" data-name="#494949ff"><path d="M172.62,120.13a12.56,12.56,0,0,1,3.18-.11c1.58.27,3.28,0,4.74.78a33.1,33.1,0,0,1,11.09,6c1.83,1.6,3.54,3.34,5.23,5.09a48.79,48.79,0,0,1,5.76,7.91,44.79,44.79,0,0,1,3.34,7.49,16.59,16.59,0,0,1,1,3.75,21.55,21.55,0,0,1,.53,6.46c.08,1.67-.63,3.19-1,4.78a11.67,11.67,0,0,1-2,3.51c-.26.34-.68.79-.31,1.21a39.54,39.54,0,0,0,2.56,3.49c1,1.17,1.81,2.49,2.91,3.58.34.42.68.85,1,1.27a.31.31,0,0,0,.07.09l.24.29.32.53c.22.32.45.64.68.95l.32.47c.24.27.5.53.74.81l.07.09c.33.43.66.86,1,1.27l.29.49.47.46c.06.13.2.4.26.54s.25.36.33.48l.06.08c.05.07.15.19.19.26l.33.32c.56.72,1.1,1.46,1.69,2.17l.32.46c.36.48.7,1,1.09,1.43l.07.07.45.43c.07.12.19.38.26.51l.57.76.08.1.32.45.54.67a.31.31,0,0,1,.07.09c.39.51.77,1,1.16,1.56l.07.08c.24.28.5.55.75.83.09.11.25.34.33.45l.53.8.08.11.4.58.12.15.29.33.12.15.43.56.08.11a13.28,13.28,0,0,1,1.11,1.37l.08.1a1,1,0,0,0,.6.79c.16.19.32.39.49.58l.07.09c.29.39.59.76.91,1.14l.09.12.11.13a1.53,1.53,0,0,1,.11.16l.77.93c.06.13.2.37.26.5l.59.76.07.11c.09.15.28.44.38.59s.06.1.08.14l.08.13c-.92-.22-1.32-1.16-1.83-1.86-1-1.6-2.37-2.91-3.42-4.47s-2.53-3-3.56-4.62c-.94-1.35-2.13-2.52-3-3.89-.69-1.07-1.61-2-2.32-3a34.89,34.89,0,0,0-2.4-3.12c-1.1-1.24-1.9-2.72-3-4S210.22,175.2,209,174a13.4,13.4,0,0,1-1.28-1.62c-1.2-1.8-2.76-3.34-3.94-5.16a1.71,1.71,0,0,1-.32-.75c.53-.8,1.43-1.35,1.74-2.29s1-1.6,1-2.56c0-1.2.91-2.16.86-3.36,0-1.45,0-2.89,0-4.34,0-1.16-.75-2.14-.86-3.28a7.2,7.2,0,0,0-.45-2.7,15.67,15.67,0,0,1-.76-2.38c-.59-1.11-1-2.31-1.59-3.4a51.64,51.64,0,0,0-5.13-8.09,68.49,68.49,0,0,0-4.91-5.17,18.51,18.51,0,0,0-3.14-2.66,25.27,25.27,0,0,1-2.08-1.48c-2-1.18-4.09-2.21-6.18-3.19-.5-.11-1-.1-1.5-.23a10.05,10.05,0,0,0-1.37-.73,58.15,58.15,0,0,0-8.35.15,6.39,6.39,0,0,1-1.93.7c-.78,0-1.33.58-2,.86a11.66,11.66,0,0,0-3.52,2.56c-.84,1-1.95,2-2.29,3.3a12.76,12.76,0,0,1-.76,1.58c-.18.6-.14,1.24-.31,1.85s-.81,1.34-.78,2.15c0,1.76,0,3.53,0,5.3a4.35,4.35,0,0,0,.63,2.06c.63,1.34-.08,3,.84,4.23.63.86.25,2.06,1,2.89.49.67.41,1.57.86,2.26.51.87.72,1.88,1.29,2.72a56.2,56.2,0,0,0,7,10.33,31.2,31.2,0,0,0,5,4.59,29.64,29.64,0,0,0,4.73,3.18,14.81,14.81,0,0,0,2.73,1.13c.93.18,1.67.93,2.66.93a4.94,4.94,0,0,1,2.7.86,28.19,28.19,0,0,1-6.89-2,29.34,29.34,0,0,1-4.42-2.53c-1.47-1.08-2.84-2.29-4.37-3.3a13.84,13.84,0,0,1-2.14-2.12c-.79-1.34-1.92-2.43-2.81-3.7a42,42,0,0,1-3.42-5.23,36.67,36.67,0,0,1-4.05-9.44c-.7-1.39-.63-3-1.08-4.46-.74-2.33-.41-4.81-.46-7.21a14.1,14.1,0,0,1,.86-4,13,13,0,0,1,5.08-7.18,19.88,19.88,0,0,1,4.87-2.51A10.2,10.2,0,0,1,172.62,120.13Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_a4a4a4ff" data-name="#a4a4a4ff"><path d="M98.22,124.79a4.58,4.58,0,0,1,2.94-1.55,5,5,0,0,1,3.88,2.51c.49.88,1.16,1.94.68,3-.87,1.68-2.39,2.87-3.69,4.2-1.13,1-2,2.32-3.17,3.29s-2.21,2.13-3.31,3.19c-3.67,3.69-7.38,7.34-11,11a45.06,45.06,0,0,1-5.56,5.23,21.29,21.29,0,0,1-6.28,3.75c-1.18.29-2.36.61-3.55.84a12.91,12.91,0,0,1-9.52-2.58c-1,.82-1.76,1.94-2.8,2.75A9.72,9.72,0,0,1,59,157.8c.22-.18.51-.47.81-.26a20.13,20.13,0,0,0,3.13,1.69,13.43,13.43,0,0,0,9,0,.68.68,0,0,0,.82-.35.73.73,0,0,0,.78-.5l.22,0a.7.7,0,0,0,.76-.19l.59-.41.13-.09.17-.12.17-.12.2-.12.91-.56.49-.29a16.46,16.46,0,0,0,1.71-1.27l.09-.08c.21-.21.42-.42.64-.62l.1-.09.7-.56.13-.11.09-.07.1-.1c.7-.64,1.36-1.32,2-2l.1-.1.14-.15.48-.52.13-.13.08-.09a20.26,20.26,0,0,1,3-3l.14-.11a1,1,0,0,1,.15-.14l.19-.18.14-.16.11-.14a12.1,12.1,0,0,1,2.15-2.14l.12-.1.12-.11.18-.19.3-.32.26-.25.23-.24.24-.24.24-.24.24-.24.24-.23.24-.24.24-.25.24-.24.24-.24.24-.24.24-.24.23-.23.25-.26.32-.29.2-.19.11-.12.1-.12c2.51-2.75,5.25-5.29,7.86-8,.87-1,2-1.71,2.56-2.94a1.91,1.91,0,0,0,0-2.08,6.24,6.24,0,0,0-1.93-2.67c-.87-.83-2.28-.62-3.33-.26-2,1.54-3.49,3.78-5.67,5.15C95.2,127.56,96.81,126.26,98.22,124.79Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_484848ff" data-name="#484848ff"><path d="M104.85,126.93a1.91,1.91,0,0,1,0,2.08A18,18,0,0,1,104.85,126.93Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_d6d6d6ff" data-name="#d6d6d6ff"><path d="M127.06,148.83a6.3,6.3,0,0,1,.68,4.1,5,5,0,0,1-.7,2.17,19.94,19.94,0,0,0,.31-3.85C127.29,150.44,127.16,149.63,127.06,148.83Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_6d6d6dff" data-name="#6d6d6dff"><path d="M79.63,154.53l.1-.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M37.05,181l.13-.13Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_727272ff" data-name="#727272ff"><path d="M76.7,156.79l.49-.29Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M219.19,186.52l.07.07Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_777777ff" data-name="#777777ff"><path d="M75.12,157.8l.13-.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M73.77,158.4a.48.48,0,0,1,.76-.19A.7.7,0,0,1,73.77,158.4Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M37.5,180.57a1,1,0,0,1,.14-.15A1,1,0,0,0,37.5,180.57Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_272727ff" data-name="#272727ff"><path d="M63.19,159c2.9,0,5.8,0,8.71,0l0,.17C69,159.42,66,159.88,63.19,159Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_8d8d8dff" data-name="#8d8d8dff"><path d="M123.45,162.47l.28-.42.08.2-.14.22Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_878787ff" data-name="#878787ff"><path d="M98.63,165.11l.11.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M220.62,188.39l.32.45Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_929292ff" data-name="#929292ff"><path d="M120.85,165.18l.4-.29v.22l-.21.15Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M100.68,166.63l.13.08Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M229.17,199.38l.09.12Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_959595ff" data-name="#959595ff"><path d="M98.74,165.19l.11.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M111.88,169c.9-.22,1.82-.32,2.73-.48,0,.08-.08.26-.11.34A7.22,7.22,0,0,1,111.88,169Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M223.53,192.07c.09.11.25.34.33.45C223.78,192.41,223.62,192.18,223.53,192.07Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_868687ff" data-name="#868687ff"><path d="M172.9,166.37c1.53,1,2.9,2.22,4.37,3.3a29.34,29.34,0,0,0,4.42,2.53,28.19,28.19,0,0,0,6.89,2c1.54.24,3.11,0,4.65.21.74.52,1,1.51,1.64,2.15,1.23,1.32,2,3,3.19,4.32,1,1.11,1.62,2.48,2.61,3.58.69.78,1.14,1.73,1.8,2.53,1.07,1.28,1.84,2.77,2.95,4s1.76,2.68,2.8,3.91c2,2.59,3.8,5.31,5.83,7.86.87,1.64,2.2,2.95,3.16,4.53,1.48,1.91,2.81,3.9,4.24,5.84.74,1.31,2,2.25,2.69,3.57a20.62,20.62,0,0,0,3.42,4.2,8.43,8.43,0,0,0,2.54,1.54,7.88,7.88,0,0,0,3.55.42,5.87,5.87,0,0,0,4.34-2.25c.91-.78,1-2,1.39-3.12.45-1.45-.09-2.91-.56-4.27-.51-2.18-2.48-3.53-3.36-5.52.82.26,1.16,1.11,1.67,1.73a10.92,10.92,0,0,1,2,3.24,5.31,5.31,0,0,0,.84,1.55,26.92,26.92,0,0,1,.05,3.24c0,.82-.63,1.43-.9,2.16a8.13,8.13,0,0,1-2.78,2.93c-1.82,1.16-4,.79-6.06.61a13.71,13.71,0,0,1-3.88-2.76,55.09,55.09,0,0,1-3.83-5c-1.24-1.65-2.42-3.35-3.64-5-1.36-2.07-3-4-4.34-6-5.68-7.76-11.31-15.56-17-23.32-1.45-1.85-2.67-3.87-4.15-5.7a1.46,1.46,0,0,0-1.09-.63c-1.58-.08-3.18.09-4.75-.1-.93-.2-1.79-.66-2.72-.83a29.07,29.07,0,0,1-9.63-5.21A10.87,10.87,0,0,1,172.9,166.37Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_9b9b9bff" data-name="#9b9b9bff"><path d="M118.73,166.7l.16-.1Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_949494ff" data-name="#949494ff"><path d="M101.34,166.93a1,1,0,0,1,.75.37C101.85,167.61,101.18,167.3,101.34,166.93Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_868686ff" data-name="#868686ff"><path d="M117.76,167.11a.83.83,0,0,1,.7-.27C118.34,167.23,118.11,167.32,117.76,167.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_9a9a9aff" data-name="#9a9a9aff"><path d="M102.35,167.53c.51.2,1,.37,1.55.55C103.37,168.05,102.35,168.32,102.35,167.53Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M105.28,168.53c.89.21,1.79.31,2.67.52a11.5,11.5,0,0,1-2.93-.12Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M214.92,180.78c.06.13.2.4.26.54C215.12,181.18,215,180.91,214.92,180.78Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_8a8a8aff" data-name="#8a8a8aff"><path d="M115.8,168.05a.82.82,0,0,1,.7-.21C116.38,168.22,116.14,168.29,115.8,168.05Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M231.55,202.68s.06.1.08.14S231.56,202.71,231.55,202.68Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_898989ff" data-name="#898989ff"><path d="M115.09,168.29l.49-.18c-.07.08-.23.23-.31.3Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_a6a6a6ff" data-name="#a6a6a6ff"><path d="M210.7,175.33a.31.31,0,0,0,.07.09A.31.31,0,0,1,210.7,175.33Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_b8b8b8ff" data-name="#b8b8b8ff"><path d="M38.75,179.09c.87-.65,1.58-1.48,2.49-2.1-.32.41-.63.82-1,1.21-2.34,2.47-4.53,5.06-6.92,7.47-2.89,3.27-6,6.34-8.92,9.57a9.84,9.84,0,0,1-4.1,2.67,5.42,5.42,0,0,1-4.44.21,7.28,7.28,0,0,1-3.58-2.19c1.11.5,2,1.38,3.26,1.58a7.66,7.66,0,0,0,3.22.29,9.37,9.37,0,0,0,3.15-1,10.37,10.37,0,0,0,3.4-3.35,24.81,24.81,0,0,0,1.82-2c1.46-1.5,2.92-3,4.42-4.45,1.47-1.78,3.19-3.33,4.63-5.13l.07-.09.78-.79.13-.13.14-.15.18-.17a1,1,0,0,1,.14-.15.78.78,0,0,0,.57-.69Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_8f8f8fff" data-name="#8f8f8fff"><path d="M212,177.19l.32.47Z" transform="translate(-9.95 -27)" style="fill:#fff"></path><path d="M217.78,184.63l.32.46Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_cacacaff" data-name="#cacacaff"><path d="M152.33,179c.82,0,1.35-.8,2.17-.81-.84.82-2,1-3,1.61-.76.45-1.71.41-2.47.89s-2,.43-2.91.91a4.64,4.64,0,0,1-2,.55c-1.49,0-2.84.77-4.33.84-1.79.09-3.46.94-5.27.89s-3.34.58-5.06.5a54.09,54.09,0,0,1-12.71-.42c-1.49-.26-3.07.14-4.5-.34a19,19,0,0,1,3.29.08c2.72.24,5.46-.12,8.17.27a13.4,13.4,0,0,0,3.52-.1c3.23-.36,6.65.46,9.74-.83a21.42,21.42,0,0,1,3.3-.3c.81-.18,1.53-.64,2.35-.78a6.67,6.67,0,0,0,2.54-.57,4.23,4.23,0,0,1,1.83-.55c1.05-.09,1.91-.78,2.93-.94C150.8,179.74,151.45,179,152.33,179Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_a9a9a9ff" data-name="#a9a9a9ff"><path d="M214.16,179.83l.29.49Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_787878ff" data-name="#787878ff"><path d="M37.32,180.74l.18-.17Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_646464ff" data-name="#646464ff"><path d="M36.2,181.9l.07-.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_a3a3a3ff" data-name="#a3a3a3ff"><path d="M215.76,182.14c.34-.16.45,0,.33.32Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_555555ff" data-name="#555555ff"><path d="M10.41,186.37l.46-.38c0,1.14.1,2.46-.91,3.24a5.75,5.75,0,0,1,.22-2.1c0,.09.08.27.1.36C10.33,187.11,10.37,186.74,10.41,186.37Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_919191ff" data-name="#919191ff"><path d="M219.71,187c.07.12.19.38.26.51C219.9,187.4,219.78,187.14,219.71,187Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_909090ff" data-name="#909090ff"><path d="M221.48,189.51a.31.31,0,0,1,.07.09A.31.31,0,0,0,221.48,189.51Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_525252ff" data-name="#525252ff"><path d="M10,191c1,.43.76,1.55,1,2.4a8.38,8.38,0,0,0,4.26,3.7,18.85,18.85,0,0,0,5.46-.07c1.93-.6,3-2.43,4.62-3.55a10.37,10.37,0,0,1-3.4,3.35,9.37,9.37,0,0,1-3.15,1,7.66,7.66,0,0,1-3.22-.29c-1.22-.2-2.15-1.08-3.26-1.58l-.22-.23C11,194.34,9.85,192.83,10,191Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_9f9f9fff" data-name="#9f9f9fff"><path d="M227.1,196.78a.67.67,0,0,1,.6.79A1,1,0,0,1,227.1,196.78Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_a0a0a0ff" data-name="#a0a0a0ff"><path d="M228.19,198.15l.07.09Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_8b8b8bff" data-name="#8b8b8bff"><path d="M229.37,199.63a1.53,1.53,0,0,1,.11.16A1.53,1.53,0,0,0,229.37,199.63Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_a1a1a1ff" data-name="#a1a1a1ff"><path d="M230.25,200.72c.06.13.2.37.26.5C230.45,201.09,230.31,200.85,230.25,200.72Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g><g id="_8e8e8eff" data-name="#8e8e8eff"><path d="M231.1,202l.07.11Z" transform="translate(-9.95 -27)" style="fill:#fff"></path></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h5 class="elementor-icon-box-title">
+						<span  >
+							Specials Menu						</span>
+					</h5>
+				
+									<p class="elementor-icon-box-description">
+						Explore our exciting monthly specials, where seasonal delights and the best of our cuisine await you every month. 					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-61686ef5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="61686ef5" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5845417e" data-id="5845417e" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-49895f00 elementor-widget elementor-widget-spacer" data-id="49895f00" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-752ae6d e-flex e-con-boxed e-con e-parent" data-id="752ae6d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-0e357c4 e-con-full e-flex e-con e-child" data-id="0e357c4" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f4f5e91 elementor-widget elementor-widget-heading" data-id="f4f5e91" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Authentic Indian Cuisine</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8230048 elementor-widget elementor-widget-heading" data-id="8230048" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Savor the Flavors of India</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f2b3d0d elementor-widget elementor-widget-image" data-id="f2b3d0d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/06/resta-img20.png" class="attachment-medium size-medium wp-image-591" alt="" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-5ae5905 e-con-full e-flex e-con e-child" data-id="5ae5905" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-218e531 e-con-full e-flex e-con e-child" data-id="218e531" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-82ea71f e-con-full e-flex e-con e-child" data-id="82ea71f" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-1710296 e-con-full e-flex e-con e-child" data-id="1710296" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-dfa81a9 elementor-widget elementor-widget-image" data-id="dfa81a9" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="300" src="/wp-content/uploads/2024/06/Street-Snacks-300x300.webp" class="attachment-medium size-medium wp-image-1524" alt="" srcset="/wp-content/uploads/2024/06/Street-Snacks-300x300.webp 300w, /wp-content/uploads/2024/06/Street-Snacks-150x150.webp 150w, /wp-content/uploads/2024/06/Street-Snacks.webp 500w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-2d34e3c elementor-widget elementor-widget-heading" data-id="2d34e3c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Street Snacks</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c0f7e66 elementor-widget elementor-widget-image" data-id="c0f7e66" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img21.png" class="attachment-medium size-medium wp-image-77" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-ecaec20 elementor-widget elementor-widget-text-editor" data-id="ecaec20" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>The Mumbai&#8217;s renowned street snacks are rich in spicy, tangy, crispy, and sweet flavors.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8234e15 e-con-full e-flex e-con e-child" data-id="8234e15" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-3a92e6a e-con-full e-flex e-con e-child" data-id="3a92e6a" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-f59a4c9 e-con-full e-flex e-con e-child" data-id="f59a4c9" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-7a7e836 elementor-widget elementor-widget-image" data-id="7a7e836" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="300" src="/wp-content/uploads/2024/06/lACCHA-kATORI-300x300.webp" class="attachment-medium size-medium wp-image-1526" alt="" srcset="/wp-content/uploads/2024/06/lACCHA-kATORI-300x300.webp 300w, /wp-content/uploads/2024/06/elementor/thumbs/lACCHA-kATORI-qrlkioxpfwj3yy9whmp8nw6gcciwym3ruxrehrfxp8.webp 150w, /wp-content/uploads/2024/06/elementor/thumbs/lACCHA-kATORI-qrlkioxotz4w5y71a69nlur9tof3mqhwx1gtf27boo.webp 100w, /wp-content/uploads/2024/06/elementor/thumbs/lACCHA-kATORI-qrlkioxo81qocy462pu2jtc3b0baauw1z568ccypo4.webp 50w, /wp-content/uploads/2024/06/lACCHA-kATORI.webp 500w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-d7d146b elementor-widget elementor-widget-heading" data-id="d7d146b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Chaats</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6b7d358 elementor-widget elementor-widget-image" data-id="6b7d358" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img21.png" class="attachment-medium size-medium wp-image-77" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-708cff9 elementor-widget elementor-widget-text-editor" data-id="708cff9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bombay&#8217;s iconic Chaat street food is famous for its tangy, spicy flavors and crispy textures.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-104e901 e-con-full e-flex e-con e-child" data-id="104e901" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-5351726 e-con-full e-flex e-con e-child" data-id="5351726" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-c8cf6d1 e-con-full e-flex e-con e-child" data-id="c8cf6d1" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-076d5f3 elementor-widget elementor-widget-image" data-id="076d5f3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/06/Wraps-150x150.webp" class="attachment-thumbnail size-thumbnail wp-image-1527" alt="" srcset="/wp-content/uploads/2024/06/Wraps-150x150.webp 150w, /wp-content/uploads/2024/06/Wraps-300x300.webp 300w, /wp-content/uploads/2024/06/Wraps.webp 500w" sizes="(max-width: 150px) 100vw, 150px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b1e162f elementor-widget elementor-widget-heading" data-id="b1e162f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Wraps</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-709b5b8 elementor-widget elementor-widget-image" data-id="709b5b8" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img21.png" class="attachment-medium size-medium wp-image-77" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b5b60ce elementor-widget elementor-widget-text-editor" data-id="b5b60ce" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Mumbai&#8217;s on-the-go treat! Delicious wraps packed with fresh ingredients, perfect for a busy day.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-213c2bc e-con-full e-flex e-con e-child" data-id="213c2bc" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-9120380 e-con-full e-flex e-con e-child" data-id="9120380" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-5fb33dd e-con-full e-flex e-con e-child" data-id="5fb33dd" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b45dc4f elementor-widget elementor-widget-image" data-id="b45dc4f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="300" src="/wp-content/uploads/2024/06/Authentic-Marathi-300x300.webp" class="attachment-medium size-medium wp-image-1525" alt="" srcset="/wp-content/uploads/2024/06/Authentic-Marathi-300x300.webp 300w, /wp-content/uploads/2024/06/Authentic-Marathi-150x150.webp 150w, /wp-content/uploads/2024/06/Authentic-Marathi.webp 500w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-ea6c980 elementor-widget elementor-widget-heading" data-id="ea6c980" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Authentic Marathi</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e507e77 elementor-widget elementor-widget-image" data-id="e507e77" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img21.png" class="attachment-medium size-medium wp-image-77" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-1ef77a2 elementor-widget elementor-widget-text-editor" data-id="1ef77a2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>An Authentic Marathi Bombay street food that reflects Maharashtra&#8217;s rich culinary heritage.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-63a6f33 e-flex e-con-boxed e-con e-parent" data-id="63a6f33" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4b0d906 e-con-full e-flex e-con e-child" data-id="4b0d906" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e4d3f79 elementor-widget elementor-widget-spacer" data-id="e4d3f79" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1e1ab89 e-flex e-con-boxed e-con e-parent" data-id="1e1ab89" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-b1830ec e-con-full e-flex e-con e-child" data-id="b1830ec" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a9afcb1 elementor-widget elementor-widget-menu-anchor" data-id="a9afcb1" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-menu-anchor" id="catering"></div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-cf05dec elementor-widget elementor-widget-heading" data-id="cf05dec" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Elevate Your Event with Our Catering
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b3090e4 elementor-widget elementor-widget-image" data-id="b3090e4" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img20.png" class="attachment-medium size-medium wp-image-22" alt="" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-904affd e-con-full e-flex e-con e-child" data-id="904affd" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-e3fbd97 e-con-full e-flex e-con e-child" data-id="e3fbd97" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-77adf20 elementor-widget elementor-widget-image" data-id="77adf20" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/catering">
+							<img loading="lazy" decoding="async" width="300" height="152" src="/wp-content/uploads/2024/06/catering_0001_Firefly-corporate-event-with-indian-people-eating-94649-1-300x152.webp" class="attachment-medium size-medium wp-image-1510" alt="" srcset="/wp-content/uploads/2024/06/catering_0001_Firefly-corporate-event-with-indian-people-eating-94649-1-300x152.webp 300w, /wp-content/uploads/2024/06/catering_0001_Firefly-corporate-event-with-indian-people-eating-94649-1.webp 700w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-b317f44 elementor-widget elementor-widget-heading" data-id="b317f44" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default"><a href="/catering">Corporate Events</a></h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-508eef2 elementor-widget elementor-widget-text-editor" data-id="508eef2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Elevate your corporate events with our expertly crafted Marathi and North Indian cuisine.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8aacc6d e-con-full e-flex e-con e-child" data-id="8aacc6d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-5b3bc90 elementor-widget elementor-widget-image" data-id="5b3bc90" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/catering">
+							<img loading="lazy" decoding="async" width="300" height="152" src="/wp-content/uploads/2024/06/catering_0000_Layer-1-1-300x152.webp" class="attachment-medium size-medium wp-image-1511" alt="" srcset="/wp-content/uploads/2024/06/catering_0000_Layer-1-1-300x152.webp 300w, /wp-content/uploads/2024/06/catering_0000_Layer-1-1.webp 700w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-b057fcc elementor-widget elementor-widget-heading" data-id="b057fcc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default"><a href="/catering">Wedding Event</a></h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-78e67f2 elementor-widget elementor-widget-text-editor" data-id="78e67f2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Make your wedding day unforgettable with our exquisite and authentic Marathi and North Indian dishes.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f914246 e-con-full e-flex e-con e-child" data-id="f914246" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-3a68837 elementor-widget elementor-widget-image" data-id="3a68837" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/catering">
+							<img loading="lazy" decoding="async" width="300" height="152" src="/wp-content/uploads/2024/06/catering-1-1-300x152.webp" class="attachment-medium size-medium wp-image-1512" alt="" srcset="/wp-content/uploads/2024/06/catering-1-1-300x152.webp 300w, /wp-content/uploads/2024/06/catering-1-1.webp 700w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-ac2fa4d elementor-widget elementor-widget-heading" data-id="ac2fa4d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default"><a href="/catering">Private Dinings</a></h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e9f20af elementor-widget elementor-widget-text-editor" data-id="e9f20af" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Delight your guests with our delicious Marathi and North Indian specialties at private gatherings.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-52314ad3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="52314ad3" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1837a738" data-id="1837a738" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1e4981c7 elementor-widget elementor-widget-spacer" data-id="1e4981c7" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-4801d18 e-flex e-con-boxed e-con e-parent" data-id="4801d18" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-5e71866 e-con-full e-flex e-con e-child" data-id="5e71866" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-2132886 elementor-widget elementor-widget-heading" data-id="2132886" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Contact Us</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-50c66c5 elementor-widget elementor-widget-heading" data-id="50c66c5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">For Catering Services</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8be1aff elementor-widget elementor-widget-image" data-id="8be1aff" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img20.png" class="attachment-medium size-medium wp-image-22" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-0761b3b elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="0761b3b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+							<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="431"/>
+			<input type="hidden" name="form_id" value="0761b3b"/>
+			<input type="hidden" name="referer_title" value="" />
+
+							<input type="hidden" name="queried_id" value="431"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
+												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
+								Name							</label>
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name">
+											</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-tel elementor-col-50 elementor-field-required">
+												<label for="form-field-tel" class="elementor-field-label elementor-screen-only">
+								Phone Number							</label>
+								<input size="1" type="tel" name="form_fields[tel]" id="form-field-tel" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Your Phone No." required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+
+						</div>
+								<div class="elementor-field-type-date elementor-field-group elementor-column elementor-field-group-field_c66c70a elementor-col-50 elementor-field-required">
+												<label for="form-field-field_c66c70a" class="elementor-field-label elementor-screen-only">
+								Date							</label>
+						
+		<input type="date" name="form_fields[field_c66c70a]" id="form-field-field_c66c70a" class="elementor-field elementor-size-sm  elementor-field-textual elementor-date-field elementor-use-native" placeholder="Your Date" required="required" aria-required="true" pattern="[0-9]{4}-[0-9]{2}-[0-9]{2}">
+						</div>
+								<div class="elementor-field-type-time elementor-field-group elementor-column elementor-field-group-field_c9b6d3b elementor-col-50 elementor-field-required">
+												<label for="form-field-field_c9b6d3b" class="elementor-field-label elementor-screen-only">
+								Time							</label>
+								<input type="time" name="form_fields[field_c9b6d3b]" id="form-field-field_c9b6d3b" class="elementor-field elementor-size-sm  elementor-field-textual elementor-time-field elementor-use-native" placeholder="Choose Your Time" required="required" aria-required="true">
+						</div>
+								<div class="elementor-field-type-number elementor-field-group elementor-column elementor-field-group-field_5689e8b elementor-col-50 elementor-field-required">
+												<label for="form-field-field_5689e8b" class="elementor-field-label elementor-screen-only">
+								No.of Guests							</label>
+									<input type="number" name="form_fields[field_5689e8b]" id="form-field-field_5689e8b" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="No.of Guests" required="required" aria-required="true" min="" max="" >
+						</div>
+								<div class="elementor-field-type-website elementor-field-group elementor-column"><input type="text" name="e_website" value="" class="elementor-field" style="display:none !important" tabindex="-1" autocomplete="off"></div><div class="elementor-field-type-recaptcha elementor-field-group elementor-column"><div class="g-recaptcha" data-sitekey="6Lf5DfwqAAAAAPaH5WOenhs2ZSY0tCHXY-wojV2D"></div></div><div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+																						<span class="elementor-button-text">Send Enquiry</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5f6b01a e-con-full e-flex e-con e-child" data-id="5f6b01a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-f97a3b4 elementor-widget elementor-widget-image" data-id="f97a3b4" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="500" height="500" src="/wp-content/uploads/2024/06/sde.jpg" class="attachment-large size-large wp-image-334" alt="" srcset="/wp-content/uploads/2024/06/sde.jpg 500w, /wp-content/uploads/2024/06/sde-300x300.jpg 300w, /wp-content/uploads/2024/06/sde-150x150.jpg 150w, /wp-content/uploads/2024/06/sde-100x100.jpg 100w" sizes="(max-width: 500px) 100vw, 500px" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f2b764a e-flex e-con-boxed e-con e-parent" data-id="f2b764a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-76e292f e-con-full e-flex e-con e-child" data-id="76e292f" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-cf5aba9 elementor-widget elementor-widget-spacer" data-id="cf5aba9" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-832a4f5 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="832a4f5" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-b577697 e-con-full e-flex e-con e-child" data-id="b577697" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2ff481f elementor-widget elementor-widget-heading" data-id="2ff481f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">To-Go Menu</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e059803 elementor-widget elementor-widget-heading" data-id="e059803" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default"><blockquote style="font-weight: normal;white-space: normal;margin: 0px 0px 0px 15px;font-size: 14px;line-height: normal;font-size-adjust: none"><span style="font-size: 50px;font-weight: 600;white-space: pre-wrap">Take Your Favorites Home</span><span style="font-size: 50px;font-weight: 600;white-space: pre-wrap"></span></blockquote></h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b049ecf elementor-widget elementor-widget-image" data-id="b049ecf" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img20.png" class="attachment-medium size-medium wp-image-22" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-96ffbdf elementor-widget elementor-widget-text-editor" data-id="96ffbdf" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Enjoy the rich flavors of authentic Marathi and North Indian cuisine, freshly prepared using high-quality ingredients and traditional recipes. Our takeaway menu is crafted for convenience, so you can savor your favorite dishes anytime, anywhere.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-05b2f49 elementor-align-left elementor-widget elementor-widget-button" data-id="05b2f49" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/wp-content/uploads/2026/04/Menu-Print-File-24x36-inches-With-bleed.pdf">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Menu</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-766da56 e-con-full e-flex e-con e-child" data-id="766da56" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-a3dd77e e-con-full e-flex e-con e-child" data-id="a3dd77e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-a3f2ea3 elementor-widget elementor-widget-spacer" data-id="a3f2ea3" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-268ca48 elementor-widget elementor-widget-spacer" data-id="268ca48" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-915c0c2 e-flex e-con-boxed e-con e-parent" data-id="915c0c2" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-ad77d38 e-con-full e-flex e-con e-child" data-id="ad77d38" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-eee5ffa elementor-widget elementor-widget-heading" data-id="eee5ffa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">OUR TESTIMONIALS</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d917f13 elementor-widget elementor-widget-heading" data-id="d917f13" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Our Customer's Reviews</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c98f79b elementor-widget elementor-widget-image" data-id="c98f79b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="212" height="24" src="/wp-content/uploads/2024/05/resta-img20.png" class="attachment-medium size-medium wp-image-22" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-40f3dc3 elementor-widget elementor-widget-shortcode" data-id="40f3dc3" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><link data-noptimize="1" data-no-optimize="1" data-no-minify="1" data-no-defer="1" rel="stylesheet" href="/wp-content/uploads/trustindex-google-widget.css?1787082955" media="all"><pre class="ti-widget"><div style="opacity: 0;height: 0 !important;overflow: hidden !important" data-css-url="/wp-content/uploads/trustindex-google-widget.css?1787082955" class=" ti-widget  ti-goog ti-disable-font ti-show-rating-text ti-review-text-mode-readmore ti-text-align-left" data-no-translation="true" data-time-locale="%d %s ago|today|day|days|week|weeks|month|months|year|years" data-plugin-version="14.2" data-layout-id="5" data-layout-category="slider" data-set-id="drop-shadow" data-pid="wp-widget" data-language="en" data-close-locale="Close" data-review-target-width="275" data-css-version="2" data-reply-by-locale="Owner&apos;s reply" data-only-rating-locale="This user only left a rating." data-pager-autoplay-timeout="6"> <div class="ti-widget-container ti-col-4"> <div class="ti-footer ti-footer-grid source-Google"> <div class="ti-fade-container"> <div class="ti-rating-text"> <strong class="ti-rating ti-rating-large"> GOOD </strong> </div> <span class="ti-stars star-lg"><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/e.svg" alt="Google star 5" width="17" height="17" loading="lazy" /></span> <div class="ti-rating-text"> <span class="nowrap">Based on <strong>3487 reviews</strong></span> </div> <div class="ti-large-logo"> <div class="ti-v-center"> <img loading="lazy" decoding="async" class="ti-logo-fb skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/logo.svg" width="150" height="25" loading="lazy" alt="Google" /> </div> </div> </div> </div> <div class="ti-reviews-container"> <div class="ti-controls"> <div class="ti-next" aria-label="Next review" role="button" tabindex="0"></div> <div class="ti-prev" aria-label="Previous review" role="button" tabindex="0"></div> </div> <div class="ti-reviews-container-wrapper">  <div data-empty="0" data-time="1774310400" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da" data-language=""> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img loading="lazy" decoding="async" class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img decoding="async" class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjUKApIkYZg4cNelKM6MNGjBSO7-ICDQfMRrt29g7lGvbZJnGQwMSA=w40-h40-c-rp-mo-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjUKApIkYZg4cNelKM6MNGjBSO7-ICDQfMRrt29g7lGvbZJnGQwMSA=w80-h80-c-rp-mo-br100 2x" alt="Harsha joshi profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Harsha joshi </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Decent food, tried vada pav ( not great great), veggie patty burger ( decent) and Bombay schezwan Frankie which was great. If you like garlic lover like me, go for this one. It is spicy.<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1774310400" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da" data-language=""> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img loading="lazy" decoding="async" class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img decoding="async" class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjVX9vK3vKyenOANIA_q89PQwI-SsWbjRc3TfhRQzpXjw13-JfjkDQ=w40-h40-c-rp-mo-ba3-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjVX9vK3vKyenOANIA_q89PQwI-SsWbjRc3TfhRQzpXjw13-JfjkDQ=w80-h80-c-rp-mo-ba3-br100 2x" alt="RISHABH SHAH profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> RISHABH SHAH </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Great food!<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1774224000" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da" data-language=""> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img loading="lazy" decoding="async" class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img decoding="async" class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjWrKZ7Pp-CTFaBEgzUi4Xq_ueujmrZ3VrtjkVlxx18uz19kMFs=w40-h40-c-rp-mo-ba2-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjWrKZ7Pp-CTFaBEgzUi4Xq_ueujmrZ3VrtjkVlxx18uz19kMFs=w80-h80-c-rp-mo-ba2-br100 2x" alt="Dhanya P profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Dhanya P </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Loved the Dabeli and Pav Bhaji<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1774051200" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da" data-language=""> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img loading="lazy" decoding="async" class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img decoding="async" class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjXEd7nvwFVBO17oyy0fjlFBtG5haFnvMfpqkSXHlqeipfZrQYc=w40-h40-c-rp-mo-ba3-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjXEd7nvwFVBO17oyy0fjlFBtG5haFnvMfpqkSXHlqeipfZrQYc=w80-h80-c-rp-mo-ba3-br100 2x" alt="Sesh Rangasami profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Sesh Rangasami </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img loading="lazy" decoding="async" class="ti-star skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/e.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Great place for Indian chat items. You get Maharashtra food here. We found the food very delicious.<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  </div> <div class="ti-controls-line"> <div class="dot"></div> </div>   </div> </div> </div> </pre><pre class="ti-hidden-markup" hidden style="display: none"><script>
+(function () { if (window.tiLoaderFallback) { return; } window.tiLoaderFallback = true; function tiLoadLoader() { if (window.TrustindexWidget || document.querySelector('script[src*="https://cdn.trustindex.io/loader.js"]')) { return; } let script = document.createElement("script"); script.async = true; script.src = "https://cdn.trustindex.io/loader.js"; script.setAttribute("data-ccm-injected", "1"); document.head.appendChild(script); } if ("loading" === document.readyState) { document.addEventListener("DOMContentLoaded", tiLoadLoader); } else { tiLoadLoader(); } })();
+</script>
+</pre></div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b1d39be e-flex e-con-boxed e-con e-parent" data-id="b1d39be" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3a660a5 elementor-widget elementor-widget-sbi-widget" data-id="3a660a5" data-element_type="widget" data-e-type="widget" data-widget_type="sbi-widget.default">
+				<div class="elementor-widget-container">
+					
+<div id="sb_instagram"  class="sbi sbi_mob_col_2 sbi_tab_col_3 sbi_col_5 sbi_width_resp sbi-theme sbi-outline sbi-style-regular" style="padding-bottom: 12px;" data-post-style="regular" data-feedid="*1"  data-res="auto" data-cols="5" data-colsmobile="2" data-colstablet="3" data-num="12" data-nummobile="8" data-header-size="medium" data-item-padding="6" data-shortcode-atts="{&quot;feed&quot;:&quot;1&quot;}"  data-postid="431" data-locatornonce="898a8c6537" data-options="{&quot;carousel&quot;:[true,true,true,500,true,1],&quot;avatars&quot;:{&quot;annapoornaindiancuisine&quot;:&quot;&quot;,&quot;LCLannapoornaindiancuisine&quot;:0},&quot;lightboxcomments&quot;:20,&quot;colsmobile&quot;:2,&quot;colstablet&quot;:&quot;3&quot;,&quot;captionsize&quot;:12,&quot;captionlength&quot;:50,&quot;hovercaptionlength&quot;:50,&quot;feedtheme&quot;:&quot;outline&quot;}" data-sbi-flags="favorLocal">
+
+
+    <div id="sbi_images" style="gap: 12px;">
+		    </div>
+
+	<div id="sbi_load" >
+
+	
+	        <span class="sbi_follow_btn sbi_custom">
+        <a href="https://www.instagram.com/annapoornaindiancuisine/" style="background: rgb(78,157,58);color: rgb(255,255,255);" target="_blank" rel="nofollow noopener">
+            <svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            <span>Follow on Instagram</span>
+        </a>
+    </span>
+	
+</div>
+
+	    <span class="sbi_resized_image_data" data-feed-id="*1" data-resized="[]">
+	</span>
+	        <div id="sbi_mod_error">
+            <span>This error message is only visible to WordPress admins</span><br />
+        <div><strong>There has been a problem with your Instagram Feed.</strong></div>        </div>
+        
+</div>
+
+	<style type="text/css">
+				#sb_instagram #sbi_load .sbi_load_btn:hover{
+			outline: none;
+			box-shadow: inset 0 0 20px 20px #E8E8EB;
+		}
+				
+		#sb_instagram .sbi_follow_btn a:hover,
+		#sb_instagram .sbi_follow_btn a:focus{
+			outline: none;
+			box-shadow: inset 0 0 10px 20px #FFA301;
+		}
+			</style>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>

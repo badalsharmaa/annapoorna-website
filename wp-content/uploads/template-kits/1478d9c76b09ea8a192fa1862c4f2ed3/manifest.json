@@ -1,0 +1,2195 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Resta | Restaurant Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.bosathemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single page",
+            "screenshot": "screenshots\/single-page.jpg",
+            "source": "templates\/single-page.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=single-page",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Pages."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Search Results",
+            "screenshot": "screenshots\/search-results.jpg",
+            "source": "templates\/search-results.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=search-results",
+            "type": "search-results",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-search",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "search-results",
+                "elementor_pro_conditions": [
+                    "include\/archive\/search"
+                ],
+                "additional_template_information": [
+                    "This is a \"Search Results\" template for Elementor Pro.",
+                    "This template will display on: Search Results."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=404-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=shop",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/?elementor_library=single-product",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/coming-soon\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Menu",
+            "screenshot": "screenshots\/our-menu.jpg",
+            "source": "templates\/our-menu.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/our-menu\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Chef Collection",
+            "screenshot": "screenshots\/chef-collection.jpg",
+            "source": "templates\/chef-collection.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/chef-collection\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Chef",
+            "screenshot": "screenshots\/our-chef.jpg",
+            "source": "templates\/our-chef.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/our-chef\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation",
+            "screenshot": "screenshots\/reservation.jpg",
+            "source": "templates\/reservation.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/reservation\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career Details",
+            "screenshot": "screenshots\/career-details.jpg",
+            "source": "templates\/career-details.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/career-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/resta\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "5.7.1",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        }
+    ],
+    "images": [
+        {
+            "filename": "resta-img22.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img22-800x31.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 26549,
+            "dimensions": [
+                2040,
+                78
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img10.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img10-800x465.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/single-page.json",
+                    "name": "Single page"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 page"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/reservation.json",
+                    "name": "Reservation"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-details.json",
+                    "name": "Career Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 139449,
+            "dimensions": [
+                1550,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-background-with-different-vegetables-V3GAHWZ"
+        },
+        {
+            "filename": "resta-img20.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img20.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 2665,
+            "dimensions": [
+                212,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img01.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img01-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/reservation.json",
+                    "name": "Reservation"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 415132,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/italian-food-pasta-ingredients-PV7VW96"
+        },
+        {
+            "filename": "resta-img23.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img23-800x31.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/single-page.json",
+                    "name": "Single page"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 page"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/reservation.json",
+                    "name": "Reservation"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-details.json",
+                    "name": "Career Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 26377,
+            "dimensions": [
+                2040,
+                78
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "menu_right.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/menu_right.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 page"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/reservation.json",
+                    "name": "Reservation"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 202258,
+            "dimensions": [
+                366,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fish-tuna-by-sushi-P42KQJX"
+        },
+        {
+            "filename": "resta-img52.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img52.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 277607,
+            "dimensions": [
+                600,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/mizuna-leafy-salad-japanese-mustard-paths-PHWMSXV"
+        },
+        {
+            "filename": "resta-img43.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img43.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 120603,
+            "dimensions": [
+                625,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/romantic-restaurant-P3NGSV6"
+        },
+        {
+            "filename": "resta-img42.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img42.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/career-details.json",
+                    "name": "Career Details"
+                }
+            ],
+            "filesize": 60983,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-chef-PBK3E5T"
+        },
+        {
+            "filename": "resta-img44.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img44-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 173356,
+            "dimensions": [
+                1200,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/japanese-food-background-with-cherry-blossom-Z3LZ38X"
+        },
+        {
+            "filename": "resta-img4.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 273836,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-background-with-free-space-for-text-QCR2849"
+        },
+        {
+            "filename": "resta-img40.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img40.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 57710,
+            "dimensions": [
+                260,
+                495
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/breakfast-PAWWTTE"
+        },
+        {
+            "filename": "resta-img45.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img45.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4786,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-doodle-elements-5YLP3G"
+        },
+        {
+            "filename": "resta-img21.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img21.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2462,
+            "dimensions": [
+                212,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img38.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img38.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 54006,
+            "dimensions": [
+                260,
+                495
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dinner-ZJA8ZSX"
+        },
+        {
+            "filename": "resta-img46.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img46.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7706,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-doodle-elements-5YLP3G"
+        },
+        {
+            "filename": "resta-img41.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img41.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 42036,
+            "dimensions": [
+                260,
+                495
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chocolate-covered-cherries-8ETCY5P"
+        },
+        {
+            "filename": "resta-img47.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img47.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6563,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-doodle-elements-5YLP3G"
+        },
+        {
+            "filename": "resta-img39.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img39.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 42741,
+            "dimensions": [
+                260,
+                495
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/strong-spirits-set-hard-alcoholic-drinks-in-glasse-6GAMN28"
+        },
+        {
+            "filename": "resta-img48.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img48.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5468,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-doodle-elements-5YLP3G"
+        },
+        {
+            "filename": "resta-img62.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img62.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 139818,
+            "dimensions": [
+                500,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shrimp-sushi-and-chopsticks-PJJLP48"
+        },
+        {
+            "filename": "resta-img63.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img63.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 85454,
+            "dimensions": [
+                379,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/flying-burger-on-a-white-background-ZYPUZ26"
+        },
+        {
+            "filename": "resta-img61.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img61-800x780.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                }
+            ],
+            "filesize": 224806,
+            "dimensions": [
+                1026,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/gourmet-seafood-snack-on-black-plate-isolated-PAXP84N"
+        },
+        {
+            "filename": "resta-img64.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img64.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 32091,
+            "dimensions": [
+                292,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pattern-of-vegetables-KXH6PVD"
+        },
+        {
+            "filename": "resta-img36.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img36.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 87497,
+            "dimensions": [
+                485,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/concept-of-italian-food-X2JK7YT"
+        },
+        {
+            "filename": "resta-img034.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img034.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 40376,
+            "dimensions": [
+                240,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/barbecue-beef-ribs-with-bbq-sauce-sliced-CNZRSSZ"
+        },
+        {
+            "filename": "resta-img37.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img37.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 43105,
+            "dimensions": [
+                240,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chicken-meat-with-grilled-vegetables-PWQPG48"
+        },
+        {
+            "filename": "resta-img33.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img33.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 54271,
+            "dimensions": [
+                285,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pasta-and-ingredients-for-cooking-on-black-backgro-PRN6UB7"
+        },
+        {
+            "filename": "resta-img35.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 101945,
+            "dimensions": [
+                598,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/grilled-spicy-chicken-YGBKJ8T"
+        },
+        {
+            "filename": "resta-img032.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img032.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                }
+            ],
+            "filesize": 417165,
+            "dimensions": [
+                550,
+                365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/grilled-juicy-steak-medium-rare-beef-with-spices-a-2UWBPYT"
+        },
+        {
+            "filename": "resta-img060.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img060.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                },
+                {
+                    "source": "templates\/reservation.json",
+                    "name": "Reservation"
+                }
+            ],
+            "filesize": 268435,
+            "dimensions": [
+                540,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/it-grows-in-rain-P8G2XNB"
+        },
+        {
+            "filename": "resta-img26.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img26.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                }
+            ],
+            "filesize": 146417,
+            "dimensions": [
+                300,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/healthy-vegetable-summer-salad-fresh-vegetables-an-9MA42Y9"
+        },
+        {
+            "filename": "resta-img31.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img31.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                }
+            ],
+            "filesize": 133819,
+            "dimensions": [
+                305,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/grilled-halloumi-cheese-salad-with-tomatoes-and-as-PXMRDS5"
+        },
+        {
+            "filename": "resta-img30.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img30.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/chef-collection.json",
+                    "name": "Chef Collection"
+                }
+            ],
+            "filesize": 159316,
+            "dimensions": [
+                330,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/grilled-chicken-fillet-with-salad-keto-ketogenic-p-KCPGL5V"
+        },
+        {
+            "filename": "resta-img26.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img26.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 90470,
+            "dimensions": [
+                540,
+                595
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-an-handsome-confident-business-man-JCDQA6K"
+        },
+        {
+            "filename": "resta-img25.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img25.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 1067,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img27.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img27.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 67149,
+            "dimensions": [
+                540,
+                595
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-chef-PBK3E5T"
+        },
+        {
+            "filename": "resta-img28.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 51403,
+            "dimensions": [
+                540,
+                595
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-handsome-businessman-sitting-at-desk-in-J35X2LL"
+        },
+        {
+            "filename": "resta-img2.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img2-800x516.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 382315,
+            "dimensions": [
+                1550,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/italian-food-background-with-ingredients-WS23YWS"
+        },
+        {
+            "filename": "resta-img24.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img24.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                }
+            ],
+            "filesize": 452684,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-blue-and-black-berries-fruit-vegan-salad-bl-F6CVMLM"
+        },
+        {
+            "filename": "menu_left.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/menu_left.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-details.json",
+                    "name": "Career Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 216178,
+            "dimensions": [
+                366,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fish-tuna-by-sushi-P42KQJX"
+        },
+        {
+            "filename": "resta-img19.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img19.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2557,
+            "dimensions": [
+                174,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img18.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img18.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2270,
+            "dimensions": [
+                174,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img17.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img17.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2207,
+            "dimensions": [
+                174,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img16.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img16.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1606,
+            "dimensions": [
+                174,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img15.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img15.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2399,
+            "dimensions": [
+                174,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img65.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img65.jpg",
+            "templates": [
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 10888,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-an-handsome-confident-business-man-JCDQA6K"
+        },
+        {
+            "filename": "resta-img73.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img73.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 30372,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/banquet-dining-table-set-5PN5ZM"
+        },
+        {
+            "filename": "resta-img72.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img72.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 43240,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/triple-deck-electric-pizza-oven-VQDZZK8"
+        },
+        {
+            "filename": "resta-img71.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img71.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 37073,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/professional-coffee-machine-U9H3KAT"
+        },
+        {
+            "filename": "resta-img70.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img70.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 27456,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/turkish-coffee-pot-YT47SUN"
+        },
+        {
+            "filename": "resta-img69.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img69.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 17200,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/refrigerator-WVHQNT"
+        },
+        {
+            "filename": "resta-img67.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img67.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 38310,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-table-and-chairs-DFYCG3"
+        },
+        {
+            "filename": "resta-img65.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img65.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3033,
+            "dimensions": [
+                123,
+                124
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img64.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img64.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4962,
+            "dimensions": [
+                129,
+                121
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img63.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img63.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 20813,
+            "dimensions": [
+                126,
+                123
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resta-img55.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img55.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 137334,
+            "dimensions": [
+                400,
+                295
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pepper-mix-black-red-white-and-allspice-peppercorn-PBWF9AC"
+        },
+        {
+            "filename": "resta-img66.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img66.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                }
+            ],
+            "filesize": 63547,
+            "dimensions": [
+                500,
+                455
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/glasses-of-chocolate-milkshake-isolated-on-white-b-4ZK5SR5"
+        },
+        {
+            "filename": "resta-img11.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img11-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 173266,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spaghetti-with-mushrooms-cheese-spinach-and-cherry-46KHJBS"
+        },
+        {
+            "filename": "resta-img12.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img12-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 184651,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/grilled-chicken-tobacco-6ET72SU"
+        },
+        {
+            "filename": "resta-img13.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img13-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 159528,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/concept-of-italian-food-X2JK7YT"
+        },
+        {
+            "filename": "resta-img14.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img14-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 171855,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/italian-food-ingredients-rosemary-olives-olive-oil-PN9QSXC"
+        },
+        {
+            "filename": "resta-img75.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img75.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 16594,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-handsome-businessman-sitting-at-desk-in-J35X2LL"
+        },
+        {
+            "filename": "resta-img76.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img76.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 23289,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-chef-PBK3E5T"
+        },
+        {
+            "filename": "resta-img77.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img77-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 722728,
+            "dimensions": [
+                2873,
+                2873
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-an-handsome-confident-business-man-JCDQA6K"
+        },
+        {
+            "filename": "resta-img78.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img78.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 20326,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/apprentice-chef-3NYK4RZ"
+        },
+        {
+            "filename": "resta-img79.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img79.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 12195,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-professional-chef-FD5Y6UR"
+        },
+        {
+            "filename": "resta-img81.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img81.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 19331,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-chef-cooking-in-the-kitchen-5RGP2JL"
+        },
+        {
+            "filename": "resta-img80.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/10\/resta-img80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 20291,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/chef-in-cafe-A9JZWUZ"
+        },
+        {
+            "filename": "resta-img54.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/resta\/wp-content\/uploads\/sites\/12\/2021\/09\/resta-img54.png",
+            "templates": [
+                {
+                    "source": "templates\/career-details.json",
+                    "name": "Career Details"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 159181,
+            "dimensions": [
+                225,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/falling-salad-of-leaves-with-rucola-lettuce-radicc-7VVMVYJ"
+        }
+    ]
+}
