@@ -100,24 +100,40 @@ To achieve pixel-for-pixel fidelity with the live Elementor site without running
 │   ├── wp-header.php             (Elementor-398 marquee + top header + navigation)
 │   ├── wp-footer.php             (Elementor-63 full footer + hours + social links)
 │   ├── wp-home-content.php       (Elementor-431 homepage markup)
-│   └── wp-menu-content.php       (Elementor-613 full menu markup + price lists)
+│   ├── wp-menu-content.php       (Elementor-613 full menu markup + price lists)
+│   ├── wp-about-content.php      (Elementor-604 about us page markup)
+│   ├── wp-catering-content.php   (Elementor-3651 catering services markup)
+│   ├── wp-chitale-content.php    (Elementor-1953 Chitale shop markup)
+│   ├── wp-gallery-content.php    (Elementor-846 photo gallery markup)
+│   └── wp-contact-content.php    (Elementor-760 contact info + map markup)
 ├── index.php                     (Home page controller)
 ├── menu.php                      (Menu page controller)
 ├── about.php                     (About us page controller)
 ├── catering.php                  (Catering services page controller)
 ├── chitale-products.php          (Chitale products page controller)
 ├── gallery.php                   (Gallery page controller)
-└── contact.php                   (Contact page controller)
+├── contact.php                   (Contact page controller)
+├── privacy.php                   (Privacy policy page)
+├── 404.php                       (404 error page)
+└── router.php                    (PHP built-in development server router)
 ```
 
 ---
 
-## 8. Verification & QA Standard
+## 8. Git & Remote Repository
+- **Remote GitHub Repository**: `https://github.com/badalsharmaa/annapoorna-website`
+- **Default Branch**: `main`
+- **Tracked Assets**: All 14 standalone PHP controllers and templates, 58 authentic WordPress CSS stylesheets, webfonts, Elementor icon sets, and all local media uploads.
+
+---
+
+## 9. Verification & QA Standard
 1. **Visual Match via Chrome DevTools MCP**:
-   - Compare side-by-side screenshots with `https://myannapoorna.com/`.
-   - Viewport and full-page captures taken to verify header, hero, typography, fonts, colors, and layout alignment.
+   - Side-by-side screenshots with `https://myannapoorna.com/` across all 7 main pages.
+   - Verified 1:1 pixel fidelity for headers, heros, torn spice background sections, menus, and footers.
 2. **Responsive Verification**:
    - Desktop (1440px): Marquee announcement bar, top phone slider, centered logo, social icons, horizontal nav, order button.
-   - Mobile (<768px): Hamburger menu toggle, offcanvas drawer, stacked contact badges.
-3. **External Ordering Portal Links**:
-   - Online ordering CTAs must point to `https://order.strideq.com/annapoorna-milpitas-ca/store/annapoorna?utm_source=custwebsite` or `https://myannapoornafoods.com/`.
+   - Mobile (<768px): Fully interactive ElementsKit Offcanvas Drawer (`#ekit-offcanvas-76c3d2a`) with smooth opening/closing, close button, backdrop click, Escape key dismiss, and auto-closing page navigation.
+3. **Internal & External Navigation Links**:
+   - Header & drawer navigation links point to clean local slugs (`/`, `/about`, `/menu`, `/catering`, `/chitale-products`, `/gallery`, `/contact`).
+   - Online ordering CTAs point to `https://order.strideq.com/annapoorna-milpitas-ca/store/annapoorna?utm_source=custwebsite` or `https://myannapoornafoods.com/`.
