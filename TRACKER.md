@@ -136,7 +136,11 @@
 - **2026-10-08 21:20**: Fixed Footer and Header Navigation links:
   - Restored full dark spice background and torn paper header in `post-63.css` and cleaned footer tags.
   - Normalized all header navigation links (top notice bar, main logo, desktop navbar, mobile hamburger dropdown, and offcanvas drawer) from live domain URLs to local clean slugs (`/`, `/about`, `/menu`, `/catering`, `/chitale-products`, `/gallery`, `/contact`). Verified interactive browser click navigation.
-- **2026-10-08 22:15**: Restored and verified Mobile Hamburger Menu:
-  - Identified mobile hamburger button (`.ekit_navSidebar-button`) connects to ElementsKit Offcanvas Drawer (`#ekit-offcanvas-76c3d2a`) with `.ekit_isActive` slide transition.
-  - Added lightweight vanilla JS in `includes/footer.php` handling open (`.ekit_navSidebar-button`), close (`.ekit_close-side-widget`, `.ekit-overlay`, and Escape key), link clicks, and submenu toggles.
-  - Verified with Chrome DevTools at mobile viewport (412x915): drawer opens smoothly, displays complete navigation, and navigates seamlessly to internal pages (`/catering`).
+- **2026-10-08 22:48**: Completed Form Backend Integration for Contact and Catering forms:
+  - Created standalone backend endpoint `submit-inquiry.php` handling both Contact (`contact.php`) and Catering (`catering.php`) submissions.
+  - Implemented anti-spam honeypot filtering (`e_website`) to silently reject bot traffic.
+  - Implemented durable logging in `data/inquiries.json` with file locking to ensure zero lost customer leads regardless of MTA/network status.
+  - Secured `data/inquiries.json` and sensitive dumps against direct public web access via `data/.htaccess` and root `.htaccess`.
+  - Added HTML notification email formatting dispatching via PHP `mail()` to restaurant notification email.
+  - Built interactive client-side AJAX form handler (`assets/js/form-handler.js`) providing smooth asynchronous submission, loading states ("Sending..."), Elementor alert feedback banners, smooth scrolling, and automatic form resets with progressive enhancement fallback for non-JS browsers.
+  - Verified live submissions end-to-end via Chrome DevTools MCP browser automation and curl on both Contact and Catering pages.

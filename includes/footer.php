@@ -86,5 +86,6 @@
         });
     });
     </script>
+    <script src="/assets/js/form-handler.js" defer></script>
 </body>
 </html>

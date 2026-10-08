@@ -30,6 +30,16 @@ define('PHONE_CATERING_RAW', '+14083197037');
 define('CONTACT_EMAIL', 'info@myannapoorna.com');
 
 // -------------------------------------------------------------
+// Mail & Inquiry Form Configuration
+// -------------------------------------------------------------
+define('MAIL_ENABLED', true);
+define('MAIL_NOTIFICATION_TO', 'info@myannapoorna.com');
+define('MAIL_NOTIFICATION_CATERING_TO', 'info@myannapoorna.com');
+define('MAIL_FROM_ADDRESS', 'noreply@myannapoorna.com');
+define('MAIL_FROM_NAME', 'Annapoorna Website');
+define('INQUIRIES_STORAGE_FILE', __DIR__ . '/../data/inquiries.json');
+
+// -------------------------------------------------------------
 // Physical Location & Maps
 // -------------------------------------------------------------
 define('STORE_STREET', '770 East Tasman Dr');

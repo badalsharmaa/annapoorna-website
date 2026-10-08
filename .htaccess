@@ -51,6 +51,17 @@ ErrorDocument 404 /404.php
     Header set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
 
+# Block direct access to sensitive files and data
+<FilesMatch "^(inquiries\.json|\.env|.*\.sql(\.gz)?|.*\.log|memory\.md|TRACKER\.md)$">
+    <IfModule !mod_authz_core.c>
+        Order deny,allow
+        Deny from all
+    </IfModule>
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+</FilesMatch>
+
 # ------------------------------------------------------------------------------
 # 6. Gzip / Deflate Compression
 # ------------------------------------------------------------------------------

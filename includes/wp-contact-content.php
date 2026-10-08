@@ -137,43 +137,52 @@
 				</div>
 				<div class="elementor-element elementor-element-65cbdc8 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="65cbdc8" data-element_type="widget" data-e-type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
 				<div class="elementor-widget-container">
-							<form class="elementor-form" method="post" name="New Form">
-			<input type="hidden" name="post_id" value="760"/>
-			<input type="hidden" name="form_id" value="65cbdc8"/>
-			<input type="hidden" name="referer_title" value="Contact Us" />
-
-							<input type="hidden" name="queried_id" value="760"/>
-			
-			<div class="elementor-form-fields-wrapper elementor-labels-">
-								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
-												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
-								Name							</label>
-														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Name">
-											</div>
-								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
-												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
-								Email							</label>
-														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Your Email" required="required" aria-required="true">
-											</div>
-								<div class="elementor-field-type-number elementor-field-group elementor-column elementor-field-group-phone elementor-col-50 elementor-field-required">
-												<label for="form-field-phone" class="elementor-field-label elementor-screen-only">
-								Phone Number							</label>
-									<input type="number" name="form_fields[phone]" id="form-field-phone" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Your Phone No." required="required" aria-required="true" min="" max="" >
+					<?php if (isset($_GET['status']) && $_GET['status'] === 'success'): ?>
+						<div class="elementor-message elementor-message-success" style="padding:15px; margin-bottom:20px; background:#e8f5e9; border:1px solid #a5d6a7; border-radius:4px; color:#2e7d32; font-size:15px;">
+							Thank you! Your message has been sent successfully. We will get back to you shortly.
 						</div>
-								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_c9b6d3b elementor-col-100 elementor-field-required">
-												<label for="form-field-field_c9b6d3b" class="elementor-field-label elementor-screen-only">
-								Message							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-xs" name="form_fields[field_c9b6d3b]" id="form-field-field_c9b6d3b" rows="8" placeholder="Your Nessage" required="required" aria-required="true"></textarea>				</div>
-								<div class="elementor-field-type-website elementor-field-group elementor-column"><input type="text" name="e_website" value="" class="elementor-field" style="display:none !important" tabindex="-1" autocomplete="off"></div><div class="elementor-field-type-recaptcha elementor-field-group elementor-column"><div class="g-recaptcha" data-sitekey="6Lf5DfwqAAAAAPaH5WOenhs2ZSY0tCHXY-wojV2D"></div></div><div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-					<button class="elementor-button elementor-size-sm" type="submit">
-						<span class="elementor-button-content-wrapper">
-																						<span class="elementor-button-text">SEND  MESSAGE</span>
-													</span>
-					</button>
+					<?php elseif (isset($_GET['status']) && $_GET['status'] === 'error'): ?>
+						<div class="elementor-message elementor-message-danger" style="padding:15px; margin-bottom:20px; background:#ffebee; border:1px solid #ffcdd2; border-radius:4px; color:#c62828; font-size:15px;">
+							<?= htmlspecialchars($_GET['msg'] ?? 'An error occurred. Please check your information and try again.') ?>
+						</div>
+					<?php endif; ?>
+					<form class="elementor-form" method="post" action="/submit-inquiry.php" name="Contact Form" id="contact-form">
+						<input type="hidden" name="form_type" value="contact" />
+						<input type="hidden" name="post_id" value="760"/>
+						<input type="hidden" name="form_id" value="65cbdc8"/>
+						<input type="hidden" name="referer_title" value="Contact Us" />
+						<input type="hidden" name="queried_id" value="760"/>
+						
+						<div class="elementor-form-fields-wrapper elementor-labels-">
+							<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
+								<label for="form-field-name" class="elementor-field-label elementor-screen-only">Name</label>
+								<input size="1" type="text" name="name" id="form-field-name" class="elementor-field elementor-size-xs elementor-field-textual" placeholder="Name" required="required">
+							</div>
+							<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
+								<label for="form-field-email" class="elementor-field-label elementor-screen-only">Email</label>
+								<input size="1" type="email" name="email" id="form-field-email" class="elementor-field elementor-size-xs elementor-field-textual" placeholder="Your Email" required="required" aria-required="true">
+							</div>
+							<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-phone elementor-col-50 elementor-field-required">
+								<label for="form-field-phone" class="elementor-field-label elementor-screen-only">Phone Number</label>
+								<input type="tel" name="phone" id="form-field-phone" class="elementor-field elementor-size-xs elementor-field-textual" placeholder="Your Phone No." required="required" aria-required="true">
+							</div>
+							<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_c9b6d3b elementor-col-100 elementor-field-required">
+								<label for="form-field-field_c9b6d3b" class="elementor-field-label elementor-screen-only">Message</label>
+								<textarea class="elementor-field-textual elementor-field elementor-size-xs" name="message" id="form-field-field_c9b6d3b" rows="8" placeholder="Your Message" required="required" aria-required="true"></textarea>
+							</div>
+							<div class="elementor-field-type-website elementor-field-group elementor-column" style="display:none !important;" aria-hidden="true">
+								<input type="text" name="e_website" value="" class="elementor-field" tabindex="-1" autocomplete="off">
+							</div>
+							<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+								<button class="elementor-button elementor-size-sm" type="submit">
+									<span class="elementor-button-content-wrapper">
+										<span class="elementor-button-text">SEND MESSAGE</span>
+									</span>
+								</button>
+							</div>
+						</div>
+					</form>
 				</div>
-			</div>
-		</form>
-						</div>
 				</div>
 				</div>
 				</div>
