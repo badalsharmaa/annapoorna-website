@@ -862,7 +862,7 @@ Sweets &amp; Namkeens</span><br>Now available at</h2>				</div>
 		<div class="elementor-element elementor-element-f59a4c9 e-con-full e-flex e-con e-child" data-id="f59a4c9" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-7a7e836 elementor-widget elementor-widget-image" data-id="7a7e836" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="300" height="300" src="/wp-content/uploads/2024/06/lACCHA-kATORI-300x300.webp" class="attachment-medium size-medium wp-image-1526" alt="" srcset="/wp-content/uploads/2024/06/lACCHA-kATORI-300x300.webp 300w, /wp-content/uploads/2024/06/elementor/thumbs/lACCHA-kATORI-qrlkioxpfwj3yy9whmp8nw6gcciwym3ruxrehrfxp8.webp 150w, /wp-content/uploads/2024/06/elementor/thumbs/lACCHA-kATORI-qrlkioxotz4w5y71a69nlur9tof3mqhwx1gtf27boo.webp 100w, /wp-content/uploads/2024/06/elementor/thumbs/lACCHA-kATORI-qrlkioxo81qocy462pu2jtc3b0baauw1z568ccypo4.webp 50w, /wp-content/uploads/2024/06/lACCHA-kATORI.webp 500w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+															<img loading="lazy" decoding="async" width="300" height="300" src="/wp-content/uploads/2024/06/lACCHA-kATORI-300x300.webp" class="attachment-medium size-medium wp-image-1526" alt="" srcset="/wp-content/uploads/2024/06/lACCHA-kATORI-300x300.webp 300w, /wp-content/uploads/2024/06/lACCHA-kATORI-150x150.webp 150w, /wp-content/uploads/2024/06/lACCHA-kATORI.webp 500w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-d7d146b elementor-widget elementor-widget-heading" data-id="d7d146b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -1132,7 +1132,7 @@ Sweets &amp; Namkeens</span><br>Now available at</h2>				</div>
 				<div class="elementor-element elementor-element-05b2f49 elementor-align-left elementor-widget elementor-widget-button" data-id="05b2f49" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="/wp-content/uploads/2026/04/Menu-Print-File-24x36-inches-With-bleed.pdf">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/menu">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">View Menu</span>
 					</span>
